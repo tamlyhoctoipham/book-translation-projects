@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tomorrow is Tuesday.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Dale Nguyen" changedate="20150912T144436Z" creationid="Dale Nguyen" creationdate="20150912T144436Z">
+        <seg>Ngày mai là thứ Hai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will go to the park.</seg>
       </tuv>
       <tuv lang="VI" changeid="Tu" changedate="20150723T025341Z" creationid="Tu" creationdate="20150723T025341Z">
