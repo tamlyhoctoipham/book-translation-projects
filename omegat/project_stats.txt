@@ -1,0 +1,16 @@
+9/12/15 11:29 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      11	   44	                        173	                          206	     3	
+Remaining:       	      10	   41	                        159	                          190	     3	
+Unique:          	      11	   44	                        173	                          206	     3	
+Unique Remaining:	      10	   41	                        159	                          190	     3	
+
+
+Individual File Statistics:
+
+File Name 	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+dale.txt  	             4	                 3	              4	                        3	         14	             11	          14	                    11	                               58	                                   44	                                58	                                          44	                                 68	                                     52	                                  68	                                            52	
+nam.txt   	             4	                 4	              4	                        4	         18	             18	          18	                    18	                               64	                                   64	                                64	                                          64	                                 78	                                     78	                                  78	                                            78	
+nguyet.txt	             3	                 3	              3	                        3	         12	             12	          12	                    12	                               51	                                   51	                                51	                                          51	                                 60	                                     60	                                  60	                                            60	
