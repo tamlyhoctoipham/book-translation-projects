@@ -44,6 +44,14 @@
         <seg>Hôm nay là thứ hai.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tomorrow is Tuesday.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Dale Nguyen" changedate="20151006T134600Z" creationid="Dale Nguyen" creationdate="20151006T134600Z">
+        <seg>Ngày mai là thứ ba.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
