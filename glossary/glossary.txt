@@ -1,4 +1,4 @@
-﻿Monday	Thứ hai
+Monday	Thứ hai
 Thuật Ngữ Tiếng Anh	Thuật Ngữ Tiếng Việt
 a degree of convergence	mức độ hòa nhập
 a national training interviewing initiative	sáng kiến đào tạo phỏng vấn quốc gia
@@ -439,17 +439,3 @@ witness	nhân chứng
 witnesses's accounts	biên bản khai của người làm chứng
 wriggle	quanh co
 wrongdoer	người phạm pháp
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
