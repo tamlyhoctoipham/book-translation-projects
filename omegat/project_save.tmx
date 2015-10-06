@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>Chapter ten.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Nga" changedate="20151006T154607Z" creationid="Nga" creationdate="20151006T154607Z">
-        <seg>Chapter ten.Chương Mười</seg>
+      <tuv lang="VI" changeid="Nga" changedate="20151006T154701Z" creationid="Nga" creationdate="20151006T154607Z">
+        <seg>Chương Mười</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +82,22 @@
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151006T153700Z" creationid="Jennifer Tran" creationdate="20151006T153700Z">
         <seg>Những nhận thức của công chúng về lực lượng cảnh sát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; rehabilitation of offenders:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151006T154725Z" creationid="Nga" creationdate="20151006T154725Z">
+        <seg>Quá trình cải tạo phạm nhân:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>what&lt;t0/&gt; works?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151006T154807Z" creationid="Nga" creationdate="20151006T154807Z">
+        <seg>Liệu có hiệu quả?&lt;t0/&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
