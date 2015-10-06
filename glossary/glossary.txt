@@ -1,1 +1,455 @@
-Monday	Thứ hai
+﻿Monday	Thứ hai
+Thuật Ngữ Tiếng Anh	Thuật Ngữ Tiếng Việt
+a degree of convergence	mức độ hòa nhập
+a national training interviewing initiative	sáng kiến đào tạo phỏng vấn quốc gia
+aberrant sexual preference	khuynh hướng tình dục khác thường
+abiding conviction of guilt	giữ nguyên bản án
+absenteeism	vắng mặt không lý do
+abuser	kẻ lạm dụng
+accreditation criteria	tiêu chuẩn đáng tin cậy
+accuracy	tính chính xác
+Accusatory	có tính cách buộc tội, tố cáo
+achieve closure	đạt được thỏa thuận
+Acknowledgement	Sự công nhận
+actual and substantial doubt	nghi ngờ thực tế và đáng kể
+actuarial	thống kê tính toán bảo hiểm
+admissibility	tính chấp nhận được
+adversarial	đối địch
+advisory	tư vấn
+advocate	người ủng hộ
+Aggressive	xung hấn
+aggressor	yếu tố gây hấn/ yếu tố bất lợi
+aid	phụ trợ
+an independent committe of inquiry	ủy ban điều tra độc lập
+Analysis	phân tích
+anger excitation	sự kích thích do tức giận
+anger reataliation	sự trả đũa do tức giận
+anus	hậu môn
+apprehend	nhận biết
+apprehension	sự lĩnh hội, am hiểu
+Approach	tiếp cận
+arousal	kích thích
+array of duties	phân phối trách nhiệm
+arson	phóng hỏa
+aspect	khía cạnh
+assertive	quyết đoán
+assess	đánh giá
+assumption	giả định
+Attorney General’s Guidelines	Hướng dẫn chung cho luật sư
+Australian Bureau of Statistics	Cục Thống kê Úc
+authoritarianism	(sự) độc đoán
+Autonomous	tự trị
+aversion therapy	liệu pháp ác cảm
+bear in mind	ghi nhớ
+Behavioural cues	Các dấu hiệu hành vi
+behavioural indicators	những chỉ điểm tố giác về hành vi
+betting shop	văn phòng của người đánh cá ngựa
+bigamist	người vi phạm chế độ một vợ, một chồng.
+bobby on the beat	cảnh sát tuần tra
+British Academy of Forensic Sciences	viện hàn lâm Anh về khoa học điều tra
+brutal murder	giết người tàn bạo
+buffer zone	vùng đệm
+burglar	kẻ trộm đêm
+campaign	chiến dịch
+canteen culture	văn hóa căn-tin
+Capital punishment	án tử hình
+case linkage	kết nối vụ án
+Chief Inspector of Prisons	Chánh thanh tra
+child grooming	là hành động thiết lập mối quan hệ thân mật với một đứa trẻ nhằm dụ dỗ, lợi dụng nó
+child molester	kẻ xâm hại trẻ em
+Church law	luật của Nhà Thờ
+CID (Criminal Investigation Department)	Cục điều tra tội phạm (Cục điều tra hình sự)
+Circle Theory of Environmental Range	lý thuyết vòng tròn về phạm vi môi trường sống
+client	thân chủ/khách hàng
+clinical	lâm sàng
+clinical anxiety	lo âu lâm sàng
+Clinical profiling	Lập hồ sơ theo phương pháp lâm sàng
+coerced-compliant	cưỡng chế tuân thủ
+coerced-internalized	ép buộc từ bên trong
+coercion	sự ép buộc
+cognitive behavioural principle	liệu pháp nhận thức hành vi
+cognitive distortion	sự lệch lạc về nhận thức
+cognitive interview	phỏng vấn về nhận thức
+cognitive operations	hợp tác về nhận thức
+collaborare	hợp tác
+commendable striving	phấn đấu đáng khen ngợi
+commercial robber	kẻ cướp thương mại
+commit	phạm tội
+common sense	thường thức
+Community-base sentence	hình phạt dựa trên cộng đồng
+Commuter	người di chuyển hàng ngày
+complex statistical	thống kê phức tạp
+composition	sự cấu thành
+Conceptualize	Quan niệm hóa, nhận thức hóa
+confession-driven model	mô hình thúc đẩy sự thú nhận
+conjecture or fanciful doubt	mối nghi ngờ phỏng đoán hoặc không có thật
+consensus	sự đồng thuận/nhất trí
+consent	đồng thuận
+conservatism	(sự) bảo thủ
+constitutes routine police activities	các hoạt động thường lệ của cảnh sát
+contemporary	đương thời
+Control Question Test	Bài kiểm tra khả năng kiểm soát
+conviction	sự kết án
+coping mechanism	cơ chế sao chép
+Corporal	về thể xác
+Correctional Service of Canada	Cơ quan Cải huấn Canada
+cost-benefit analysis	phân tích chi phí-lợi ích
+Court of Appeal	Tòa phúc thẩm
+courtroom language	ngôn ngữ phòng xử án
+courtroom linguists	ngôn ngữ phòng xử án
+covert sensitization	gán 1 thói hư tật xấu nào đó với 1 hình ảnh tiêu cực để triệt thoái thói hư đó
+Crime Reduction Programme	Chương Trình Giảm Thiểu Tội Ác
+Criminal Justice Act	đạo luật hình sự
+criminal justice system	hệ thống tư pháp hình sự
+Criminal profiling	thiết lập hồ sơ tội phạm
+Criminal psychologist	Nhà tâm lý học tội phạm
+Criminal range	phạm vi phạm tội
+criminal setting	hệ thống sắp đặt tội phạm
+Criminogenic factor	Tội phạm tiềm ẩn
+Criminogenic needs	Các nhu cầu dẫn đến phạm tội
+Criteria-based	căn cứ theo tiêu chí
+criterion	tiêu chuẩn
+criticize	chỉ trích
+cross-examination	đối thẩm
+cross-examine	Sự thẩm vấn/ buổi thẩm vấn
+cross-racial identification	dạng nhận dạng khác màu da
+cross-situational consistency	sự kiên định/ chắc chắn trong mọi tình huống
+defendant	bị cáo
+demographic characteristics	đặc điểm nhân khẩu học
+Describing	mô tả
+Detecting deception	Phát hiện sự lừa dối
+detection of deception	Sự phát hiện lừa dối
+deterioation	(sự) sa đọa
+deterrence	sự ngăn cản
+Deviant	người có hành vi sai lệch so với những quy chuẩn
+dilemma	tiến thoái lưỡng nan, tình trạng khó xử
+discomfort	lo lắng, bực dọc
+Discriminated	phân biệt đối xử
+distance decay	phân rã khoảng cách
+distinctions	phân biệt
+Distorted attitudes	thái độ lệch lạc
+distractor	yếu tố gây xao nhãng
+distress	nỗi buồn
+dogmatism	(sự) giáo điều
+domestic violence	bạo lực gia đình
+dominant language	ngôn ngữ chính
+duplication	bản sao
+earwitness testimony	chứng thực của nhân chứng nghe thấy mọi việc (chỉ tội ác)
+Eclectic	người chiết trung (người trung gian chuyển ý tuởng, suy nghĩ, nhận xét từ nhiều nguồn rộng và đa dạng xuống)
+ecologically	môi trường / sinh thái
+economic deprivation	(sự) tước đoạt về hoạt động kinh tế/mất kế sinh nhai
+empathy	sự thấu cảm
+empirical	kinh nghiệm
+empirical evidence	thông tin được chứng thực từ sự quan sát/ trải nghiệm
+encompass	chứa đựng
+encounter	sự chạm trán
+Endorsed	tán thành
+enforced removal	tước bỏ bắt buộc
+engage in	tiến hành
+Environmental criminology	môn tội phạm học về môi trường
+error-prone	dễ bị lỗi
+ethical psychological notion	khái niệm tâm lý đạo đức
+ethically and morally questionable procedures	thủ tục có vấn đề về đạo đức và luân lý
+ethnicity	dân tộc/ chủng tộc
+evidence of linguistic competence	chứng cứ về năng lực ngôn ngữ
+evidence of meaning	bằng chứng của ý nghĩa
+evidence-based practice	hoạt động/ chữa trị dựa trên các bằng chứng khoa học
+examinations-in-chief	người kiểm tra chính
+exhaustive	thấu đáo
+experimental	thực nghiệm
+eyewitness research	nghiên cứu về nhân chứng
+eyewitness testimony	lời khai của nhân chứng
+false confession	lời thú nhận giả / khai man
+FBI	cục điều tra liên bang
+Federal	liên bang
+fellow prisoner	bạn tù
+feminist researchers	các nhà nghiên cứu về nữ quyền
+financial reward	phần thưởng tài chính
+fledging discipline	ngành nghiên cứu non trẻ
+foil	giấy nhôm, giấy bạc/ làm nền
+forensic linguistics	ngôn ngữ học pháp lý
+forensic psychologist	nhà tâm lý học pháp y / điều tra
+forensic psychology	tâm lý học pháp y
+frailties	những điểm yếu
+futility of denial	phủ nhận vô ích
+gauge	đánh giá, phán đoán
+Gay Police Association	Hiệp hội Cảnh sát Đồng tính
+genenarl attorney	văn phòng luật sư công
+General Health Questionnaire	Bảng câu hỏi sức khỏe tổng quát
+Geographical profiling	Lập hồ sơ tội phạm dựa theo yếu tố địa lý
+glean	lượm lặt
+grammatical structure	cấu trúc ngữ pháp
+grievance procedure	thủ tục giải quyết khiếu nại
+grooming	chải chuốt / chuẩn bị
+ground truth	thực địa
+Guillotine	Máy chém
+Guilty Knowledge Test	Bài kiểm tra sự nhận biết các hành vi phạm tội
+have-a-go-hero	người ngăn cản các hành vi phạm tội mặc cho an nguy của mình
+heterosexual relationship	Quan hệ khác giới
+hierarchy	hệ thống cấp bậc
+high stake	độ nguy hiểm cao
+historic language	ngôn ngữ lịch sử
+home range	phạm vi cư trú
+homology assumption	giả định tương đồng
+homophobic	sợ/ kỳ thị đồng tính
+horrendous	khủng khiếp
+hunter	kẻ đi săn
+hypnosis	sự thôi miên
+identification parade/line-up	hàng người được đưa ra để nhân chứng nhận diện
+idiosyncratic	đặc tính / phong cách riêng/ đặc thù (nghĩa xấu)
+illegal activity	hoạt động phi pháp
+imaginary doubt	nghi ngờ tưởng tượng
+impetus	sự thúc đẩy
+imprisonment	(sự) giam giữ
+impulsive	hấp tấp
+impulsivity	sự bốc đồng
+in jail	ở nhà tạm giam
+in line with	ngang hàng / đồng hành
+in prison	ở tù
+incarceration	(sự) tống giam
+index offence	chỉ số hành vi phạm tội
+Indicate	biểu thị
+Individuals	các cá nhân
+inferring/ inference	sự suy luận/ suy luận
+inform	cung cấp tài liệu, tin tức (để buộc tội ai)
+informant	người cung cấp tin tức
+inhibition	ngăn chặn / ức chế
+inmate code	mã số tù nhân
+innocence project	dự án vô tội
+institutional racism	sự phân biệt chủng tộc có tính chất cơ quan
+integrity	sự chính trực
+internal bodily activities	hoạt động bên trong cơ thể
+International Centre for Prison Studies	Trung tâm Nghiên cứu Nhà tù Quốc tế
+interrogators	người thẩm vấn
+intuition	trực giác
+judicial proceeding	tố tụng pháp lý
+judicial system	hệ thống tư pháp
+juror	thành viên bồi thẩm đoàn
+justification	bào chữa, biện hộ
+juvenile detention centre	Trung tâm giam giữ vị thành niên
+known offences	những vụ phạm tội đã biết
+language of the law	ngôn ngữ của pháp luật
+law-abiding citizen	công dân tuân thủ pháp luật
+legal	hợp pháp
+legal context	bối cảnh pháp lý
+legal examination	kiểm tra pháp lý
+legal language	ngôn ngữ pháp lý
+legal profession	nghề luật
+legal representation	đại diện hợp pháp
+legal system	hệ thống pháp luật
+legal texts	văn bản quy phạm pháp luật
+lethal violence	bạo lực gây chết người
+lexical diversity	sự đa dạng về từ vựng
+life sentence	tù chung thân
+likelihood	khả năng
+linguistic	ngôn ngữ học
+linguistic analysis	phân tích ngôn ngữ
+linguistic competence	năng lực ngôn ngữ
+linguistically vulnerable	có vấn đề về ngôn ngữ
+long sentence	án tù lâu lăm
+longer response latency	sự ngầm hưởng ứng lâu dài
+Lynch mob	đám đông xét xử
+Lynching	Lối hành hình không cần xét xử
+maladaptive strategy	chiến lược không thích nghi
+mandated	được cho phép
+manipulate	kiểm soát
+Marauder	kẻ cướp
+martial court	tòa án binh
+mediate	dàn xếp
+mental map	bản đồ trí nhớ
+mere possible doubt	chỉ có thể nghi ngờ
+Meta-analysis	Phân tích tổng hợp
+meticulously	tiỉ mỉ, quá kĩ càng
+Miranda rights	Quyền Miranda
+miscarriage of justice	vụ án xử oan
+monologue	độc thoại
+moral reasoning training	Huấn luyện về lâp luận đạo đức
+murder	vụ án mạng, tội giết người
+mutilation	 "chết không toàn thây", bị phân thây hay bị phá hủy nặng nề
+nausea-inducing drug	thuốc gây ra các cảm giác ói mửa (thường dùng trong liệu pháp ác cảm )
+Neighbourhood Warden Schemes	Các kế hoạch về hoạt động dân phòng
+non-consensual sexual act	hành vi tình dục không được đồng thuận
+non-custodial study	nghiên cứu không trực tiếp trong tù
+notion	ý niệm, quan niệm
+notoriety	trạng thái rõ ràng
+offence	tội ác
+offence-specific	tội ác đặc thù
+offender	người phạm tội
+offender consistency hypothesis	giả thuyết về tính nhất quán của hành vi phạm tội
+offender profilers	người lập hồ sơ tội phạm
+offender profiling	lập hồ sơ tội phạm
+on release	phóng thích
+oppressive	áp chế
+ostracism	tẩy chay, trục xuất
+overlap	chồng chéo
+paedolphile	người có khoái cảm tình dục với trẻ con
+palmar sweating	sự đổ mồ hôi gan bàn tay
+parameter	thông số
+Participants observe	những người tham gia quan sát
+particular type	hình mẫu cụ thể
+pattent letters	giấy chấp thuận, đặc ân từ hoàng gia, tổng thống
+Pattern Theory	Lý thuyết Kiểu mẫu
+penetration	xâm nhập
+penis	dương vật
+perceived distance	khoảng cách cảm nhận
+perception	nhận thức
+perpetrator	thủ phạm
+perspective	quan điểm
+persuasive/manipulative tactics	chiến thuật thuyết phục/ lôi kéo
+pioneering	tiên phong
+poacher	kẻ săn trộm
+Police and Criminal Envidence Act	Đạo luật về Cảnh sát và Bằng chứng Phạm tội
+Police civilian staff	nhân viên cảnh sát dân sự
+Police Community Support Officers	Những đồng chí trong cộng đồng ủng hộ cảnh sát
+police service representative	đại diện dịch vụ cảnh sát
+policy-maker	nhà hoạch định chính sách
+polypraph	máy phát hiện nói dối
+pool with sth	cùng với cái gì...
+portray	mô tả
+possible doubt	có thể nghi ngờ
+post-mortem reports	báo cáo khám nghiệm tử thi
+Post-traumatic Stress Disorder (PTSD)	Rối loạn stress sau sang chấn
+power assertive	khẳng định quyền lực
+power excitation	hứng thú với quyền lực
+power reassurance	đảm bảo quyền lực
+practicality	tính thực tế
+preconviction	tiền kết tội
+predominantly	chủ yếu
+Premeditation	hành động chủ tâm
+preoccupation	sự ám ảnh
+prioritize	ưu tiên
+Prison and Probation Service	Cơ quan quản lý nhà tù và giám sát phạm nhân
+Private Security Industry Act	Đạo luật về Lĩnh vực An ninh Tư nhân
+probalistic	xác suất
+probation area	khu vực quản chế
+probation services	institutions that treat young offenders
+prominence	nổi bật
+prosecution	bên khởi tố
+prosecution	việc khởi tố
+psychological disturbance	rối loạn tâm lý
+psychological intervention	can thiệp tâm lý
+psychologically	tâm lý
+psychometric test	bài kiểm tra tâm lý
+psychometric tests	các bài kiểm tra tâm lý (thuật ngữ thường dùng trong tuyển dụng các ngành đòi hỏi tính chất nhân cách đặc thù)
+publication	xuất bản
+punishment	hình phạt
+questionnaire-based measures	phương pháp bảng câu hỏi
+Randomized Control Trial (RCT)	(phương pháp) Đối chứng ngẫu nhiên
+Range of attention narrows	phạm vi hẹp của sự chú ý
+rape	cưỡng hiếp
+rape trial	xét xử hiếp dâm
+rapist	người phạm tội hãm hiếp
+rational choice	sự lựa chọn dựa trên lý trí
+Rationale	lý do căn bản
+re-victimization	tái nạn nhân
+reality monitoring	giám sát thực tế
+reasonable doubt	mối nghi ngờ hợp lý
+recidivism	(sự) tái phạm
+recollection	hồi ức
+Recommended Further Reading	Những bài viết nên đọc
+Reconviction	Tái kết án
+reductivism	tính thu hẹp lại
+rehabilitation	(sự) cải tạo
+relapse prevention	ngăn chặn tái phạm
+relevant	liên quan/ can hệ
+remand prisoner	phạm nhân vẫn đang được điều tra
+reoffending	(Sự) tái phạm
+retrieval	sự phục hồi
+Routine Activities Theory	Lý thuyết Các hoạt động Thường ngày
+Royal Commission On Crimminal Procedure	Ủy ban Hoàng gia về Quy trình Tố tụng Tội phạm
+sampling	lấy mẫu
+Savagery	tính tàn ác
+seek out	nhằm tìm kiếm
+self-esteem	tự trọng
+self-management	tự chủ
+seminal	hội nghị
+sentence	bản án
+sentenced prisoner	tù nhân đã bị kết án
+Separation	Cách ly
+sequencing, intensity and duration	chuỗi (trong di truyền học), độ mạnh và thời luợng
+serial arsonist	kẻ phóng hỏa hàng loạt
+seriousness of the offence	mức độ vi phạm
+Sex Discrimination Act	Đạo luật phân biệt giới tính
+sex offender	tội phạm tình dục
+sex offender rehabilitation programme	chương trình cải tạo tội phạm tình dục
+Sex Offender Treatment Programme (SOTP)	Chương trình điều trị cho tội phạm tình dục
+sex offending	quấy rối tình dục
+Sexual abuse	lạm dụng tình dục
+sexual behaviour	hành vi tình dục
+sexual fantasies	những tưởng tượng tinh dục
+sexual interests	sở thích tình dục
+sexual victimization	nạn nhân hoá tình dục
+show-up	sự lộ diện
+sketch	bản phác thảo
+skew	làm trệch
+Skillstreaming	tuyến kỹ năng
+solicitor	cố vấn pháp lý
+sound judgement	khả năng đánh giá tình huống hoặc hoàn cảnh một cách sắc sảo và rút ra kết luận
+spatial	không gian
+Statement Validity Assessment	Đánh giá Tính hiệu lực của Báo cáo
+Statements	sư bày tỏ, tường thuật
+statistical	thống kê
+Stereotypical	Khuôn mẫu
+stressor	Tác nhân ứng suất
+stressors	căng thẳng
+strive	phấn đấu, cố gắng
+subculture	tiểu văn hóa
+substance abuse	lạm dụng chất gây nghiện
+supervision	sự giám sát
+Supreme Court	Tòa án Tối cao
+suspect	nghi phạm
+Suspicious	khả nghi, đáng ngờ
+target object	mục tiêu, đối tượng nhắm đến
+testify	làm chứng, khai, xác/chứng nhận
+The Aggression Replacement Training programme (ART)	Chương trình Huấn luyện Thay đổi Hành vi Bạo lực/ Tính bạo lực
+the attorney general	Bộ tư pháp
+the Conqueror's invasion	cuộc xâm lăng của Conqueror
+the crime of rape	tội hiếp dâm
+the government commissioned	chính phủ ủy quyền
+The Home Office	Bộ Nội Vụ
+the legal point	quan điểm pháp lý
+The National Society for the Prevention of Cruelty to Children (NSPCC)	Hiệp hội Phòng chống ngược đãi trẻ em Anh
+the precision	sự chính xác
+The Psychology of Person Identiﬁcation	Tâm lý học xác định danh tính
+The rehabilation of offenders	Cải tạo phạm nhân
+the responsivity principal	Nguyên tắc đáp ứng
+The risk principle	Nguyên tắc nguy cơ
+The Sexual Offences Act	Luật vi phạm tình dục
+Threshold	ngưỡng
+Thug	kẻ cướp; côn đồ, du côn, ác ôn
+timescale	thang thời gian
+to underpin modern criminal pschology	làm cơ ở cho TLHT hiện đại
+tough on crime	xử phạm tội phạm rất nặng
+traumatic	(tính) sang chấn
+treat	xử lí
+trial	phiên tòa
+trigger off	khởi sự
+typology	hệ thống các loại hình
+umbrella term	thuật ngữ mang tính khái quát
+underpinning	nền tảng
+undetected	không bị phát giác
+US Department of Justice	Bộ Tư pháp Hoa Kỳ
+utilitarianism	thuyết vị lợi (hành động phải được đánh giá theo sự có ích cho đa số
+utilization	sự tận dụng
+vagina	âm đạo
+victim	nạn nhân
+victimization	sự ngược đãi/ sự biến thành nạn nhân
+vulnerabilities	những nhược điểm
+witness	nhân chứng
+witnesses's accounts	biên bản khai của người làm chứng
+wriggle	quanh co
+wrongdoer	người phạm pháp
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
