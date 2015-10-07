@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this sense, our knowledge about what constitutes an effective intervention can only ever be as good as the standard of research that is conducted in this area.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151007T150344Z" creationid="USER" creationdate="20151007T150344Z">
+        <seg>Trong trường hợp này, kiến thức của chúng ta về cấu tạo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction to the Team Project feature in OmegaT (OmegaT support)</seg>
       </tuv>
       <tuv lang="VI" changeid="Hanthuy" changedate="20130115T115538Z">
