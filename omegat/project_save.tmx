@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actions or behaviour which are now acceptable within most Western cultures – for example homosexuality and abortion – were not in the past.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151007T151012Z" creationid="Lenovo" creationdate="20151007T151012Z">
+        <seg>Các hành đọng hoặc lối cư xử ngày nay được chấp nhận ở phần lớn văn hóa phương Tây - ví dụ như đồng tính và phá thai - đã không được chấp nhận trước đây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As well as sometimes participating in court cases, forensic linguists also have an academic interest in the workings of the court- room.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T005446Z" creationid="dinhquy" creationdate="20151007T005446Z">
@@ -446,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The nature of punishment for wrongdoing, just as the nature of crime, changes over time and across cultures.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151007T150846Z" creationid="Lenovo" creationdate="20151007T150846Z">
+        <seg>Bản chất của việc trừng phạt những hành động phạm pháp, giống như bản chất của tội ác, thay đổi theo thời gian và theo các văn hóa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The question of whether offenders who behave in a similar manner during their crimes also share similar demographic characteristics has been examined using a sample of stranger rapists, but the study found no evidence to support this.</seg>
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151007T024351Z" creationid="The sun" creationdate="20151007T024351Z">
@@ -568,8 +584,8 @@
       <tuv lang="EN-US">
         <seg>What is considered acceptable by society, to what extent this differs between societies or cultures, and how has this changed throughout history will be just some of the topics discussed in this chapter.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Lenovo" changedate="20151006T164027Z" creationid="Lenovo" creationdate="20151006T164027Z">
-        <seg>Điều mà xã hội cho là có thể chấp nhận được,ở mức độ mà điều này thay đổi giữa các.</seg>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151007T150710Z" creationid="Lenovo" creationdate="20151006T164027Z">
+        <seg>Điều mà xã hội cho là có thể chấp nhận được,ở mức độ mà điều này thay đổi giữa xã hội hoặc nền văn hóa khác nhau và cách điều này thay đổi trong suốt lịch sử sẽ là 1 trong sô những chủ đề được đề cập đến trong chương này.</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +602,14 @@
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T005206Z" creationid="dinhquy" creationdate="20151007T005206Z">
         <seg>Ngôn ngữ phòng xử án&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>history and philosophy of punishment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151007T150743Z" creationid="Lenovo" creationdate="20151007T150743Z">
+        <seg>Lịch sử và tính triết lý của việc trừng phạt .</seg>
       </tuv>
     </tu>
     <tu>
