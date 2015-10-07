@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Much of the eyewitness research conducted by psychologists has focused on making identification procedures as fair as possible (to the suspect/the accused).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151007T013812Z" creationid="ADMIN" creationdate="20151007T013812Z">
+        <seg>Đã có nhiều nghiên cứu về nhân chứng được các nhà tâm lý học thực hiện tập trung vào việc làm cho quá trình nhận diện được diễn ra một cách công bằng nhất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One area which has been well examined is that of rape trials.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T010932Z" creationid="dinhquy" creationdate="20151007T010932Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T010051Z" creationid="dinhquy" creationdate="20151007T010051Z">
         <seg>Họ đã thực hiện các phân tích câu hỏi trong phòng xử án của luật sư, lời khai của nhân chứng, các phát quyết của thẩm phán và trong các hướng dẫn của họ đến bồi thẩm đoàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This involves reducing the likelihood of false identifications while enabling correct identifications to occur.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151007T014058Z" creationid="ADMIN" creationdate="20151007T014058Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
