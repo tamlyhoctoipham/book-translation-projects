@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>courtroom  language&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151007T005206Z" creationid="dinhquy" creationdate="20151007T005206Z">
+        <seg>Ngôn ngữ phòng xử án&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>public perceptions of the police.</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151006T153700Z" creationid="Jennifer Tran" creationdate="20151006T153700Z">
