@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>As well as sometimes participating in court cases, forensic linguists also have an academic interest in the workings of the court- room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151007T005446Z" creationid="dinhquy" creationdate="20151007T005446Z">
+        <seg>Trong khi tham gia các ca xử án, nhà ngôn ngữ học pháp y cũng có một quan tâm học thuật trong các công việc của các phòng xử án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both police and citizens support the concept that effective policing requires public support, therefore to provide a professional police service the police must work with the community.</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151006T164858Z" creationid="Jennifer Tran" creationdate="20151006T160749Z">
