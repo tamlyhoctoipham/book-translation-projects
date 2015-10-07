@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can further be argued that society’s wider attitudes to sexual &lt;t0/&gt;behaviour&lt;t1/&gt; and relationships between the sexes can all be examined through the microcosm of a rape trial.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151007T013404Z" creationid="dinhquy" creationdate="20151007T013404Z">
+        <seg>Nó có thể được lập luận rằng quan điểm xã hội phổ biến về hành vi tình dục và mối liên quan đến giới tính có thể kiểm tra qua phiên toà xét xử hiếp dâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can take many forms, such as psycho- logical, financial, emotional or physical suffering.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151006T162750Z" creationid="Lenovo" creationdate="20151006T162206Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T010932Z" creationid="dinhquy" creationdate="20151007T010932Z">
         <seg>Phiên tòa xét xử hiếp dâm là một nơi làm minh hoạ tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One example of a linguistic analysis of rape trials is Susan Ehrlich’s (2001) work.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151007T013609Z" creationid="dinhquy" creationdate="20151007T013609Z">
+        <seg>Một ví dụ của phân tích ngôn ngữ của xét xử hiếp dâm là nghiên cứu của Susan Ehrlich (2001)</seg>
       </tuv>
     </tu>
     <tu>
