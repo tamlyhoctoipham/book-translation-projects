@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The box above summarizes the evidence-based criteria that the CSAP have adopted.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151007T145437Z" creationid="USER" creationdate="20151007T145437Z">
+        <seg>Bảng tóm tắt bên trên căn cứ theo tiêu chí mà CSAP đã thông qua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chapter will also talk about the effectiveness of these treatments; do the punishments work?</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T130811Z" creationid="Demon" creationdate="20151007T130811Z">
