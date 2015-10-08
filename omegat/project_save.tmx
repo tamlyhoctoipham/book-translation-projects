@@ -334,10 +334,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the offenders are assessed as being at ‘high risk’ of reoffending, then schools, community groups and members of the public, such as &lt;t2/&gt;neighbours&lt;t3/&gt;, will be notified.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T165233Z" creationid="Demon" creationdate="20151008T165233Z">
+        <seg>Nếu các tội phạm bị đánh giá là ở mức "nguy hiểm cao" có thể tái phạm, th</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the offenders are assessed as being ‘medium risk’ of reoffending, then schools and community groups that may encounter those offenders will be notified.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Demon" changedate="20151008T164645Z" creationid="Demon" creationdate="20151008T164645Z">
-        <seg>Nếu những tội phạm đó bị đánh giá là ở mức "nguy hiểm trung bình" </seg>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T165135Z" creationid="Demon" creationdate="20151008T164645Z">
+        <seg>Nếu những tội phạm đó bị đánh giá là ở mức "nguy hiểm trung bình" có thể tái phạm, thì trường học và các cộng đồng có liên quan đến những người này đều sẽ được thông báo. </seg>
       </tuv>
     </tu>
     <tu>
