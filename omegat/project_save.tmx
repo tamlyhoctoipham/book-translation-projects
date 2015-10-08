@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While this indicator is useful from a policy perspective, it is only an approximation of reoffending.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151008T155808Z" creationid="USER" creationdate="20151008T155808Z">
+        <seg>Trong khi nhân tố chỉ thị rất hữu dụng với một quan điểm cư xử, thật ra nó chỉ là việc gần như tái phạm của con người.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aspects&lt;t0/&gt; of the investigation.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151007T014336Z" creationid="ADMIN" creationdate="20151007T013238Z">
