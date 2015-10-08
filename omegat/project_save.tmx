@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the offenders are assessed as being ‘medium risk’ of reoffending, then schools and community groups that may encounter those offenders will be notified.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T164645Z" creationid="Demon" creationdate="20151008T164645Z">
+        <seg>Nếu những tội phạm đó bị đánh giá là ở mức "nguy hiểm trung bình" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the standard of the research is poor, then the conclusions may be incorrect and our knowledge base will contain errors.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151007T164632Z" creationid="USER" creationdate="20151007T164632Z">
@@ -992,8 +1000,8 @@
       <tuv lang="EN-US">
         <seg>This stated that when sex offenders are released into the community, that community will be ‘actively notified’ of their presence.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Demon" changedate="20151008T163652Z" creationid="Demon" creationdate="20151008T163652Z">
-        <seg>Điều này khẳng định rằng</seg>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T164334Z" creationid="Demon" creationdate="20151008T163652Z">
+        <seg>Luật này phát biểu rằng khi những tội phạm tình dục được thả tự do về cộng đồng, nơi đó sẽ được "tích cực thông báo" về sự hiện diện của những người này.  </seg>
       </tuv>
     </tu>
     <tu>
