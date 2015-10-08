@@ -544,8 +544,8 @@
       <tuv lang="EN-US">
         <seg>Megan &lt;t0/&gt;Kanka&lt;t1/&gt; was a seven-year-old girl who was raped and murdered by a convicted sex offender in 1994 in New Jersey, USA.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Demon" changedate="20151008T162414Z" creationid="Demon" creationdate="20151008T162414Z">
-        <seg>Megan Kanka là một cô bé 7 tuổi, bị cưỡng hiếp và sát hại bởi một </seg>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T163532Z" creationid="Demon" creationdate="20151008T162414Z">
+        <seg>Megan Kanka là một cô bé 7 tuổi, bị cưỡng hiếp và sát hại bởi một kẻ quấy rối tình dục vào năm 1994 ở New Jersey, Mỹ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This stated that when sex offenders are released into the community, that community will be ‘actively notified’ of their presence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T163652Z" creationid="Demon" creationdate="20151008T163652Z">
+        <seg>Điều này khẳng định rằng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This system comprised a Joint Prison and Probation Accreditation Panel (now entitled the Correctional Services Accreditation Panel – CSAP) which was set up in order to ensure that programmes developed for offenders in prison and on probation were grounded in the best available research evidence of the day.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151007T051502Z" creationid="USER" creationdate="20151007T045641Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T134339Z" creationid="Demon" creationdate="20151007T134124Z">
         <seg>Đây là một sự tăng trưởng so với năm ngoái với 8,000 trường hợp, nhưng trong khoảng thời gian này, đạo luật về Tội ác Tình dục 2003 đã đi đến quyết định là những phương thức mới, như dụ dỗ và lạm dụng nhờ tín nhiệm đều phải được ghi nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three months after her murder the State of New Jersey passed the first version of Megan’s Law.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T163629Z" creationid="Demon" creationdate="20151008T163629Z">
+        <seg>Ba tháng sau cái chết của cô bé, bang New Jersey đã thông qua phiên bản đầu tiên của Luật Megan.</seg>
       </tuv>
     </tu>
     <tu>
