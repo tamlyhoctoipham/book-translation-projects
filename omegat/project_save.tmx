@@ -216,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>For example, it stands to reason that an offender who has been caught committing a residential burglary may not be responsive to a treatment programme which aims to address aggressive behaviour.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151008T164815Z" creationid="USER" creationdate="20151008T164121Z">
-        <seg>Thí dụ, để lí giải rằng một người phạm tội bị bắt giữ vì ăn trộm ở nhà dân có thể sẽ không thông cảm để tiến hành chương trình trị liệu với mục đích nhằm </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151008T165525Z" creationid="USER" creationdate="20151008T164121Z">
+        <seg>Thí dụ, thật rõ ràng khi lí giải rằng một người phạm tội bị bắt giữ vì ăn trộm ở nhà dân có thể sẽ không được thông cảm để tiến hành chương trình trị liệu với mục đích định vị các cư xử hung hăng. </seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +338,14 @@
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151007T154500Z" creationid="Lenovo" creationdate="20151007T154500Z">
         <seg>Nếu ai dó phạm tội thì anh ta hoặc cô ta phải bị trừng phạt vì những gì anh ta/ cô ta đã lầm, vì những gì đã xảy ra trong quá khứ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the burglar does not display aggressive behaviour, or if aggressive behaviour does not relate to his or her offending behaviour, then a programme with aggression as its main treatment target is not going to equip the burglar with the necessary skills to stop burgling homes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151008T165806Z" creationid="USER" creationdate="20151008T165614Z">
+        <seg>Nếu tên trộm không bộc lộ thái độ hung hăng hoặc nếu biểu hiện hung mãn đó không liên quan đến cách cư xử của hắn, rồi một chương trình  </seg>
       </tuv>
     </tu>
     <tu>
