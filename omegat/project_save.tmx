@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Megan &lt;t0/&gt;Kanka&lt;t1/&gt; was a seven-year-old girl who was raped and murdered by a convicted sex offender in 1994 in New Jersey, USA.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151008T162414Z" creationid="Demon" creationdate="20151008T162414Z">
+        <seg>Megan Kanka là một cô bé 7 tuổi, bị cưỡng hiếp và sát hại bởi một </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most research in this area uses reconviction (either ‘reconvicted’ or ‘not reconvicted’) as the measure by which treatment success or failure is evaluated.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T154658Z" creationid="USER" creationdate="20151008T154011Z">
