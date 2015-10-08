@@ -720,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>Some researchers have tried to counter these problems by utilizing self-report information from the individuals themselves or asking their family, friends and other associates about the individuals’ behaviour.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151008T161421Z" creationid="USER" creationdate="20151008T161421Z">
-        <seg>Một vài nhà nghiên cứu </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151008T162000Z" creationid="USER" creationdate="20151008T161421Z">
+        <seg>Một vài nhà nghiên cứu đã cố gắng phản đối những vấn đề này bằng cách tận dụng thông tin tự thuật từ nhiều cá nhân hoặc hỏi gia đình, bạn bè, người quen của họ về cách họ cư xử thường ngày.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +962,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151007T051502Z" creationid="USER" creationdate="20151007T045641Z">
         <seg>Hệ thống này bao gồm Cơ quan quản lý nhà tù và giám sát phạm nhân (bây giờ gọi là Ban cải huấn và chứng nhận gọi tắt là CSAP) được thành lập để đảm bảo chương trình phát triển cho những phạm nhân nhận án tù và án treo, họ sẽ được hỗ trợ những bằng chứng nghiên cứu có sẵn. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This type of research, however, can be time-consuming, expensive to conduct and is only ever as good as the accuracy of the reports received.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151008T162131Z" creationid="USER" creationdate="20151008T162131Z">
+        <seg>Tuy nhiên, nghiên cứu loại này có thể tốn thời gian, khá đắt để thực hiện va 2chi</seg>
       </tuv>
     </tu>
     <tu>
