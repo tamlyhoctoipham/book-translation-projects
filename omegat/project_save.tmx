@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The term ‘offender profiling’ is one with which most of us are familiar.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151008T024449Z" creationid="Hx" creationdate="20151008T024449Z">
+        <seg>Thuật ngữ "lập hồ sơ tội phạm" là một thuật ngữ mà hầu hết chúng ta đều quen thuộc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The use of the psychologist as an expert witness has, in the past, been constricted by the notion of the expert having to provide information that is beyond the knowledge of the average person.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151007T091253Z" creationid="Admin" creationdate="20151007T091253Z">
@@ -818,6 +826,14 @@
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151007T150743Z" creationid="Lenovo" creationdate="20151007T150743Z">
         <seg>Lịch sử và tính triết lý của việc trừng phạt .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>offender profiling and linking crime.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151008T024419Z" creationid="Hx" creationdate="20151008T024419Z">
+        <seg>Lập hồ sơ tội phạm và tội ác có liên kết.</seg>
       </tuv>
     </tu>
     <tu>
