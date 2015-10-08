@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>Conversely, the programme could have reduced the severity or frequency of an individual’s offending behaviour but the crude measure of reconviction would not detect this positive change.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151008T160743Z" creationid="USER" creationdate="20151008T160743Z">
-        <seg>Trái lại, chương trình này sẽ giảm tính nghiêm khắc</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151008T161340Z" creationid="USER" creationdate="20151008T160743Z">
+        <seg>Trái lại, chương trình này sẽ làm giảm tính nghiêm khắc và tần số cư xử phạm tội của riêng từng người nhưng giải pháp đơn giản mà thiếu chính xác của việc tái kết án này sẽ không nhận thấy được những thay đổi tích cực.</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +682,14 @@
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151007T151929Z" creationid="Lenovo" creationdate="20151007T151929Z">
         <seg>Vì thế nếu giết 1 người đàn ông, tên sát nhân phải trả 100 shillings cho gia đình nạn nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some researchers have tried to counter these problems by utilizing self-report information from the individuals themselves or asking their family, friends and other associates about the individuals’ behaviour.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151008T161421Z" creationid="USER" creationdate="20151008T161421Z">
+        <seg>Một vài nhà nghiên cứu </seg>
       </tuv>
     </tu>
     <tu>
