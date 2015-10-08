@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large-scale research projects are needed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151008T052614Z" creationid="USER" creationdate="20151008T052614Z">
+        <seg>Những dự án nghiên cứu quy mô lớn lúc này thực sự rất cần thiết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Males account for ninety-eight per cent of convicted sexual offenders (Youth Justice Board, 2004).</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T154950Z" creationid="Demon" creationdate="20151007T154950Z">
@@ -664,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>The call to discontinue the treatment programme based on such small studies could therefore be premature.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151008T052324Z" creationid="USER" creationdate="20151008T052324Z">
-        <seg>Việc ngừng chương trình điều trị dựa trên một số nghiên cứu nhỏ được thực hiện từ trước.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151008T052500Z" creationid="USER" creationdate="20151008T052324Z">
+        <seg>Những chương trình điều trị dựa trên một số nghiên cứu nhỏ nên ngừng thực hiện sớm.</seg>
       </tuv>
     </tu>
     <tu>
