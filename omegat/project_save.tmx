@@ -262,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Environmental stress.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151009T172413Z" creationid="yuko" creationdate="20151009T172413Z">
+        <seg>Căng thẳng, áp lực từ môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exaggerating the danger that sexual offenders pose is problematic and can increase public fear, stigmatize and hinder rehabilitation of offenders who have changed their lifestyles.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151008T161953Z" creationid="Demon" creationdate="20151008T161953Z">
         <seg>Phóng đại sự nguy hiểm của những kẻ quấy rối tình dục thì còn phản suy xét và có thể gia tăng hoang mang trong cộng đồng, bôi bác và cản trở quá trình cải tạo của những người phạm tội đã thay đổi cách sống của mình. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fear of violence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151009T172304Z" creationid="yuko" creationdate="20151009T172304Z">
+        <seg>Nỗi sợ bị bạo hành.</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +910,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Poor access to prison facilities (e.g. education).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151009T172359Z" creationid="yuko" creationdate="20151009T172359Z">
+        <seg>Khó khăn trong việc tiếp cận với các cơ sở vật chất ở nhà tù( ví dụ: Giáo dục).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poor access to support services.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151009T172434Z" creationid="yuko" creationdate="20151009T172434Z">
+        <seg>Thiếu thốn các dịch vụ hỗ trợ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ProZ.com Forums</seg>
       </tuv>
       <tuv lang="VI" changeid="Hanthuy" changedate="20130115T181727Z">
@@ -1410,6 +1442,14 @@
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151008T160349Z" creationid="Demon" creationdate="20151008T154506Z">
         <seg>Những cuộc khảo sát nạn nhân, ví dụ theo Khảo sát Tội phạm Anh Quốc 2005 (Nicholas et al., 2005), cho thấy nạn quấy rối tình dục lớn hơn nhiều so với những trường hợp được cảnh sát ghi lại và thường được chấp nhận rằng có một tỉ lệ lớn các vụ ngược đãi tình dục bị che đậy.    </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Victimization.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151009T172444Z" creationid="yuko" creationdate="20151009T172444Z">
+        <seg>Bị ngược đãi.</seg>
       </tuv>
     </tu>
     <tu>
