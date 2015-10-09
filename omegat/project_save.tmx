@@ -808,8 +808,8 @@
       <tuv lang="EN-US">
         <seg>Similarly, someone who has a long history of offending or has been convicted of a serious offence (such as a violent or sexual offence) may have different treatment needs from someone who has been caught committing an offence for the very first time.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151009T050342Z" creationid="USER" creationdate="20151009T050342Z">
-        <seg>Tương tự, một người có tiền án hoặc đã bị kết án vì một tội ác nghiêm trọng (như tội ác bạo lực hoặc tình dục) có hể sẽ được hưởng chế độ điều trị khác với người mà bị bắt vì phạm tội lần đầu. </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151009T050819Z" creationid="USER" creationdate="20151009T050342Z">
+        <seg>Tương tự, một người có tiền án hoặc đã bị kết án vì một tội ác nghiêm trọng (như tội ác liên quan đến bạo lực hoặc tình dục) có hể sẽ được hưởng chế độ điều trị khác với người mà bị bắt vì phạm tội lần đầu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,6 +1098,14 @@
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T134339Z" creationid="Demon" creationdate="20151007T134124Z">
         <seg>Đây là một sự tăng trưởng so với năm ngoái với 8,000 trường hợp, nhưng trong khoảng thời gian này, đạo luật về Tội ác Tình dục 2003 đã đi đến quyết định là những phương thức mới, như dụ dỗ và lạm dụng nhờ tín nhiệm đều phải được ghi nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those offenders who have made crime their way of life may only benefit from a more intense intervention which addresses a range of needs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151009T051045Z" creationid="USER" creationdate="20151009T050759Z">
+        <seg>Với những phạm nhân gây án có thế thể chỉ hưởng lợi từ sự can thiệp khắt khe </seg>
       </tuv>
     </tu>
     <tu>
