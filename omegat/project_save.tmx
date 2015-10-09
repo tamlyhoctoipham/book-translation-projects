@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These may range from requiring materials to be provided in their first language, to the programme needing to address cultural or religious issues which may impact on the process of treatment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151009T093037Z" creationid="USER" creationdate="20151009T093037Z">
+        <seg>Vùng dữ liệu cần thiết cần được cung cấp từ ngôn ngữ đầu tiên của họ, để nhận định những ảnh hưởng trong quá trình điều trị từ nhiều vấn đề liên quan đến văn hóa và tôn giáo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They have performed analyses of courtroom questioning by lawyers, of witness language and of judges’ language in their rulings and in their instructions to juries.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T010051Z" creationid="dinhquy" creationdate="20151007T010051Z">
