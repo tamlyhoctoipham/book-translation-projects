@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Longer sentences.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151009T034616Z" creationid="yuko" creationdate="20151009T034616Z">
+        <seg>Bản án lâu hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MEGAN’S LAW AND THE CAMPAIGN FOR SARAH’S LAW.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151008T162021Z" creationid="Demon" creationdate="20151008T162021Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T155808Z" creationid="USER" creationdate="20151008T155808Z">
         <seg>Trong khi nhân tố chỉ thị rất hữu dụng với một quan điểm cư xử, thật ra nó chỉ là việc gần như tái phạm của con người.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Younger inmates.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151009T034605Z" creationid="yuko" creationdate="20151009T034605Z">
+        <seg>Bạn tù trẻ hơn.</seg>
       </tuv>
     </tu>
     <tu>
