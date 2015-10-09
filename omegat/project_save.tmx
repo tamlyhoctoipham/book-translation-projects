@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(As described earlier in this chapter, psychological research has demonstrated such a belief to be inadequate.) In their praiseworthy pursuit of evidence in very serious and difficult to solve cases some police officers found that witnesses who were hypnotized then recalled information about the crime that they had not previously recalled.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151009T141741Z" creationid="ADMIN" creationdate="20151009T141453Z">
+        <seg>(Như từng đề cập lúc trước trong cùng chương, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A further issue often given prominence by feminist researchers is the way women victims of rape are treated by the legal system.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T012314Z" creationid="dinhquy" creationdate="20151007T012314Z">
@@ -80,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>At that time both police officers and the general public believed that memory was like a movie film and that what investigators needed to do was to help the witness to access such a memory.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151009T141421Z" creationid="ADMIN" creationdate="20151009T141103Z">
-        <seg>Ở thời điểm đó, cả cảnh sát lẫn công chúng đều tin rằng trí nhớ cũng giống như một bộ phim vậy và điều mà các nhà điều tra cần làm là giúp nhân chứng tiếp cận được mảng trí nhớ này.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151009T141745Z" creationid="ADMIN" creationdate="20151009T141103Z">
+        <seg>Ở thời điểm đó, cả cảnh sát lẫn công chúng đều tin rằng trí nhớ cũng giống như một bộ phim vậy và điều mà các nhà điều tra cần làm là giúp nhân chứng tiếp cận được mảng trí nhớ ấy.</seg>
       </tuv>
     </tu>
     <tu>
