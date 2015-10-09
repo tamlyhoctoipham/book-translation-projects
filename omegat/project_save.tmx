@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once this evidence is available it will then fall to treatment services to ensure that their provision is adapted in line with these findings in order to achieve maximum levels of treatment completion.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151009T113011Z" creationid="USER" creationdate="20151009T113011Z">
+        <seg>Khi mà chứng cứ có sẵn, chúng sẽ được giao cho dịch vụ điều trị để đảm bảo rằng nguồn cung cấp của họ được chỉnh sửa lại sao cho phù hợp với kết quả điều tra, để đạt được cấp độ cao nhất của vệc hoàn thành điều trị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One area which has been well examined is that of rape trials.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T010932Z" creationid="dinhquy" creationdate="20151007T010932Z">
@@ -960,8 +968,8 @@
       <tuv lang="EN-US">
         <seg>The above factors have been conceptualized into the three principles of risk, need and responsivity of offender rehabilitation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151009T101919Z" creationid="USER" creationdate="20151009T101919Z">
-        <seg>Những yếu tố trên được quan niệm như là ba nguyên tắc: nguyên tắc nguy cơ, nguyên tắc nhu cầu và nguyên tắc cân bằng.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151009T113103Z" creationid="USER" creationdate="20151009T101919Z">
+        <seg>Những yếu tố trên được quan niệm như là ba nguyên tắc: nguyên tắc nguy cơ, nguyên tắc nhu cầu và nguyên tắc đáp ứng.</seg>
       </tuv>
     </tu>
     <tu>
