@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -714,6 +714,14 @@
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151006T163633Z" creationid="Lenovo" creationdate="20151006T163143Z">
         <seg>Chính vì lý do này mà việc trừng phạt tội phạm trở thành 1 tình thế khó xử về đạo đức: nó gây ra những cuộc tranh luận như ai là người có quyền trừng phạt người khác, ai có thể quyết định cái gì đáng bị trừng phạt và cái nào không, và nên sử dụng hình thức trừng phạt nào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is often the case that offenders have problematic issues in many areas of their lives that need resolution in order to aid their desistence from crime.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151010T024905Z" creationid="USER" creationdate="20151010T024905Z">
+        <seg>Trong trường hợp những người phạm tội có nhiều vấn đề trong cuộc sống của họ và họ cần </seg>
       </tuv>
     </tu>
     <tu>
