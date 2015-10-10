@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -458,6 +458,14 @@
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151007T030330Z" creationid="The sun" creationdate="20151007T030206Z">
         <seg>Hiện tại khi cân nhắc ba giả thuyết nền tảng cho việc thực hành lập hồ sơ tâm lý tội phạm thì rõ ràng là cho tới giờ chỉ có giả thuyết về tính nhất quán của hành vi phạm tội mới đưa ra được những thông tin được chứng thực từ sự quan sát/trải nghiệm để ủng hộ cho giả thuyết.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heffer suggests that best under- standing by the jury would be achieved if instructions were given early in a trial and involve repetition and fully relevant examples of how the legal points might be applied to the case being considered.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T071105Z" creationid="dinhquy" creationdate="20151010T071105Z">
+        <seg>Heffer gợi ý rằng bồi thẩm đoàn sẽ hiểu được tốt nhất nếu những hướng dẫn được gợi ý trước phiên toà Heffer suggests that best under- standing by the jury would be achieved if instructions were given early in a trial and involve repetition and fully relevant examples of how the legal points might be applied to the case being considered.</seg>
       </tuv>
     </tu>
     <tu>
