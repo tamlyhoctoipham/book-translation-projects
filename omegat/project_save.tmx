@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -464,8 +464,8 @@
       <tuv lang="EN-US">
         <seg>Heffer suggests that best under- standing by the jury would be achieved if instructions were given early in a trial and involve repetition and fully relevant examples of how the legal points might be applied to the case being considered.</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151010T071105Z" creationid="dinhquy" creationdate="20151010T071105Z">
-        <seg>Heffer gợi ý rằng bồi thẩm đoàn sẽ hiểu được tốt nhất nếu những hướng dẫn được gợi ý trước phiên toà Heffer suggests that best under- standing by the jury would be achieved if instructions were given early in a trial and involve repetition and fully relevant examples of how the legal points might be applied to the case being considered.</seg>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T071456Z" creationid="dinhquy" creationdate="20151010T071105Z">
+        <seg>Heffer gợi ý rằng bồi thẩm đoàn sẽ hiểu được tốt nhất nếu những hướng dẫn được gợi ý trước phiên toà và được lặp lại với đầy đủ ví dụ thích hợp của cách các quan điểm pháp lý được áp dụng cho trường hợp đang xem xét.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1466,14 @@
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151008T160703Z" creationid="Demon" creationdate="20151008T160703Z">
         <seg>Chi phí nhân lực và tài chính dành cho những nạn nhân của lạm dụng tình dụng và các dịch vụ xã hội cũng như sức khoẻ khá lớn, cũng như là đầu tư của cộng đồng về chính sách, khởi tố và tống giam những kẻ quấy rối tình dục.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The model, he suggests, should be one of a teacher explaining something complex to a class.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T071722Z" creationid="dinhquy" creationdate="20151010T071722Z">
+        <seg>Ông ấy gợi ý mô hình này nên được giảng những thứ phức tạp trong lớp học.</seg>
       </tuv>
     </tu>
     <tu>
