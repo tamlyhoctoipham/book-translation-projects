@@ -38,6 +38,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number of books have been published that claim to reveal &lt;t0/&gt;behavioural&lt;t1/&gt; cues to lying.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151010T095411Z" creationid="nguye" creationdate="20151010T095411Z">
+        <seg>Nhiều cuốn sách đã được xuất bản khẳng định rằng có thể nhận thấy được&lt;t0/&gt;các dấu hiệu hành vi&lt;t1/&gt; của nói dối
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A trend consistent across the literature is that approximately twenty per cent of sexual offences are committed by adolescents.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T153911Z" creationid="Demon" creationdate="20151007T153911Z">
@@ -806,6 +815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this section we will look first at the beliefs and then at the reality.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151010T095520Z" creationid="nguye" creationdate="20151010T095520Z">
+        <seg>Trong phần này , chúng ta trước tiên sẽ xem xét về những niềm tin và sau đó là nhìn vào thực tế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this sense, our knowledge about what constitutes an effective intervention can only ever be as good as the standard of research that is conducted in this area.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T115215Z" creationid="USER" creationdate="20151007T150344Z">
@@ -1382,6 +1399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some have focused on the criminal setting and have been based on experienced investigators’ beliefs about such cues.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151010T095424Z" creationid="nguye" creationdate="20151010T095424Z">
+        <seg>Một số tập trung vào hệ thống sắp đặt tội phạm và dựa vào niềm tin của những điều tra viên kinh nghiệm về những dấu hiệu ấy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some of the factors that have been reported to be associated with suicide in prison include:</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151009T174154Z" creationid="yuko" creationdate="20151009T174154Z">
@@ -1410,6 +1435,15 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T052006Z" creationid="USER" creationdate="20151008T050456Z">
         <seg>Nghiên cứu với số lượng người tham gia mẫu nhỏ hơn ít có thể tìm ra bất cứ ảnh hưởng nào của việc điều trị (nếu mà nó thật sự có tồn tại). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is, although relevant professionals and lay people in several countries share the same beliefs about supposed cues to lying, these beliefs are largely wrong.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151010T095501Z" creationid="nguye" creationdate="20151010T095501Z">
+        <seg>
+Tức là , mặc dù những chuyên gia trong ngành và những người không có chuyên môn ở nhiều quốc gia có chung niềm tin về những dấu hiệu được cho là của nói dối, những niềm tin đó hầu hết là không đúng</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1924,14 @@
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151007T082007Z" creationid="Admin" creationdate="20151007T082007Z">
         <seg> Trong trường hợp đó, các nhân chứng chuyên gia được phép nêu ra các ý kiến của họ(không những là sự thật mà còn là suy luận) về vấn đề đang được nói đến.Under these circumstances expert witnesses are permitted to provide their opinion (rather than the facts) on the issue being discussed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, recent criminal psych- ology research has found much of what such books claim to be signs of deceit to be mistaken.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151010T095441Z" creationid="nguye" creationdate="20151010T095441Z">
+        <seg>Thật không may, những nghiên cứu về tâm lý học tội phạm gần đây đã chỉ ra rằng nhiều trong số những điều được cho là dấu hiệu của sự lừa dối đó đã bị hiểu sai</seg>
       </tuv>
     </tu>
     <tu>
