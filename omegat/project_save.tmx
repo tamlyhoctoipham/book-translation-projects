@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -258,6 +258,14 @@
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151007T160023Z" creationid="Lenovo" creationdate="20151007T154837Z">
         <seg>Tội phạm phải trả cho những gì họ đã làm, họ mang 1 món nợ với xã hội hoặc với nạn nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Criminogenic needs are those that are related to the individual’s offending behaviour.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151010T032339Z" creationid="USER" creationdate="20151010T032339Z">
+        <seg>Các nhu cầu dẫn đến phạm tội chúng đều liên quan đến hành vi phạm tội của từng cá nhân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,8 +1464,8 @@
       <tuv lang="EN-US">
         <seg>These needs can be classified into two different types: criminogenic and non-criminogenic.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151010T031934Z" creationid="USER" creationdate="20151010T031934Z">
-        <seg>Những nhu cầu này được phân loại thành hai dạng khác nhau: tiềm ẩn và không tiềm ẩn</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151010T032213Z" creationid="USER" creationdate="20151010T031934Z">
+        <seg>Những nhu cầu này được phân loại thành hai dạng khác nhau: gây ra tội ác hoặc không.</seg>
       </tuv>
     </tu>
     <tu>
