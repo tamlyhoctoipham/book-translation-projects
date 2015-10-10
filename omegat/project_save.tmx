@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It could be that both the smoker and the criminal see that their behaviour is having a detrimental effect on their lives and the lives of their loved ones.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151010T035107Z" creationid="USER" creationdate="20151010T035107Z">
+        <seg>Nếu cả người hút thuốc lá và tên tội phạm nhận thức được hành vi của họ có tác động bất lợi đến </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is an offence that seems to be more than just a crime; it is regarded as a social and health problem and is frequently reported in newspapers and on the television and radio.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T131342Z" creationid="Demon" creationdate="20151007T131342Z">
@@ -1224,8 +1232,8 @@
       <tuv lang="EN-US">
         <seg>Smoking can be conceptualized as problem behaviour in much the same way as criminal behaviour can.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151010T034355Z" creationid="USER" creationdate="20151010T034355Z">
-        <seg>Có thể nhận thấy rằng, hút thuốc lá </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151010T034916Z" creationid="USER" creationdate="20151010T034355Z">
+        <seg>Có thể nhận thấy rằng, hút thuốc lá được ví như vấn đề về cách cư xử và nó cũng khá giống với hành vi phạm tội.  </seg>
       </tuv>
     </tu>
     <tu>
