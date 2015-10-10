@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -720,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>It is often the case that offenders have problematic issues in many areas of their lives that need resolution in order to aid their desistence from crime.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151010T024905Z" creationid="USER" creationdate="20151010T024905Z">
-        <seg>Trong trường hợp những người phạm tội có nhiều vấn đề trong cuộc sống của họ và họ cần </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151010T025801Z" creationid="USER" creationdate="20151010T024905Z">
+        <seg>Trong trường hợp những người phạm tội có nhiều vấn đề trong cuộc sống của họ và họ cần được hỗ trợ để ngăn cản ý định phạm tội. </seg>
       </tuv>
     </tu>
     <tu>
