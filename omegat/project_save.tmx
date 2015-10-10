@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1530,6 +1530,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T111140Z" creationid="USER" creationdate="20151009T111140Z">
         <seg>Nghiên cứu này nhận ra rằng những người dừng tham gia điều trị lúc đó sẽ có nguy cơ tái phạm cao hơn những người tiếp tục hoàn thành việc điều trị. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section explores people’s attitudes towards punishment, what happens when the State does not punish wrongdoers and whether it is right for communities to take the law into their own hands and punish deviants.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151010T031444Z" creationid="Lenovo" creationdate="20151010T031444Z">
+        <seg>Trong phần này chúng ta sẽ khám phá thái đọ của con người về việc trừng phạt, điều gì sẽ xảy ra nếu chính quyề không xử phạt những người phạm pháp và liệu .</seg>
       </tuv>
     </tu>
     <tu>
