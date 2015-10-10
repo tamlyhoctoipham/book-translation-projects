@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,6 +82,14 @@
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151009T173414Z" creationid="yuko" creationdate="20151009T173414Z">
         <seg>Như đã đề cập ở trên, sự ngược đãi đối với tù nhân đã song hành với một vài kết quả tiêu cực cho chính họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As well as exchanges between witness and lawyer, courtroom linguists are interested in the communication between judge and jury.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T035645Z" creationid="dinhquy" creationdate="20151010T035313Z">
+        <seg>Cũng như sự trao đổi giữa luật sư và nhân chứng,  ngôn ngữ phòng xử án quan tâm đến sự trao đổi giữa thẩm phán và bồi thẩm đoàn</seg>
       </tuv>
     </tu>
     <tu>
