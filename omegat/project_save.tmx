@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151009T173414Z" creationid="yuko" creationdate="20151009T173414Z">
         <seg>Như đã đề cập ở trên, sự ngược đãi đối với tù nhân đã song hành với một vài kết quả tiêu cực cho chính họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As well as giving insight into the tactics of legal examination, Ehrlich examines how the various participants in the trial have opposing conceptions of the nature of consent.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T024757Z" creationid="dinhquy" creationdate="20151009T092655Z">
+        <seg>Cũng như đưa ra cái nhìn sâu sắc vào các chiến thuật của thi pháp luật, Ehrlich khảo sát làm thế nào những người tham gia khác nhau trong các thử nghiệm có đối những quan niệm về bản chất của sự đồng thuận.</seg>
       </tuv>
     </tu>
     <tu>
