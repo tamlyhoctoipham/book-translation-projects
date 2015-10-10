@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -938,6 +938,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T092436Z" creationid="USER" creationdate="20151009T092436Z">
         <seg>Tương tự, đối với tội phạm nữ đòi hỏi những dạng chương trình khác so với tội phạm là nam, và yêu cầu đối với nhóm tội phạm là dân tộc thiểu số lại càng khác hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linguists have recently argued for and been involved in attempts to reform these instructions to answer the needs of both audiences.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T063016Z" creationid="dinhquy" creationdate="20151010T063016Z">
+        <seg>Ngôn ngữ học mới đây đã tranh luận và được tham gia vào các nỗ lực cải cách các hướng dẫn để đáp ứng nhu cầu của mọi người.</seg>
       </tuv>
     </tu>
     <tu>
