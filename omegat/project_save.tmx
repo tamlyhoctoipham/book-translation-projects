@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>Because of this, in some jurisdictions standard, legally watertight instructions have been published.</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151010T040522Z" creationid="dinhquy" creationdate="20151010T040522Z">
-        <seg>Bởi vì điều này, trong một số quyền hạn chuẩn, hướng dẫn pháp lý kín đã được công bố.</seg>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T055152Z" creationid="dinhquy" creationdate="20151010T040522Z">
+        <seg>Bởi vì điều này, trong một số quyền hạn chuẩn, hướng dẫn pháp lý chặt chẽ đã được công bố.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1746,14 @@
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151007T082007Z" creationid="Admin" creationdate="20151007T082007Z">
         <seg> Trong trường hợp đó, các nhân chứng chuyên gia được phép nêu ra các ý kiến của họ(không những là sự thật mà còn là suy luận) về vấn đề đang được nói đến.Under these circumstances expert witnesses are permitted to provide their opinion (rather than the facts) on the issue being discussed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, the concern to be legally watertight has led to some instructions being largely incomprehensible to the ordinary men and women of the jury.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151010T055127Z" creationid="dinhquy" creationdate="20151010T055127Z">
+        <seg>Không may mắn là quy định pháp lí chặt chẽ của ban bồi thẩm đưa ra những hướng dẫn mà hầu hết người bình thường không hiểu được.</seg>
       </tuv>
     </tu>
     <tu>
