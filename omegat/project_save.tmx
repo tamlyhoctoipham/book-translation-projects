@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is these problems or issues that contribute to the individuals continuing in their pattern of criminal behaviour.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151010T032744Z" creationid="USER" creationdate="20151010T032744Z">
+        <seg>Những vấn đề này góp phần xây dựng một điển hình về hành vi phạm tội của các cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It seems that some sort of monetary compensation for loss was preferable to a physical punishment, and only repeat offenders were punished by having part of their body removed or injured in some manner.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151007T152159Z" creationid="Lenovo" creationdate="20151007T152159Z">
@@ -1194,6 +1202,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T120413Z" creationid="USER" creationdate="20151009T050342Z">
         <seg>Tương tự, một người có tiền án hoặc đã bị kết án vì một tội ác nghiêm trọng (như tội ác liên quan đến bạo lực hoặc tình dục) có thể sẽ được hưởng chế độ điều trị khác với người mà bị bắt vì phạm tội lần đầu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since these criminogenic needs are dynamic or theoretically changeable, treatment that focuses on the resolution of these problems is more likely to be associated with a reduction in recidivism.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151010T033040Z" creationid="USER" creationdate="20151010T033040Z">
+        <seg>Từ khi Các nhu cầu dẫn đến phạm tội thay đổi về ký thuyết đã tạo động lực cho việc điều trị - chúng dần tập trung vào </seg>
       </tuv>
     </tu>
     <tu>
