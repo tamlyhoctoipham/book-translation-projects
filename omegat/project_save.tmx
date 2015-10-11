@@ -159,10 +159,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Below is an excerpt taken from a news report from the BBC, which gives some insight into the policing experience of such an &lt;t0/&gt;event.&lt;t1/&gt; Bill King was a Chief Inspector at the time of the miners’ strike.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151011T144607Z" creationid="Admin" creationdate="20151011T144607Z">
+        <seg>Dưới đây là đoạn trích từ bài phỏng vấn tin tức của BBC, đã mang đến cái nhìn sâu hơn về trải nghiệm của cảnh sát trong những tình huống này. Bill King là Chánh Thanh tra khi cuộc tấn công của thợ mỏ xảy ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beyond their normal duties police are often called in to special situations that require a coordinated response to a civilian disaster or violent incident, for example the Hillsborough Stadium disaster, the Brixton riots, or the 1980s miners’ strike.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Admin" changedate="20151011T143654Z" creationid="Admin" creationdate="20151011T142733Z">
-        <seg>Ngoài những nhiệm vụ thông thường có lúc cảnh sát được gọi đến những tình huống đặc biệt cần phối hợp đối phó như thảm họa dân cư hay sự cố bạo lực, như thảm họa Sân vận động Hillsborough, cuộc bạo loạn ở Brixton, hay  </seg>
+      <tuv lang="VI" changeid="Admin" changedate="20151011T144411Z" creationid="Admin" creationdate="20151011T142733Z">
+        <seg>Ngoài những nhiệm vụ thông thường có lúc cảnh sát được gọi đến những tình huống đặc biệt cần phối hợp đối phó với thảm họa nhân loại hay sự cố bạo lực, như thảm họa Sân vận động Hillsborough, cuộc bạo loạn ở Brixton, hay cuộc tấn công của thợ mỏ những năm 1980. </seg>
       </tuv>
     </tu>
     <tu>
