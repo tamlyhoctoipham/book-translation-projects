@@ -1223,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just being imprisoned results in a loss of freedom and a loss of autonomy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151011T161955Z" creationid="LHC" creationdate="20151011T161955Z">
+        <seg>Chỉ riêng việc bị nhốt cũng đã khiến người bị giam giữ mất đi tự do và quyền tự quyết </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Large-scale research projects are needed.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T115709Z" creationid="USER" creationdate="20151008T052614Z">
@@ -1940,6 +1948,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T153221Z" creationid="USER" creationdate="20151007T172228Z">
         <seg>Ngoài ra, số lượng người tham gia nghiên cứu cũng rất quan trọng, vì thống kê sử dụng để đo lường bất cứ tác động nào gây ra bởi người tham gia chương trình. Họ là những người rất nhạy cảm với kích cỡ của mẫu vật thu được khi điều tra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The prison environment is stressful by its very nature and several researchers have examined the stressors operating in prisons.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151011T161858Z" creationid="LHC" creationdate="20151011T161858Z">
+        <seg>Bản thân môi trường ở nhà tù đã rất căng thẳng và rất nhiều nhà nghiên cứu đã tiến hành kiểm tra các nhân tố gây căng thẳng đó </seg>
       </tuv>
     </tu>
     <tu>
