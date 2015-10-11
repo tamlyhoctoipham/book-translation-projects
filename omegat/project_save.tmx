@@ -807,6 +807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, it could be that both individuals have tried to stop their problem behaviour but, while they may have managed to do so for a short time, eventually they have lapsed back into their old habits.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151011T145945Z" creationid="USER" creationdate="20151011T145945Z">
+        <seg>Hơn nữa, các cá nhân đã cố gắng ngăn cản vấn đề về hành vi của họ nhưng khi họ có thể xoay sở trong một thời gian ngắn, tất nhiên họ có thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, those offenders who are high risk need some form of intervention in order to prevent future criminal behaviour.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T104652Z" creationid="USER" creationdate="20151009T104550Z">
@@ -1233,8 +1241,8 @@
       <tuv lang="EN-US">
         <seg>Offenders, then, can often present for treatment with a whole host of issues, or needs, that require addressing.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151010T031839Z" creationid="USER" creationdate="20151010T031839Z">
-        <seg>Offenders, then, can often present for treatment with a whole host of issues, or needs, that require addressing.Và rồi họ sẽ có thể bộc lộ toàn bộ vấn đề, nhu cầu hoặc điều mà họ đang ngắm tới đễ phục vụ cho quá trình điều trị.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151010T153816Z" creationid="USER" creationdate="20151010T031839Z">
+        <seg>Và rồi họ sẽ có thể bộc lộ toàn bộ vấn đề, nhu cầu hoặc điều mà họ đang ngắm tới đễ phục vụ cho quá trình điều trị.</seg>
       </tuv>
     </tu>
     <tu>
