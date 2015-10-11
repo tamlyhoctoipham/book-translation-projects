@@ -1743,6 +1743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some theorists have expressed their concerns that if the discomfort of imprisonment is too great, it can be counterproductive.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151011T161554Z" creationid="LHC" creationdate="20151011T161554Z">
+        <seg>Một số nhà tư tưởng đã bày tỏ quan ngại những bất tiện khi ở tù là quá nhiều và nó có thể cản trở những mục tiêu thực sự của việc giam giữ .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Someone who completes a programme may have subsequently committed a dozen or more crimes but as he or she was not caught and reconvicted, it would appear that the programme was effective.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T160613Z" creationid="USER" creationdate="20151008T160613Z">
@@ -2644,6 +2652,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151006T191226Z" creationid="Admin" creationdate="20151006T191226Z">
         <seg>Những tình huống đặc biệt.&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the physical environment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151011T161635Z" creationid="LHC" creationdate="20151011T161635Z">
+        <seg>Môi trường nhà tù</seg>
       </tuv>
     </tu>
     <tu>
