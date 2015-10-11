@@ -247,6 +247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But how unpleasant should it be?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151011T161314Z" creationid="LHC" creationdate="20151011T161314Z">
+        <seg>Nhưng thực sự điều đó khó chịu như thế nào?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But what is meant by criminogenic needs?</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T153716Z" creationid="USER" creationdate="20151010T024544Z">
@@ -859,6 +867,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T115238Z" creationid="USER" creationdate="20151007T164632Z">
         <seg>Nếu tiêu chuẩn của công trình nghiên cứu còn hạn chế, thì phần kết luận có thế sẽ thiếu chính xác và kiến thức nền tảng của chúng ta sẽ chứa nhiều sai sót.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the threat of imprisonment is to deter prisoners from reoffending or to deter otherwise law-abiding citizens from committing crime, imprisonment must be an unpleasant experience.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151011T161325Z" creationid="LHC" creationdate="20151011T161209Z">
+        <seg>Nếu như mục đích của việc bắt giữ là để ngăn cản những người bị giam giữ khỏi nguy cơ tái phạm hoặc để ngăn ngừa các hành động phạm pháp của những công dân tuân thủ pháp luật, việc bỏ tù chắc hẳn cũng không phải là một trải nghiệm vui thú.</seg>
       </tuv>
     </tu>
     <tu>
