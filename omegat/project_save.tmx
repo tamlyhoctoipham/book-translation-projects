@@ -409,8 +409,8 @@
       <tuv lang="EN-US">
         <seg>Duty during the day usually consisted of long periods of waiting, or travelling, or talking to the pickets, interspersed with short periods of violence or pushing and shoving with the pickets.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Admin" changedate="20151008T013218Z" creationid="Admin" creationdate="20151008T013218Z">
-        <seg>Nhiệm vụ hàng ngày thường là chờ đợi, hoặc di chuyển, hoặc nói chuyện với những người biểu tình trong khoảng thời gian dài, đôi lúc còn phải sử dụng vũ lực...</seg>
+      <tuv lang="VI" changeid="Admin" changedate="20151011T145313Z" creationid="Admin" creationdate="20151008T013218Z">
+        <seg>Nhiệm vụ hàng ngày thường là chờ đợi, hoặc di chuyển, hoặc nói chuyện với những người biểu tình trong khoảng thời gian dài, đôi lúc còn phải sử dụng vũ lực như  những người biểu tình ấy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2124,6 +2124,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151011T144625Z" creationid="Admin" creationdate="20151009T145712Z">
         <seg>Chúng tôi thường tạm biệt gia đình vào Chủ nhật, bắt đầu buổi huấn luyện với tất cả đồng nghiệp khác, về nhà vào Thứ sáu tuần sau - có rất nhiều cặp đôi đã bị chia tách trong năm ấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We were all young and fit, but this routine tired us all out so that at the end of the week we got off the coaches like old men.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151011T145226Z" creationid="Admin" creationdate="20151011T145226Z">
+        <seg>Tất cả đều trẻ và khỏe mạnh, nhưng ngày nào cũng như vậy khiến chúng tôi vô cùng mệt mỏi nên cuối tuần chúng tôi ra khỏi trại huấn luyện như những ông già .</seg>
       </tuv>
     </tu>
     <tu>
