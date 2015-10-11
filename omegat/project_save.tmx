@@ -79,6 +79,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active notification means that leaflets are sent out, people are visited by their local police, e-mails are sent to schools and community groups, and notices may be placed in local newspapers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151011T162233Z" creationid="Demon" creationdate="20151011T161954Z">
+        <seg>Thông báo thiết thực có nghĩa là phát hành các tờ rơi, mọi người được cảnh sát địa phương thông báo, emails được gửi đến các trường học và cộng đồng, và những thông báo nào sẽ được in trên báo địa phương.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All offenders who have committed a drink-driving offence will be given the same sentence; all offenders who have raped another person will be given a similar punishment.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151008T132505Z" creationid="Lenovo" creationdate="20151008T132505Z">
@@ -2234,8 +2242,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>This stated that when sex offenders are released into the community, that community will be ‘actively notified’ of their presence.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Demon" changedate="20151008T164334Z" creationid="Demon" creationdate="20151008T163652Z">
-        <seg>Luật này phát biểu rằng khi những tội phạm tình dục được thả tự do về cộng đồng, nơi đó sẽ được "tích cực thông báo" về sự hiện diện của những người này.  </seg>
+      <tuv lang="VI" changeid="Demon" changedate="20151011T162006Z" creationid="Demon" creationdate="20151008T163652Z">
+        <seg>Luật này phát biểu rằng khi những tội phạm tình dục được thả tự do về cộng đồng, nơi đó sẽ được "thiết thực thông báo" về sự hiện diện của những người này.  </seg>
       </tuv>
     </tu>
     <tu>
