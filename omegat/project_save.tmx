@@ -359,6 +359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you think that it is possible to alter the behaviour of offenders?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151011T045702Z" creationid="Nga" creationdate="20151011T045702Z">
+        <seg>Bạn có nghĩ rằng phạm nhân có thể sửa đổi hành vi sau khi được tải tạo??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the early 1990s in the UK, much of sentencing policy was based on this concept of deterrence, rather than the rehabilitation of offenders which became popular during the 1950s and 1960s.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151008T141108Z" creationid="Lenovo" creationdate="20151008T141108Z">
@@ -1379,6 +1387,14 @@
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T014259Z" creationid="dinhquy" creationdate="20151007T014226Z">
         <seg>Cô xem xét cuộc chiến giữa bị cáo và luật sư khởi tố vì những tiết lộ trong cách họ sử dụng ngữ pháp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should offenders be given the opportunity of rehabilitation?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151011T045725Z" creationid="Nga" creationdate="20151011T045725Z">
+        <seg>Phạm nhân có nên có cơ hội được cải tạo?</seg>
       </tuv>
     </tu>
     <tu>
