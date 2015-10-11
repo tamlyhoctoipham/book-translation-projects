@@ -409,8 +409,8 @@
       <tuv lang="EN-US">
         <seg>Duty during the day usually consisted of long periods of waiting, or travelling, or talking to the pickets, interspersed with short periods of violence or pushing and shoving with the pickets.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Admin" changedate="20151011T145313Z" creationid="Admin" creationdate="20151008T013218Z">
-        <seg>Nhiệm vụ hàng ngày thường là chờ đợi, hoặc di chuyển, hoặc nói chuyện với những người biểu tình trong khoảng thời gian dài, đôi lúc còn phải sử dụng vũ lực như  những người biểu tình ấy.</seg>
+      <tuv lang="VI" changeid="Admin" changedate="20151011T145358Z" creationid="Admin" creationdate="20151008T013218Z">
+        <seg>Nhiệm vụ hàng ngày thường là chờ đợi, hoặc di chuyển, hoặc nói chuyện với những người biểu tình trong khoảng thời gian dài, đôi lúc còn phải sử dụng vũ lực hay xô đẩy những người biểu tình ấy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -699,6 +699,14 @@
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151011T142443Z" creationid="Jennifer Tran" creationdate="20151011T142443Z">
         <seg>Tuy nhiên, nhiều năm với hệ thống an ninh thông minh, lượng lớn công việc giấy tờ, sự ra đời của xe hơi và sự gia tăng số lượng các hệ thống chuyên môn (như gian lận, tội phạm Internet, v..v..) đã làm giảm tần suất cảnh sát trên đường phố và hình ảnh cảnh sát trong công chúng .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I remember it very well: being dog tired; long, long working days; very early starts in the morning; the bitterness and understandable abuse from the crowds.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151011T145637Z" creationid="Admin" creationdate="20151011T145637Z">
+        <seg>Tôi còn nhớ rất rõ:  I remember it very well: being dog tired; long, long working days; very early starts in the morning; the bitterness and understandable abuse from the crowds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1668,6 +1676,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T153029Z" creationid="USER" creationdate="20151007T150032Z">
         <seg>Sự phát triển của những nguyên tắc 'Hoạt động thế nào' chắc hẳn đã dựa vào những kết luận của các công trình nghiên cứu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The exception was that week at Hatfield, when there was a great deal more action and violence than normal.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151011T145528Z" creationid="Admin" creationdate="20151011T145528Z">
+        <seg>Tuần ấy ở Hatfield là một trường hợp ngoại lệ, khi đó đã có xô xát và bạo lực nhiều hơn bình thường.</seg>
       </tuv>
     </tu>
     <tu>
