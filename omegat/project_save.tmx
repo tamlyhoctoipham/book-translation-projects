@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>(As described earlier in this chapter, psychological research has demonstrated such a belief to be inadequate.) In their praiseworthy pursuit of evidence in very serious and difficult to solve cases some police officers found that witnesses who were hypnotized then recalled information about the crime that they had not previously recalled.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151009T142924Z" creationid="ADMIN" creationdate="20151009T141453Z">
-        <seg>(Như từng đề cập lúc trước trong chương này, các nghiên cứu về tâm lý học đã chứng minh niềm tin trên không hề chính xác.) Trong quá trình nỗ lực rất đáng tuyên dương tìm kiếm bằng chứng trong những vụ án nghiêm trọng và khó phá, một số cảnh sát nhận thấy có vài nhân chứng sau khi bị thôi miên có thể nhớ lại thông tin về vụ án mà trước đó họ không hề nhớ. </seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151012T123308Z" creationid="ADMIN" creationdate="20151009T141453Z">
+        <seg>(Như từng đề cập lúc trước trong chương này, các nghiên cứu về tâm lý học đã chứng minh niềm tin trên không hề chính xác.) Trong quá trình nỗ lực rất đáng tuyên dương tìm kiếm bằng chứng trong những vụ án nghiêm trọng và khó phá, một số cảnh sát nhận thấy có vài nhân chứng sau khi bị thôi miên có thể nhớ lại thông tin mà trước đó họ không hề nhớ. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1041,8 +1041,8 @@
       <tuv lang="EN-US">
         <seg>In many countries, but not yet all, it is now recognized that showing a witness just one face (e.g. using a photograph or the actual suspect him/herself – the latter is called a ‘show-up’) and asking if this is the perpetrator is not a good procedure.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151010T071149Z" creationid="ADMIN" creationdate="20151007T022011Z">
-        <seg>Tại nhiều nước, nhưng chưa phải tất cả, đã công nhận việc chỉ cho nhân chứng thấy một khuôn mặt ( như dùng một tấm ảnh hoặc chính nghi phạm thật - cái sau được gọi là "sự lộ diện") và hỏi họ đây có phải thủ phạm hay không không phải là một cách làm đúng đắn.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151012T123236Z" creationid="ADMIN" creationdate="20151007T022011Z">
+        <seg>Tại nhiều nước, tuy chưa phải tất cả, đã công nhận việc chỉ cho nhân chứng thấy một khuôn mặt ( như dùng một tấm ảnh hoặc chính nghi phạm thật - cái sau được gọi là "sự lộ diện") và hỏi họ đây có phải thủ phạm hay không không phải là một cách làm đúng đắn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1163,6 +1163,14 @@
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151009T143001Z" creationid="ADMIN" creationdate="20151009T143001Z">
         <seg>Thật vậy, some of this extra recall turned out to be correct and so the police concluded that it was due to the hypnosis, ignoring the possibility that it could have been due to other factors necessary for hypnosis (e.g. a quiet, uninterrupted room and a relaxed, focused witness).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, they sometimes allow an expert witness (such as myself) to testify (e.g. inform the jury) (&lt;t4/&gt;i&lt;t5/&gt;) about research findings on the general reliability of &lt;t6/&gt;earwitnessing&lt;t7/&gt; (such as that mentioned above) and (ii) on factors directly relevant to the ear- witness evidence being presented in that particular trial.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151012T123401Z" creationid="ADMIN" creationdate="20151012T123401Z">
+        <seg>Thay vào đó, they sometimes allow an expert witness (such as myself) to testify (e.g. inform the jury) (&lt;t4/&gt;i&lt;t5/&gt;) about research findings on the general reliability of &lt;t6/&gt;earwitnessing&lt;t7/&gt; (such as that mentioned above) and (ii) on factors directly relevant to the ear- witness evidence being presented in that particular trial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,8 +2730,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>aspects&lt;t0/&gt; of the investigation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151010T071115Z" creationid="ADMIN" creationdate="20151007T013238Z">
-        <seg>Những khía cạnh trong công việc điều tra.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151012T123229Z" creationid="ADMIN" creationdate="20151007T013238Z">
+        <seg>Những khía cạnh trong công việc điều tra</seg>
       </tuv>
     </tu>
     <tu>
