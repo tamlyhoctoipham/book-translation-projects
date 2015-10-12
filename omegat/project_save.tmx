@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -435,6 +435,14 @@
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151009T143050Z" creationid="ADMIN" creationdate="20151009T143050Z">
         <seg>Kết luận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consent might not have been given for a number of reasons.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151012T153423Z" creationid="Demon" creationdate="20151012T153423Z">
+        <seg>Sự đồng thuận có thể không được đưa ra vì một số lý do.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1241,8 +1249,8 @@
       <tuv lang="EN-US">
         <seg>In the UK, the Sexual Offences Act 2003 includes substantial increases in sentence length for many sexual offences and increased management of offenders for up to ten years after a sentence has been spent.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Demon" changedate="20151011T170146Z" creationid="Demon" creationdate="20151011T170146Z">
-        <seg>Ở Vương quốc Anh, </seg>
+      <tuv lang="VI" changeid="Demon" changedate="20151012T153327Z" creationid="Demon" creationdate="20151011T170146Z">
+        <seg>Ở Vương quốc Anh, Đạo luật về Xâm phạm tình dục 2003 bao gồm việc tăng đáng kể trong độ dài bản án dành cho nhiều tội phạm tình dục và tăng thời gian quản thúc tội phạm lên đến 10 năm sau khi thi hành án.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1443,6 +1451,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T032744Z" creationid="USER" creationdate="20151010T032744Z">
         <seg>Những vấn đề này góp phần xây dựng một điển hình về hành vi phạm tội của các cá nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is very difficult to give a full and complete definition of a sexual offender – examples might include someone who has committed a sexual offence, someone who has been convicted of a sexual offence or someone who has committed a sexual act without the consent of the other person.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151012T153405Z" creationid="Demon" creationdate="20151012T153405Z">
+        <seg>Rất khó để có thể định nghĩa đầy đủ và chính xác một tội phạm tình dục - các hình mẫu có thể bao gồm một người đã có hành vi quấy rối tình dục, một người đã bị kết án là quấy rối tình dục hoặc một người thực hiện thành động quấy rối mà không có sự đồng thuận từ người khác.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,6 +2496,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The victims might have withheld it, or they might not have been in a position to give consent to the sexual act (for example, they might be under the age of consent, be mentally disabled, drunk, drugged or unconscious).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151012T153443Z" creationid="Demon" creationdate="20151012T153443Z">
+        <seg>Nạn nhân đã có thể từ chối nó, hoặc họ có thể ở một tình thế nào đó cho phép hành động xâm hại ( như là họ dưới độ tuổi đồng thuận, bị bệnh tâm thần, bị chuốc say, bị đánh thuốc hoặc vô thức).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The way that expert witnesses are called to the court, however, varies from one jurisdiction to another.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151007T082749Z" creationid="Admin" creationdate="20151007T082749Z">
@@ -3108,6 +3132,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151007T150743Z" creationid="Lenovo" creationdate="20151007T150743Z">
         <seg>Lịch sử và tính triết lý của việc trừng phạt .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>how&lt;t0/&gt; is a sexual offender defined?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151012T153356Z" creationid="Demon" creationdate="20151012T153356Z">
+        <seg>Định nghĩa một tội phạm tình dục như thế nào?</seg>
       </tuv>
     </tu>
     <tu>
