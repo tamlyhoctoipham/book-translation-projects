@@ -225,8 +225,8 @@
       <tuv lang="EN-US">
         <seg>At that time both police officers and the general public believed that memory was like a movie film and that what investigators needed to do was to help the witness to access such a memory.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151009T141745Z" creationid="ADMIN" creationdate="20151009T141103Z">
-        <seg>Ở thời điểm đó, cả cảnh sát lẫn công chúng đều tin rằng trí nhớ cũng giống như một bộ phim vậy và điều mà các nhà điều tra cần làm là giúp nhân chứng tiếp cận được mảng trí nhớ ấy.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151012T124031Z" creationid="ADMIN" creationdate="20151009T141103Z">
+        <seg>Ở thời điểm đó, cả cảnh sát lẫn công chúng đều tin rằng trí nhớ con người cũng giống như một bộ phim vậy và điều mà các nhà điều tra cần làm là giúp nhân chứng tiếp cận được mảng trí nhớ ấy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1467,6 +1467,14 @@
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151009T141207Z" creationid="ADMIN" creationdate="20151009T141051Z">
         <seg>Từ hơn năm mươi năm trước, nhiều lực lượng cảnh sát (như Mĩ) đã bắt đầu dùng thôi miên nhằm gợi cho nhân chứng nhớ lại được nhiều hơn về những điều họ từng trải qua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most criminal psychologists now seem to be of the opinion that ‘evidence’ obtained under hypnosis should not be allowed in court.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151012T124210Z" creationid="ADMIN" creationdate="20151012T124155Z">
+        <seg>Số đông các nhà tâm lý học tội phạm phản đối việc sử dụng những "bằng chứng" có được dưới ảnh hưởng của thôi miên khi xét xử.</seg>
       </tuv>
     </tu>
     <tu>
