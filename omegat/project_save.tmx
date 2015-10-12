@@ -135,6 +135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternative explanation for this finding could be that increased supervision during such activities prevents prisoner violence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151012T171315Z" creationid="yuko" creationdate="20151012T171315Z">
+        <seg>Một cách lý giải khác cho điều này có thể là sự gia tăng việc kiểm soát các hành vi bạo lực của tù nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anglo-American sentencers tend to be eclectic in their development and implementation of punishments.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151010T030520Z" creationid="Lenovo" creationdate="20151010T030320Z">
@@ -1049,8 +1057,8 @@
       <tuv lang="EN-US">
         <seg>If the bullies do not use these resources them- selves, they can sell them on at a higher price.</seg>
       </tuv>
-      <tuv lang="VI" changeid="yuko" changedate="20151012T171023Z" creationid="yuko" creationdate="20151012T171023Z">
-        <seg>Nếu  higher price.</seg>
+      <tuv lang="VI" changeid="yuko" changedate="20151012T171200Z" creationid="yuko" creationdate="20151012T171023Z">
+        <seg>Nếu những kẻ bắt nạt đó không sử dụng những đồ vật đó, chúng có thể bán với một cái giá cao hơn.</seg>
       </tuv>
     </tu>
     <tu>
