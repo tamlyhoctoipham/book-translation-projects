@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151012T123308Z" creationid="ADMIN" creationdate="20151009T141453Z">
         <seg>(Như từng đề cập lúc trước trong chương này, các nghiên cứu về tâm lý học đã chứng minh niềm tin trên không hề chính xác.) Trong quá trình nỗ lực rất đáng tuyên dương tìm kiếm bằng chứng trong những vụ án nghiêm trọng và khó phá, một số cảnh sát nhận thấy có vài nhân chứng sau khi bị thôi miên có thể nhớ lại thông tin mà trước đó họ không hề nhớ. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A few studies have examined sex offenders’ narratives of their offences and there are general studies of prisoner language but these have yet to find applications.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151012T152450Z" creationid="dinhquy" creationdate="20151012T152450Z">
+        <seg>Một vài nghiên cứu đã xem xét câu chuyện của tội phạm tình dục về hành vi phạm tội và có những nghiên cứu chung về ngôn ngữ nhưng các tù nhân nhưng vẫn chưa ứng dụng được.</seg>
       </tuv>
     </tu>
     <tu>
