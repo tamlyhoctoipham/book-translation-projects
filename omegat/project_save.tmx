@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1169,8 +1169,8 @@
       <tuv lang="EN-US">
         <seg>In the USA, such concerns led to Megan’s Law in 1996, which allows private and personal information on those registered as sex offenders against children, to be made available to the community (see the box on the previous pages for more information).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Demon" changedate="20151011T170126Z" creationid="Demon" creationdate="20151011T170126Z">
-        <seg>Ở Mỹ,  những </seg>
+      <tuv lang="VI" changeid="Demon" changedate="20151012T140137Z" creationid="Demon" creationdate="20151011T170126Z">
+        <seg>Ở Mỹ,  những mối quan tâm như thế này đã dẫn đến Luật Megan vào năm 1996, luật này cho phép thông tin riêng tư và cá nhân của những kẻ quấy rối tình dục ở trẻ em được công khai đến cộng đồng (tham khảo khung ở trang trước để biết thêm thông tin).  </seg>
       </tuv>
     </tu>
     <tu>
