@@ -1023,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a motivation for bullying is for the bully to gain limited resources from the victim, it follows that one outcome for victims will be economic deprivation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151012T171622Z" creationid="yuko" creationdate="20151012T171622Z">
+        <seg>Nếu động lực cho kẻ bắt nạt chỉ là để chiếm đoạt các vật phẩm hiếm từ nạn nhân thì bạc sẽ dẫn đến việc các nạn nhân bị túng thiếu về mặt tiền bạc .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a state does not make this information available, then crime prevention funding is withheld from the state.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151011T163012Z" creationid="Demon" creationdate="20151011T163012Z">
@@ -2789,6 +2797,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151011T162900Z" creationid="Demon" creationdate="20151011T162655Z">
         <seg>Điều này có nghĩa là thông tin về tội phạm như tên và địa chỉ thì công chúng có thể tiếp cận được với những danh sách ở các cơ quan công lý, sổ đăng ký hoặc những mẩu tin điện tử (ví dụ như các trang web cảnh sát). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This might also be the case if a victim’s property is damaged.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151012T171653Z" creationid="yuko" creationdate="20151012T171653Z">
+        <seg>Đây cũng có thể là trường hợp mà tài sản cá nhân của một nạn nhân nào đó bị xâm hại.</seg>
       </tuv>
     </tu>
     <tu>
