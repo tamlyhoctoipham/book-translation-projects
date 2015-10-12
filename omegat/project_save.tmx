@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1659,6 +1659,14 @@
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T133856Z" creationid="Demon" creationdate="20151007T133856Z">
         <seg>Một nghiên cứu khác đã chỉ ra rằng cứ 4 phụ nữ thì có 1 người đã từng là nạn nhân của cưỡng hiếp hoặc cưỡng dâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over a period of time Norman French became established in England as the language of the ruling class and gradually filtered through to the language of the law.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151012T142912Z" creationid="dinhquy" creationdate="20151012T142912Z">
+        <seg>Trong thời kì của Norman tiếng Pháp là ngôn ngữ ở Anh như là ngôn ngữ của giai cấp thống trị và chọn lọc trở thành ngôn ngữ của pháp luật.</seg>
       </tuv>
     </tu>
     <tu>
