@@ -63,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A subculture of violence exists within some prisons, with physical violence being approved by some prisoners.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T145450Z" creationid="LHC" creationdate="20151014T145450Z">
+        <seg>...bạo lực tồn tại ở một số nhà tù, một sô ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A trend consistent across the literature is that approximately twenty per cent of sexual offences are committed by adolescents.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T153911Z" creationid="Demon" creationdate="20151007T153911Z">
@@ -819,6 +827,14 @@
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151011T160602Z" creationid="LHC" creationdate="20151011T160602Z">
         <seg>Việc dùng làm nơi trừng phạt chẳng phải là một điều gì sung sướng đối với các nhà tù.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For some prisoners prison might therefore be a very different environment from what they &lt;t0/&gt;were used to in the outside world and therefore being imprisoned can require a lot of adjustment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T145705Z" creationid="LHC" creationdate="20151014T145705Z">
+        <seg>Đối với nhiều tù nhân, nhà tù vì thế thực sự rất khác so với những gì mà họ đã sống ở bên ngoài và chính vì thế việc bị bắt khiến tù </seg>
       </tuv>
     </tu>
     <tu>
