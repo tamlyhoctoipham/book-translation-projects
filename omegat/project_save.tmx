@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From just these few statistics, it seems that being imprisoned brings with it a substantial risk of being victimized.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T234610Z" creationid="LHC" creationdate="20151014T234552Z">
+        <seg>Chỉ từ một vài số liệu thống kê này dường như đã thấy rằng việc bị ngồi tù dẫn đến nguy cơ thực tế về việc bị ngược đãi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the results of the meta-analyses, the panel of inter- national experts in offender rehabilitation drew up a set of criteria to which all future programmes should adhere.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T045537Z" creationid="USER" creationdate="20151007T051305Z">
@@ -3643,16 +3651,16 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>Using a different definition and a different approach, researchers in the US found that, on average, their male inmates were victimized once a month.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LHC" changedate="20151014T234350Z" creationid="LHC" creationdate="20151014T234350Z">
-        <seg>Sử dụng cách xác định và tiếp cận khác nhau, các nhà nghiên cứu Mỹ thấy rằng, trung bình tù nhân nam bị ngược đãi mỗi tháng một lần </seg>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T234616Z" creationid="LHC" creationdate="20151014T234350Z">
+        <seg>Sử dụng cách xác định và tiếp cận khác nhau, các nhà nghiên cứu Mỹ thấy rằng, trung bình tù nhân nam bị ngược đãi mỗi tháng một lần .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Using a timescale of the previous week, UK researchers found that forty-five per cent of their male adult and young offenders reported behaving in ways that were considered indicative of bullying others and forty per cent of prisoners reported experiencing such behaviours.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LHC" changedate="20151014T233755Z" creationid="LHC" creationdate="20151014T233755Z">
-        <seg>Sử dụng thang thời gian trong tuần trước, nhóm nhà nghiên cứu ở Anh đã thấy rằng 45% số tội phạm nam giới và trẻ tuổi có những hành vi giống như là bắt nạt người khác và 40% số tù nhân được bác cáo là đang trải qua những hành vi tương tự </seg>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T234635Z" creationid="LHC" creationdate="20151014T233755Z">
+        <seg>Sử dụng thang thời gian trong tuần trước, nhóm nhà nghiên cứu ở Anh đã thấy rằng 45% số tội phạm nam giới và trẻ tuổi có những hành vi giống như là bắt nạt người khác và 40% số tù nhân được bác cáo là đang trải qua những hành vi tương tự. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,8 +3675,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>Very similar percentages were found by Susie Grennan and Jessica Woodhams with their sample of young offenders.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LHC" changedate="20151014T234049Z" creationid="LHC" creationdate="20151014T234049Z">
-        <seg>Số liệu tương tự cũng được tìm thấy trong những báo cáo của Susie Grennan và Jessica Woodhams với đối tượng là người phạm tội trẻ tuổi</seg>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T234623Z" creationid="LHC" creationdate="20151014T234049Z">
+        <seg>Số liệu tương tự cũng được tìm thấy trong những báo cáo của Susie Grennan và Jessica Woodhams với đối tượng là người phạm tội trẻ tuổi.</seg>
       </tuv>
     </tu>
     <tu>
