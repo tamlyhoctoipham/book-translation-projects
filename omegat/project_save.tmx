@@ -135,6 +135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also some prisoners might experience one type of loneliness but not the other.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T144945Z" creationid="LHC" creationdate="20151014T144945Z">
+        <seg>Cũng có một vài tù nhân trải qua một trong hai loại có đơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, it is important to note that prisoners are individuals and their resilience to each stressor will vary.</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151012T172857Z" creationid="yuko" creationdate="20151012T172857Z">
@@ -779,6 +787,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T120326Z" creationid="USER" creationdate="20151008T164121Z">
         <seg>Thí dụ, thật rõ ràng khi lí giải rằng một người phạm tội bị bắt giữ vì ăn trộm ở nhà dân có thể sẽ không được thông cảm và cho chép để tiến hành chương trình trị liệu với mục đích định vị các cư xử hung hăng. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, prisoners who are part of an established criminal network may find it easier to integrate into the prison social network if they have co- offenders imprisoned with them at the same time.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151014T144852Z" creationid="LHC" creationdate="20151014T144852Z">
+        <seg>Chẳng hạn, các tù nhân là thành viên của một băng nhóm tội phạm trước đó sẽ cảm thấy dễ dàng hơn khi ngồi tù nếu họ có đồng phạm bị bắt cùng lúc.</seg>
       </tuv>
     </tu>
     <tu>
