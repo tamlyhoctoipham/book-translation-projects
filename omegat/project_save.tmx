@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A geographical profiler could be asked to identify the likely location of an offender’s home from the geography of his or her known offences.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T022233Z" creationid="Hx" creationdate="20151015T022233Z">
+        <seg>Một người lập hồ sơ dựa theo yếu tố địa lý sẽ được yêu cầu .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A higher crime rate might also partly be an increase in the reporting of sexual offences, which implies that people are becoming more intolerant of unacceptable &lt;t2/&gt;behaviour&lt;t3/&gt; and believe that reported offences will be taken seriously by the police and courts.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T134642Z" creationid="Demon" creationdate="20151007T134642Z">
@@ -3138,8 +3146,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The types of tasks that offender profilers might be asked to complete depend on the type of profiler they are.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151015T021953Z" creationid="Hx" creationdate="20151015T021634Z">
-        <seg>Những loại nhiệm vụ mà người lập hồ sơ phải hoàn thành phụ thuộc vào việc họ là kiểu người lập hồ sơ nào. </seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T022238Z" creationid="Hx" creationdate="20151015T021634Z">
+        <seg>Những dạng nhiệm vụ mà người lập hồ sơ phải hoàn thành phụ thuộc vào việc họ là kiểu người lập hồ sơ nào. </seg>
       </tuv>
     </tu>
     <tu>
