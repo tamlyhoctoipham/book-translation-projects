@@ -1027,8 +1027,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>For example, the transport available to burglars has been found to affect the distance they travelled to commit burglaries.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151015T044138Z" creationid="Hx" creationdate="20151015T044138Z">
-        <seg>Ví dụ: .</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T045053Z" creationid="Hx" creationdate="20151015T044138Z">
+        <seg>Ví dụ: các phương tiện giao thông sẵn có đối với những kẻ trộm đêm được phát hiện ra rằng sẽ ảnh hưởng tới khoảng cách chúng di chuyển để thực hiện trộm cắp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4025,6 +4025,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151014T153347Z" creationid="Lenovo" creationdate="20151014T145536Z">
         <seg>Những người tin vào giá trị của quá trình thủ tục thì tin rằng những người phạm tội rất khó để nhận dạng và điều này làm cho việc kiểm soát và trừng phạt gặp khó khăn .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those with cars tended to travel further than those who were on foot.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T045129Z" creationid="Hx" creationdate="20151015T045129Z">
+        <seg>Những kẻ có ô tô có xu hướng di chuyển xa hơn những kẻ đi bộ.</seg>
       </tuv>
     </tu>
     <tu>
