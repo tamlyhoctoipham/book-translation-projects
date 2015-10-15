@@ -81,8 +81,8 @@
       <tuv lang="EN-US">
         <seg>A number of different materials can be used by an offender profiler in constructing a profile or in geographically profiling an offender’s likely home.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151015T032424Z" creationid="Hx" creationdate="20151015T032424Z">
-        <seg>Một số những công cụ khác nhau có thể được một nhà lập hồ sơ tội phạm sử dụng để xây dựng nên một bộ hồ sơ hoặc theo địa lý, thiết lập hồ sơ về nơi có thể là nhà của người phạm tội.</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T044143Z" creationid="Hx" creationdate="20151015T032424Z">
+        <seg>Một số những công cụ khác nhau có thể được một nhà lập hồ sơ tội phạm sử dụng để xây dựng nên một bộ hồ sơ hoặc theo địa lý, thiết lập hồ sơ về nơi có thể là nhà của kẻ phạm tội.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,6 +1021,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T121004Z" creationid="USER" creationdate="20151009T093333Z">
         <seg>Ví dụ, vài nhóm dân tộc thiểu số có thể cảm thấy đặc biệt khó khăn khi nói về hành vi phạm tội của họ với nhóm thiết lập điều trị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the transport available to burglars has been found to affect the distance they travelled to commit burglaries.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T044138Z" creationid="Hx" creationdate="20151015T044138Z">
+        <seg>Ví dụ: .</seg>
       </tuv>
     </tu>
     <tu>
