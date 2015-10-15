@@ -3773,6 +3773,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a zone located around an offender’s home where he or she will not offend because, while the effort of travel is minimal, the likelihood of being recognized and therefore apprehended is higher.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T041507Z" creationid="Hx" creationdate="20151015T041507Z">
+        <seg>Đây là một khu vực nằm xung quanh ngôi nhà của một kẻ phạm tội nơi mà anh ta hoặc cô ta sẽ không gây án bởi vì, khi nỗ lực di chuyển là tối thiểu, khả năng bị nhận ra và do đó bị bắt giữ sẽ cao hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is based on getting offenders to consider their past behaviour and think about changing their future behaviour – going from being criminals to law-abiding citizens.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151008T141603Z" creationid="Lenovo" creationdate="20151008T141603Z">
@@ -4312,8 +4320,8 @@ Cùng với quyển từ điển thành ngữ và thật nhiều ngôn ngữ ký
       <tuv lang="EN-US">
         <seg>Within geographical profiling there is also the idea of a buffer zone which relates to both of the above principles.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151015T041207Z" creationid="Hx" creationdate="20151015T041207Z">
-        <seg>Trong phạm vi thiết lập hồ sơ theo địa lý, còn có một khái niệm về vùng đệm -.</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T041254Z" creationid="Hx" creationdate="20151015T041207Z">
+        <seg>Trong phạm vi thiết lập hồ sơ theo địa lý, còn có một khái niệm về vùng đệm, liên quan tới cả hai nguyên tắc trên.</seg>
       </tuv>
     </tu>
     <tu>
