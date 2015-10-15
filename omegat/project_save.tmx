@@ -2962,8 +2962,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The latter is what people most commonly associate with the term offender profiling.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151015T021511Z" creationid="Hx" creationdate="20151015T021105Z">
-        <seg>Loại thứ hai là loại hầu hết mọi người thường liên tưởng đến khi nói về thiết lập hồ sơ tội phạm.</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T021837Z" creationid="Hx" creationdate="20151015T021105Z">
+        <seg>Loại thứ hai là loại mọi người thường liên tưởng đến nhất khi nói về việc thiết lập hồ sơ tội phạm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3132,6 +3132,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151014T151032Z" creationid="LHC" creationdate="20151014T150942Z">
         <seg>Hành vi bắt nạt xảy ra trong tù bao gồm các hình thức trực tiếp và gián tiếp của việc bị ngược đãi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The types of tasks that offender profilers might be asked to complete depend on the type of profiler they are.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T021634Z" creationid="Hx" creationdate="20151015T021634Z">
+        <seg>Những loại nhiệm vụ mà người lập hồ sơ phải hoàn thành phụ thuộc vào </seg>
       </tuv>
     </tu>
     <tu>
