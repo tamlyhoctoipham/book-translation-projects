@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2763,6 +2763,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Psychologists too are interested in courtroom processes and relationships and can study courtroom language in pursuing these interests, and in this field there is certainly room for psychologists and linguists to collaborate.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151015T080513Z" creationid="dinhquy" creationdate="20151015T080513Z">
+        <seg>Các nhà tâm lý quá quan tâm đến quá trình xử án và các mối quan hệ và có thể học ngôn ngữ phòng xử án trong việc theo đuổi những lợi ích, và trong lĩnh vực này chắc chắn là có chỗ cho tâm lý học và ngôn ngữ học để cộng tác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Psychologists, for example, may be interested in individuals who are excluded from full participation in the legal system because they are in some way psychologically vulnerable.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151015T080138Z" creationid="dinhquy" creationdate="20151015T080138Z">
@@ -3071,6 +3079,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151014T143349Z" creationid="LHC" creationdate="20151014T143349Z">
         <seg>Một số tác nhân xuất phát từ yếu tố bên ngoài trong khi một số lại bắt nguồn từ môi trường bên trong nhà tù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some psychologists, for example, are interested in the processes of legal decision-making but appear to pay little attention to how decision-making processes may have changed over the history of the law in civil society.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151015T080623Z" creationid="dinhquy" creationdate="20151015T080623Z">
+        <seg>Ví dụ như một số nhà tâm lý học, quan tâm đến các quy trình quy phạm pháp luật ra quyết định nhưng dường như ít chú ý đến cách các quy trình ra quyết định có thể đã thay đổi trong lịch sử của pháp luật trong xã hội dân sự.</seg>
       </tuv>
     </tu>
     <tu>
