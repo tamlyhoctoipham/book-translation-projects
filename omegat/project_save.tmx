@@ -1050,6 +1050,22 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Geographical profiling has its history in environmental criminology.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T033354Z" creationid="Hx" creationdate="20151015T033354Z">
+        <seg>Lập hồ sơ theo địa lý có nguồn gốc từ tội phạm học theo môi trường sống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Geographical profiling is typically used to identify the likely area of an offender’s residence from the location of the crime.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T033056Z" creationid="Hx" creationdate="20151015T033056Z">
+        <seg>Thiết lập hồ sơ theo địa lý thường được sử dụng để xác định khu vực nào có nhiều khả năng là nơi cư trú của người phạm tội dựa trên vị trí của vụ án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good examples include habeas corpus (the right to be taken before a court after a certain period of arrest) and &lt;t2/&gt;mens&lt;t3/&gt; rea (referring to a person’s culpable mental state with regard to a crime, e.g. intentionally harming someone or driving recklessly).</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T144621Z" creationid="dinhquy" creationdate="20151012T144621Z">
@@ -2927,6 +2943,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T052006Z" creationid="USER" creationdate="20151008T050456Z">
         <seg>Nghiên cứu với số lượng người tham gia mẫu nhỏ hơn ít có thể tìm ra bất cứ ảnh hưởng nào của việc điều trị (nếu mà nó thật sự có tồn tại). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such an approach can be very useful in narrowing down a pool of suspects or enabling the police to prioritize an area for investigation or DNA sampling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151015T033327Z" creationid="Hx" creationdate="20151015T033327Z">
+        <seg>Cách tiếp cận như vậy rất hữu ích trong việc thu hẹp vùng nghi phạm hoặc cho phép cảnh sát ưu tiên một khu vực để điều tra hoặc lấy mẫu DNA.</seg>
       </tuv>
     </tu>
     <tu>
