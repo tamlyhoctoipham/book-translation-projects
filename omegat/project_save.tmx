@@ -1308,8 +1308,8 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       <tuv lang="EN-US">
         <seg>However, even with good procedures in place witnesses still make identification errors.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151012T124430Z" creationid="ADMIN" creationdate="20151012T124430Z">
-        <seg>Dù thế, ngay cả khi có quy trình tốt đi chăng nữa thì nhân chứng vẫn mắc lỗi.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151017T044826Z" creationid="ADMIN" creationdate="20151012T124430Z">
+        <seg>Dù thế, ngay cả khi có quy trình tốt đi chăng nữa thì nhân chứng vẫn sẽ mắc lỗi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4001,6 +4001,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151008T130950Z" creationid="Lenovo" creationdate="20151007T160230Z">
         <seg>Đây chính là khái niệm " hình phạt thích đáng" trong đó kẻ phạm tội là mục tiêu của sự trừng phạt tương đương với tội mà họ đã phạm phải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This kind of procedure has become standard police practice in several countries (it has been mandated by law in England and Wales for twenty years) and is strongly recommended in the USA in the 1999 Attorney General’s Guidelines (which were informed by the research of psychologists).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151017T044806Z" creationid="ADMIN" creationdate="20151017T044806Z">
+        <seg>Cách làm này trở thành chuẩn thực hiện cho cảnh sát ở nhiều nước (luật pháp ở nước Anh và xứ Wales cho phép trong hai mươi năm) và rất được khuyến khích sử dụng ở Mĩ trong Hướng dẫn chung cho luật sư năm 1999 (chúng tôi biết đến điều này nhờ nghiên cứu của các nhà tâm lý học).</seg>
       </tuv>
     </tu>
     <tu>
