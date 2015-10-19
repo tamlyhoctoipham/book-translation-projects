@@ -1546,6 +1546,14 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If liars are nervous then they may behave like this.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151019T122514Z" creationid="nguye" creationdate="20151019T122430Z">
+        <seg>Nếu người nói dối lo lắng , họ sẽ cư xử như thế  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If someone has committed a crime, then he or she has to be punished for what he or she has done; for what has gone on in the past.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151014T051354Z" creationid="Lenovo" creationdate="20151007T154500Z">
@@ -3638,8 +3646,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The reason why people think this probably relates to the fact that such &lt;t2/&gt;behaviours&lt;t3/&gt; are fairly useful indicators of nervousness.</seg>
       </tuv>
-      <tuv lang="VI" changeid="nguye" changedate="20151019T122407Z" creationid="nguye" creationdate="20151019T122407Z">
-        <seg>Lý do tại sao người ta thường nghĩ thế có nhiều khả năng liên quan đến việc những hành vị đó là những biểu thị khá hữu dụng của lo lắng</seg>
+      <tuv lang="VI" changeid="nguye" changedate="20151019T122440Z" creationid="nguye" creationdate="20151019T122407Z">
+        <seg>Lý do tại sao mọi người thường nghĩ thế có nhiều khả năng liên quan đến việc những hành vị đó là những biểu thị khá hữu dụng của lo lắng</seg>
       </tuv>
     </tu>
     <tu>
