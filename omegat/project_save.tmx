@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any rights under the law have to be communicated through language.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T030821Z" creationid="PhuongThao" creationdate="20151020T030821Z">
+        <seg>Bất kỳ quyền gì theo pháp luật cũng đều phải được truyền tải qua ngôn ngữ. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anything you do say may be given in evidence.’</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151015T035412Z" creationid="PhuongThao" creationdate="20151015T035412Z">
@@ -4096,6 +4104,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151019T062617Z" creationid="Admin" creationdate="20151019T062617Z">
         <seg>Những vấn đề tâm lý này có thể có (hoặc không) là kết quả ảnh hưởng từ tội ác mà họ gây ra(vd như sự phát triển của rối loạn sau sang chấn hay việc nhận thức về ảnh hưởng của hành động của họ đối với nạn nhân) hay cũng có thể là ảnh hưởng của nơi mà họ bị giam giữ (vd như việc gia tăng trầm cảm khi phải sống xa gia đình hay sự lo lắng, sợ hãi khi liên tục bị áp bức từ những tù nhân khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These questions obviously involve points of law but they also involve issues of comprehension.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T030750Z" creationid="PhuongThao" creationdate="20151020T030750Z">
+        <seg>Hiển nhiên, những câu hỏi này liên quan đến pháp luật, nhưng chúng cũng liên quan đến sự lĩnh hội nữa. </seg>
       </tuv>
     </tu>
     <tu>
