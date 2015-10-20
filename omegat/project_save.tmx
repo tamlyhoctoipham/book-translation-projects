@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anything you say can and will be used against you in a court of law.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T020612Z" creationid="PhuongThao" creationdate="20151020T020612Z">
+        <seg>Bất kỳ điều gì anh nói đều có thể và sẽ được dùng để chống lại anh trước tòa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying this to crime, if offenders have to choose between two different targets, if all other factors are equal, they will choose the one that is geographically closer to them.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T034809Z" creationid="Hx" creationdate="20151015T034809Z">
@@ -1630,6 +1638,14 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151011T161325Z" creationid="LHC" creationdate="20151011T161209Z">
         <seg>Nếu như mục đích của việc bắt giữ là để ngăn cản những người bị giam giữ khỏi nguy cơ tái phạm hoặc để ngăn ngừa các hành động phạm pháp của những công dân tuân thủ pháp luật, việc bỏ tù chắc hẳn cũng không phải là một trải nghiệm vui thú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cannot afford a lawyer, one will be provided for you at government expense.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T020756Z" creationid="PhuongThao" creationdate="20151020T020756Z">
+        <seg>Nếu anh không đủ tiền chi tra để mời luật sư, một luật sư sẽ được mời đến để giúp anh bằng chi phí của Chính phủ. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4932,6 +4948,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151020T020256Z" creationid="PhuongThao" creationdate="20151020T020233Z">
         <seg>Anh có quyền giữ im lặng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have the right to speak to an attorney, and to have an attorney present during any questioning.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T020709Z" creationid="PhuongThao" creationdate="20151020T020709Z">
+        <seg>Anh có quyền mời luật sư, và có luật sư hiện diện suốt bên cạnh trong bất kỳ buổi thẩm vấn nào. </seg>
       </tuv>
     </tu>
     <tu>
