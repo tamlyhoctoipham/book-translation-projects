@@ -1177,6 +1177,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, Jessica Woodhams found only two per cent of prisoners in a low security prison reported being bullied in the previous month.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151020T140109Z" creationid="LHC" creationdate="20151020T140109Z">
+        <seg>Ví dụ, Jessica Woodhams thấy rằng chỉ có 2% số tội phạm trong các nhà tù có mức độ an ninh thấp bị bắt nạt trong tháng gần đây.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a profiler might try to infer a criminal’s age, gender or employment history from the way he or she has behaved during a crime.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151008T034603Z" creationid="Hx" creationdate="20151008T034603Z">
@@ -2238,6 +2246,14 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T040114Z" creationid="MSI" creationdate="20151020T040114Z">
         <seg>Liệu kỳ vọng ấy có thực sự hợp lý?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also seems possible that the risk of being victimized varies depending on the security rating of the prison.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151020T135949Z" creationid="LHC" creationdate="20151020T135949Z">
+        <seg>Có khả năng, nguy cơ trở thành nạn nhân thì tùy thuộc vào mức độ canh chừng an ninh trong tù.</seg>
       </tuv>
     </tu>
     <tu>
