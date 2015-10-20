@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2811,6 +2811,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Others, however, think that offenders should have an opportunity, if appropriate, to receive treatment aimed at altering their behaviour in an attempt to pre- vent future offending.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151020T033528Z" creationid="Nga" creationdate="20151020T033341Z">
+        <seg>Tuy nhiên, một số người khác lại nghĩ phạm nhân nên có được cơ hội thỏa đáng để nhận sự điều trị nhằm mục đích thay đổi hành vi để ngăn ngừa sự tái phạm trong tương lai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over a period of time Norman French became established in England as the language of the ruling class and gradually filtered through to the language of the law.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T142912Z" creationid="dinhquy" creationdate="20151012T142912Z">
@@ -3387,6 +3395,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some think that they should be punished and may make statements such as ‘offenders should be locked up and the key thrown away’.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151020T033525Z" creationid="Nga" creationdate="20151020T032824Z">
+        <seg>Một số người cho rằng họ nên bị trừng phạt và phát biểu rằng 'phạm nhân nên bị tù thân'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Someone who completes a programme may have subsequently committed a dozen or more crimes but as he or she was not caught and reconvicted, it would appear that the programme was effective.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T160613Z" creationid="USER" creationdate="20151008T160613Z">
@@ -3407,6 +3423,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151011T160451Z" creationid="LHC" creationdate="20151011T160451Z">
         <seg>Nói một cách cụ thể hơn, nhà tù được lập ra với mục đích để trừng phạt kẻ ác và ngăn chặn việc xấu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Still other groups think that the access to rehabilitation should depend on the type and seriousness of the crime committed, the number of previous convictions or the extent of harm caused to the victim of the crime.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151020T033727Z" creationid="Nga" creationdate="20151020T033727Z">
+        <seg>Vẫn có những nhóm khác nghĩ rằng khả năng có được sự cải tạo còn phụ thuộc vào .</seg>
       </tuv>
     </tu>
     <tu>
