@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -153,8 +153,8 @@
       <tuv lang="EN-US">
         <seg>According to UK Home Office figures, in 2004 in England and Wales, over 15,000 offenders completed a community based offending behaviour programme and over 8,000 a prison based programme, many of which are delivered and managed by criminal psychologists.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Nga" changedate="20151020T041020Z" creationid="Nga" creationdate="20151020T040353Z">
-        <seg>Theo số liệu của Bộ Nội Vụ Vương quốc Anh, năm 2004 ở Anh và Wales, 15,000 tù nhân đã hoàn thành chương trình hànhh vi phạm tội dựa trên cộng đồng và hơn 8,000  .</seg>
+      <tuv lang="VI" changeid="Nga" changedate="20151020T041638Z" creationid="Nga" creationdate="20151020T040353Z">
+        <seg>Theo số liệu của Bộ Nội Vụ Vương quốc Anh, năm 2004 ở Anh và Wales, 15,000 tù nhân đã hoàn thành chương trình hành vi phạm tội dựa trên cộng đồng và hơn 8,000 đã hoàn thành chương trình trong nhà giam, nhiều phạm nhân trong số đó được quản lý bởi các nhà tâm lý học tôi phạm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3840,6 +3840,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T103238Z" creationid="USER" creationdate="20151009T103238Z">
         <seg>Phần tiếp theo sẽ khảo sát những nguyên tắc này kỹ lưỡng hơn và sẽ đánh giá chúng quan trọng thế nào khi áp dụng với người phạm tội bằng các biện pháp can thiệp đúng đắn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The growth in the use of programmes over the last few years can be demonstrated by comparing these figures against those from 2001.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151020T041703Z" creationid="Nga" creationdate="20151020T041703Z">
+        <seg>Sự phát.</seg>
       </tuv>
     </tu>
     <tu>
