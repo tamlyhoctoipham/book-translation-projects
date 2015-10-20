@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example of this is the case known as the ‘Cardiff Three’.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T045042Z" creationid="MSI" creationdate="20151020T045042Z">
+        <seg>Ví như vụ án Cardiff Three. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An offender profiler might be asked to construct a profile of an unknown offender giving details of his or her likely characteristics as inferred from the offender’s behaviour at the crime scene.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T024710Z" creationid="Hx" creationdate="20151015T024100Z">
@@ -2244,8 +2252,8 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       <tuv lang="EN-US">
         <seg>It has also had a significant effect on what are termed ‘miscarriages of justice’, whereby innocent people have been convicted for a crime they did not commit (see chapter 8).</seg>
       </tuv>
-      <tuv lang="VI" changeid="MSI" changedate="20151020T044517Z" creationid="MSI" creationdate="20151020T044517Z">
-        <seg>Nó cũng có ảnh hưởng đáng kể đến cái gọi là 'sai lầm của công lý</seg>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T044930Z" creationid="MSI" creationdate="20151020T044517Z">
+        <seg>Nó cũng có ảnh hưởng đáng kể đến cái gọi là 'sai lầm của công lý', là những trường hợp người vô tội đã bị kết án trong khi họ không hề phạm tội (xem Chương 8).  </seg>
       </tuv>
     </tu>
     <tu>
