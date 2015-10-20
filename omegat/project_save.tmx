@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -957,6 +957,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Nga" changedate="20151011T045702Z" creationid="Nga" creationdate="20151011T045702Z">
         <seg>Bạn có nghĩ rằng phạm nhân có thể sửa đổi hành vi sau khi được tải tạo??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you think that the time and money spent on interventions with offenders is justified or a waste of precious resources?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151020T032316Z" creationid="Nga" creationdate="20151020T032316Z">
+        <seg>Bạn cho rằng tiền bạc và thời gian bỏ ra để giúp đỡ ?</seg>
       </tuv>
     </tu>
     <tu>
