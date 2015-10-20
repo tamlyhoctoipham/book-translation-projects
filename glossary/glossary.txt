@@ -438,3 +438,6 @@ witness	nhân chứng
 witnesses's accounts	biên bản khai của người làm chứng
 wriggle	quanh co
 wrongdoer	người phạm pháp
+perceptions	nhận thức
+offenders	tội phạm
+informants	người cung cấp tin tức, người báo tin
