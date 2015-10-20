@@ -4928,6 +4928,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have the right to remain silent.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T020256Z" creationid="PhuongThao" creationdate="20151020T020233Z">
+        <seg>Anh có quyền giữ im lặng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You nod uncertainly.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151015T021906Z" creationid="PhuongThao" creationdate="20151015T021906Z">
