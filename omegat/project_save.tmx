@@ -3165,8 +3165,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Recent advances in technology have changed the way many crimes are investigated, and the type of evidence that can be produced to bring an offender to justice.</seg>
       </tuv>
-      <tuv lang="VI" changeid="MSI" changedate="20151020T042305Z" creationid="MSI" creationdate="20151020T041950Z">
-        <seg>Sự phát triển của công nghệ trong thời gian gần đây đã thay đổi cách thức điều tra tội phạm, các chứng cứ được tạo ra dưới nhiều hình thức khác nhau nhằm truy tìm kẻ phạm tội. </seg>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T042402Z" creationid="MSI" creationdate="20151020T041950Z">
+        <seg>Sự phát triển của công nghệ trong thời gian gần đây đã thay đổi cách thức điều tra tội phạm, các chứng cứ được tạo ra dưới nhiều hình thức khác nhau nhằm phát hiện ra kẻ phạm tội. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3896,6 +3896,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151010T071722Z" creationid="dinhquy" creationdate="20151010T071722Z">
         <seg>Ông ấy gợi ý mô hình này nên được giảng những thứ phức tạp trong lớp học.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most notable example of this is DNA profiling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T042457Z" creationid="MSI" creationdate="20151020T042457Z">
+        <seg>Ví dụ đáng chú ý nhất cho sự thay đổi này là hồ sơ DNA. </seg>
       </tuv>
     </tu>
     <tu>
