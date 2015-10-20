@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1101,6 +1101,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151007T083038Z" creationid="Admin" creationdate="20151007T083038Z">
         <seg>Ví dụ, ở một số nước nằm trong Châu Âu, một nhân chứng chuyên gia được tòa án triệu tập để cung cấp thông tin khi cần thiết. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, in the case described above if the police officer asks you what happened, should you answer straightaway?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T021348Z" creationid="PhuongThao" creationdate="20151020T021348Z">
+        <seg>Lấy ví dụ như nếu là anh trong vụ việc được miêu tả ở trên, khi người cảnh sát hỏi anh về điều gì đã xảy ra, liệu anh có nên trả lời ngay lập tức hay không ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4813,6 +4821,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What would be the best thing to do?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T021437Z" creationid="PhuongThao" creationdate="20151020T021437Z">
+        <seg>Nên làm gì thì mới là tốt nhất đây? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an offender is apprehended the profiler might also be asked to advise the police on the way that particular suspects should be interviewed.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T025025Z" creationid="Hx" creationdate="20151015T025025Z">
@@ -4930,6 +4946,14 @@ Cùng với quyển từ điển thành ngữ và thật nhiều ngôn ngữ ký
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T041254Z" creationid="Hx" creationdate="20151015T041207Z">
         <seg>Trong phạm vi thiết lập hồ sơ theo địa lý, còn có một khái niệm về vùng đệm, liên quan tới cả hai nguyên tắc trên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would it be better to stay quiet until you have &lt;t0/&gt;spoken with a lawyer?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T021421Z" creationid="PhuongThao" creationdate="20151020T021421Z">
+        <seg>Hay là sẽ tốt hơn nếu anh giữ im lặng cho đến khi anh nói chuyện với luật sư? </seg>
       </tuv>
     </tu>
     <tu>
