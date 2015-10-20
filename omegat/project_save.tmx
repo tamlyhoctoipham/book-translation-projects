@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -720,6 +720,14 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter three.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151014T094226Z" creationid="MSI" creationdate="20151014T094226Z">
+        <seg>Chương 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter two.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151008T023922Z" creationid="Hx" creationdate="20151008T023922Z">
@@ -1025,6 +1033,22 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even this description is not without problems, for it is difficult for any definition to capture the vast array of duties performed by the police.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T035623Z" creationid="MSI" creationdate="20151020T035623Z">
+        <seg>Ngay cả những mô tả này cũng có những vấn đề cần phải xem xét, chẳng hạn như việc đi tìm một khái niệm nào đó có thể nắm bắt được toàn bộ danh sách dài dằng dặc các nhiệm vụ mà cảnh sát phải thực hiện.  .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every day the police service is involved in a large range of activities, ranging from fairly trivial tasks such as giving directions to dealing with serious road accidents, reporting deaths to loved ones and investigating crime.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T035637Z" creationid="MSI" creationdate="20151020T035637Z">
+        <seg>Hàng ngày, người cảnh sát phải thực hiện các nhiệm vụ liên quan đến nhiều hoạt động khác nhau, từ những việc thông thường như hướng dẫn đi lại cho tới việc nghiêm trọng hơn như xử lý tai nạn, thông báo tin buồn cho thân nhân người gặp nạn, điều tra tội phạm. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evidence of this history can be found in modern legal language.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T144111Z" creationid="dinhquy" creationdate="20151012T144111Z">
@@ -1069,6 +1093,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T092046Z" creationid="USER" creationdate="20151009T092046Z">
         <seg>Cuối cùng, những người phạm tội không biết chữ hoặc có lý do chính đáng tại sao họ không thể đối mặt với nhóm điều trị sẽ cần một loại chương trình điều trị khác từ những người có biểu hiện tốt trong nhóm và có thể đọc và viết một cách thỏa đáng. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, this chapter will explore citizens’ perceptions of the police and other police and security agencies, track some of the key developments in the private security industry over the last decade and discuss some forms of voluntary policing, both within and outside the limits of the law.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151014T104132Z" creationid="MSI" creationdate="20151014T104132Z">
+        <seg>Sau cùng, nó sẽ tìm hiểu về nhận thức của người dân về cảnh sát và các lực lượng an ninh, theo dõi những đột phá của lĩnh vực an ninh tư nhân trong sự phát triển ở thập niên trước và bàn luận về hình thức cảnh sát tự nguyện, cả trong và ngoài luật định.     </seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,6 +2154,14 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It could be argued that much of what the police do on a daily basis is in fact unrelated to crime.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T035649Z" creationid="MSI" creationdate="20151020T035649Z">
+        <seg>Có thể khẳng định rằng những công việc thường ngày của cảnh sát không liên quan nhiều đến tội phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It could be that both the smoker and the criminal see that their behaviour is having a detrimental effect on their lives and the lives of their loved ones.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T035241Z" creationid="USER" creationdate="20151010T035107Z">
@@ -2275,6 +2315,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It might be thought that the roles and responsibilities of the police are well known and agreed upon, but an independent committee of inquiry into the roles and responsibilities of the police in England and Wales (1996) found that no such consensus actually existed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T034726Z" creationid="MSI" creationdate="20151020T034642Z">
+        <seg>Vai trò và trách nhiệm của cảnh sát tưởng như  đều được biết đến và được thỏa thuận, tuy nhiên khi một ủy ban độc lập thực hiện điều tra vấn đề này đối với cảnh sát tại Anh và xứ Wales (1996), họ nhận ra rằng sự đồng thuận này không tồn tại. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It requires precision and understanding to be stable across situation and time.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T150958Z" creationid="dinhquy" creationdate="20151012T150958Z">
@@ -2303,6 +2351,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151008T035600Z" creationid="Hx" creationdate="20151008T031632Z">
         <seg>Chương hai này cũng sẽ giới thiệu với các bạn hoạt động rất thú vị nhưng hầu như chưa được công khai của việc xâu chuỗi các tội ác, điều mà đôi khi được xem như là một dạng của thiết lập hồ sơ tội phạm. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will review the general features of the police role, how this has changed over time and how these changes are reflected in the police image.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151014T104110Z" creationid="MSI" creationdate="20151014T104110Z">
+        <seg>Nó đưa ra những nhận xét về vai trò của cảnh sát, đặc tính chung, quá trình thay đổi theo thời gian, những thay đổi đó đã được phản ánh như thế nào qua hình tượng cảnh sát </seg>
       </tuv>
     </tu>
     <tu>
@@ -2887,6 +2943,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151006T154052Z" creationid="Jennifer Tran" creationdate="20151006T154052Z">
         <seg>Các lực lượng cảnh sát ở nhiều quốc gia thường thích tạo một mối quan hệ tích cực với công chúng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Police officers not only perform a vast range of ‘social service’ duties, but work and interact with a variety of people within the criminal justice system, including offenders, informants, suspects, victims, witnesses, lawyers, solicitors, social workers, senior officers and staff at judicial proceedings when officers attend court to give evidence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T035706Z" creationid="MSI" creationdate="20151020T035706Z">
+        <seg>Cảnh sát không chỉ thực hiện những nhiệm vụ xã hội mà còn làm việc và tương tác với nhiều đối tượng trong hệ thống tư pháp khi anh ta làm chứng trước tòa, các đối tượng đó bao gồm tội phạm, người đưa tin, đối tượng tình nghi, nạn nhân, nhân chứng, luật sư, cố vấn pháp luật, người làm công tác xã hội, cán bộ cấp cao và nhân viên thực hiện thủ tục pháp lý. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3588,6 +3652,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The chapter also considers how police officers cope with the demands placed on them and how personnel are selected, and discusses some of the Government’s aims to create a police service representative of the community it serves.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151014T104122Z" creationid="MSI" creationdate="20151014T104122Z">
+        <seg>Nội dung chương này cũng quan tâm đến cách thức các sĩ quan cảnh sát xử lý những nhiệm vụ được yêu cầu, quy trình tuyển chọn sĩ quan cảnh sát, đồng thời thảo luận về những mục tiêu của Chính phủ nhằm tạo ra một hình mẫu cảnh sát của cộng đồng.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chapter will also talk about the effectiveness of these treatments; do the punishments work?</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T130811Z" creationid="Demon" creationdate="20151007T130811Z">
@@ -4228,6 +4300,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They proposed the following: ‘the purpose of the police service is to uphold the law fairly and firmly; to prevent crime; to pursue and bring to justice those who break the law; to keep the Queen’s peace; to protect, help, and reassure the community; and to be seen to do this with integrity, common sense and sound judgement’.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151020T034755Z" creationid="MSI" creationdate="20151020T034755Z">
+        <seg>Họ trích dẫn 'mục đích của cảnh sát là duy trì pháp luật một cách công bằng và kiên quyết; ngăn chặn tội ác; truy tìm và xử lý người phạm tội theo luật pháp; giữ trật tự an ninh; bảo vệ, giúp đỡ và trấn an cộng đồng; với sự chính trực, thường thức và suy xét'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They try to find out what the differences are in the histories of these people, which will then, hopefully, show whether there is a childhood trigger for sexual offending.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151012T153741Z" creationid="Demon" creationdate="20151012T153741Z">
@@ -4249,6 +4329,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151011T155549Z" creationid="LHC" creationdate="20151011T155147Z">
         <seg>Điều này có thể xuất phát từ những trải nghiệm thực tế khi bị giam giữ hoặc liên quan tới việc va chạm giữa một người với những người khác trong quá trình ở tù.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter offers an overview of some core issues concerning criminal psychology and policing.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151014T104058Z" creationid="MSI" creationdate="20151014T104058Z">
+        <seg>Chương này đưa ra một cái nhìn tổng quan về một trong những vấn đề cốt lõi của tâm lý học tội phạm và cảnh sát.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5268,6 +5356,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151008T033523Z" creationid="Hx" creationdate="20151008T033523Z">
         <seg>Thiết lập hồ sơ tội phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>policing&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151014T104052Z" creationid="MSI" creationdate="20151014T094247Z">
+        <seg>cảnh sát</seg>
       </tuv>
     </tu>
     <tu>
