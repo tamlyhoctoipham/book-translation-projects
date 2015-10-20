@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3429,8 +3429,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Still other groups think that the access to rehabilitation should depend on the type and seriousness of the crime committed, the number of previous convictions or the extent of harm caused to the victim of the crime.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Nga" changedate="20151020T033727Z" creationid="Nga" creationdate="20151020T033727Z">
-        <seg>Vẫn có những nhóm khác nghĩ rằng khả năng có được sự cải tạo còn phụ thuộc vào .</seg>
+      <tuv lang="VI" changeid="Nga" changedate="20151020T034310Z" creationid="Nga" creationdate="20151020T033727Z">
+        <seg>Vẫn có những nhóm khác nghĩ rằng khả năng có được sự cải tạo còn phụ thuộc vào loại tội ác và mức độ nghiêm trọng, số lần phạm tội truớc đó hoặc mức độ tổn hại đã gây ra cho nạn nhân.</seg>
       </tuv>
     </tu>
     <tu>
