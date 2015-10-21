@@ -2274,6 +2274,14 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the example of whether a caution was understood, a linguist might argue that without an interpreter the person’s rights were violated and any conviction would thus be unsafe.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T033704Z" creationid="PhuongThao" creationdate="20151021T033704Z">
+        <seg>Trong ví dụ về việc </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the first instance this information will be given verbally by the police officer.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151015T033220Z" creationid="PhuongThao" creationdate="20151015T033220Z">
@@ -2757,8 +2765,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Linguists, for example, can use their expertise in language practices to examine the peculiar language that is used in the courtroom.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T031353Z" creationid="PhuongThao" creationdate="20151021T031353Z">
-        <seg>Ví dụ, những nhà ngôn ngữ học có thể vận dựng sự thành thạo về mặt ngôn ngữ của họ để nghiên cứu thứ ngôn ngữ đặc biệt chỉ được dùng trong phòng xử án này.   </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T033858Z" creationid="PhuongThao" creationdate="20151021T031353Z">
+        <seg>Lấy ví dụ, những nhà ngôn ngữ học có thể vận dựng sự thành thạo về mặt ngôn ngữ của họ để nghiên cứu thứ ngôn ngữ đặc biệt chỉ được dùng trong phòng xử án này.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -5823,8 +5831,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>Whilst this area of forensic linguistics does not have a direct parallel in forensic psych- ology, in other areas there are overlaps in topics and approaches.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T031149Z" creationid="PhuongThao" creationdate="20151021T030534Z">
-        <seg>Trong khi vẫn chưa có một sự tương đương rõ ràng nào thuộc môn tâm lý học pháp y có thể so sánh với lĩnh vực trên của môn ngôn ngữ học pháp lý, ở những mặt khác như các chủ đề và phương pháp tiếp cận thì lại có nhiều sự chồng chéo giữa hai môn .</seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T033800Z" creationid="PhuongThao" creationdate="20151021T030534Z">
+        <seg>Trong khi vẫn chưa có một lĩnh vực tương đương rõ ràng nào thuộc môn tâm lý học pháp y có thể so sánh với lĩnh vực trên của môn ngôn ngữ học pháp lý, ở những mặt khác như các chủ đề và phương pháp tiếp cận thì lại có nhiều sự chồng chéo giữa hai môn học. </seg>
       </tuv>
     </tu>
     <tu>
