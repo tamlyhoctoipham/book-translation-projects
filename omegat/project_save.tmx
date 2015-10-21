@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Gudjonsson’s&lt;t1/&gt; (2003) book provides details of several such cases.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151021T015753Z" creationid="USER" creationdate="20151021T015647Z">
+        <seg>Cuốn sách của Gudjonsson sẽ cung cấp chi tiết một vài trường hợp. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A burglar might therefore notice that a family are going on holiday and target this house in their absence.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T042820Z" creationid="Hx" creationdate="20151015T042820Z">
@@ -321,8 +329,8 @@
       <tuv lang="EN-US">
         <seg>Another way of demonstrating that false confessions do occur is by examining individual cases in which people have confessed and have been found guilty on this basis by a court of law only for it to be demonstrated years later that they were not the guilty party.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151020T082154Z" creationid="USER" creationdate="20151020T082154Z">
-        <seg>Một cách khác để chứng minh rằng những lời thú tội giả thường xảy ra là bằng cách chất vấn riêng từng cá nhân thú tội và </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151021T015558Z" creationid="USER" creationdate="20151020T082154Z">
+        <seg>Một cách khác để chứng minh rằng những lời thú tội giả xảy ra là bằng cách chất vấn riêng từng cá nhân thú tội và đã bị kết án bởi quan tòa </seg>
       </tuv>
     </tu>
     <tu>
