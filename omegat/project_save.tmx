@@ -409,8 +409,8 @@
       <tuv lang="EN-US">
         <seg>As crime evolves into new areas, for example into new forms of fraud or Internet crime, so police need to continuously respond to the changing needs and challenges.</seg>
       </tuv>
-      <tuv lang="VI" changeid="MSI" changedate="20151021T094930Z" creationid="MSI" creationdate="20151021T094930Z">
-        <seg>Khi tội phạm .</seg>
+      <tuv lang="VI" changeid="MSI" changedate="20151021T102048Z" creationid="MSI" creationdate="20151021T094930Z">
+        <seg>Tội phạm luôn phát triển trong các lĩnh vực mới, ví như các hình thức gian lận mới hay tội phạm Internet, điều đó tạo ra những thử thách mới cho cảnh sát.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,6 +3007,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151011T152555Z" creationid="LHC" creationdate="20151011T152555Z">
         <seg>Phần lớn nghiên cứu này được tiến hành ở phương Tây: những phát hiện có thể không dễ dàng áp dụng vào các nhà tù ở những nơi khác trên thế giới và cần phải ghi nhớ điều quan trọng này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New methods of policing develop (e.g. via CCTV) and specialist units emerge.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151021T102206Z" creationid="MSI" creationdate="20151021T102113Z">
+        <seg>Đội ngũ cảnh sát cũng không ngừng đáp trả lại với những  </seg>
       </tuv>
     </tu>
     <tu>
