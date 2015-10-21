@@ -2300,8 +2300,8 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       <tuv lang="EN-US">
         <seg>In the United States, it was well- expressed in the following address to the NYPD by the General Superintendent, Amos &lt;t0/&gt;Pilsbury&lt;t1/&gt;, in 1859, which is displayed at the New York Police History Museum, Manhattan, New York:</seg>
       </tuv>
-      <tuv lang="VI" changeid="MSI" changedate="20151021T121021Z" creationid="MSI" creationdate="20151021T121021Z">
-        <seg>Tại Mỹ, mối quan tâm này cũng được đề cập rõ hơn trong bài phát biểu tại Sở Cảnh sát New York của ngài Giám đốc Amos Pilsbury vào năm 1859: </seg>
+      <tuv lang="VI" changeid="MSI" changedate="20151021T121207Z" creationid="MSI" creationdate="20151021T121021Z">
+        <seg>Tại Mỹ, mối quan tâm này cũng được đề cập rõ hơn trong lời phát biểu tại Sở Cảnh sát New York của ngài Giám đốc Amos Pilsbury vào năm 1859: </seg>
       </tuv>
     </tu>
     <tu>
@@ -4640,6 +4640,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T145549Z" creationid="dinhquy" creationdate="20151012T145549Z">
         <seg>Sự hiểu biết về ngôn ngữ là hiếm khi phụ thuộc vào từ ngữ mà thôi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The uniform you wear should be a perpetual ‘coat of mail’ to guard you against every temptation to which you may be exposed, by reminding you that no act of misconduct, or breach of discipline, can escape public observation and censure.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151021T121242Z" creationid="MSI" creationdate="20151021T121136Z">
+        <seg>Bộ đồng phục người cảnh sát khoác trên người giống như một bộ giáp sẽ theo họ suốt cả cuộc đời, giúp họ chống lại mọi cám dỗ, nhắc nhở họ rằng không có hành vi sai trái, hay vi phạm kỷ luật nào có thể qua mắt được con mắt tinh tường và sự phê bình của công chúng. Bài diễn văn hiện đang được trưng bày tại Bảo tàng Cảnh Sát New York, Manhattan, New York:</seg>
       </tuv>
     </tu>
     <tu>
