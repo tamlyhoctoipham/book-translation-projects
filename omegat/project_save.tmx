@@ -1892,8 +1892,8 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       <tuv lang="EN-US">
         <seg>If liars are nervous then they may behave like this.</seg>
       </tuv>
-      <tuv lang="VI" changeid="nguye" changedate="20151019T122514Z" creationid="nguye" creationdate="20151019T122430Z">
-        <seg>Nếu người nói dối lo lắng , họ sẽ cư xử như thế  </seg>
+      <tuv lang="VI" changeid="nguye" changedate="20151021T141456Z" creationid="nguye" creationdate="20151019T122430Z">
+        <seg>Nếu người nói dối lo lắng , họ sẽ cư xử như thế.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2390,14 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151018T081347Z" creationid="ADMIN" creationdate="20151009T143001Z">
         <seg>Thật vậy, trong số đó có kha khá thông tin chính xác và vì thế, phía cảnh sát kết luận rằng việc này xảy ra chính nhờ vào thôi miên mà lờ đi khả năng của các nhân tố khác cần thiết khi tiến hành thôi miên (ví dụ như một căn phòng im ắng, không ai quấy rầy và một nhân chứng đang ở trong trạng thái thư giãn và tập trung).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innocent suspects may become emotional and have to think hard when being questioned by the police, especially if the interviewers are forceful, aggressive or coercive.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151021T141404Z" creationid="nguye" creationdate="20151021T141404Z">
+        <seg>Nghi phạm vô tội có thể trở nên xúc động và phải suy nghĩ nhiều khi bị cảnh sát hỏi cung , đặc biệt nếu người hỏi hung hăng hoặc ép buộc.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5825,6 +5833,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T040103Z" creationid="MSI" creationdate="20151020T040103Z">
         <seg>Khi cơn bão Katrina đổ bộ vào New Orleans, Mỹ, toàn bộ người dân của thành phố đã được cảnh báo trên các bản tin và được lệnh phải sơ tán. Trong khi người thân và gia đình của các sĩ quan cảnh sát đều đã được hỗ trợ sơ tán thì bản thân họ lại được kỳ vọng phải bám trụ lại tâm bão, phải sống trong điều kiện tồi tệ để duy trì luật pháp và trật tự cho thành phố.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When one is emotional it is often difficult to remember things, so that even recent experiences are hard to remember.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151021T141446Z" creationid="nguye" creationdate="20151021T141446Z">
+        <seg>Khi xúc động người ta rất khó để nhớ các thứ, thậm chí những trải nghiệm gần cũng khó để nhớ ra.</seg>
       </tuv>
     </tu>
     <tu>
