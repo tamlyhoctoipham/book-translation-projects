@@ -1812,8 +1812,8 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       <tuv lang="EN-US">
         <seg>Identification questions might concern either spoken language using voice analysis or written language.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T041555Z" creationid="PhuongThao" creationdate="20151021T040804Z">
-        <seg>Những câu hỏi về việc nhận diện có thể vừa liên quan đến ngôn ngũ nói thông qua việc phân tích giọng nói và vừa liên quan đến ngôn ngũ viết. </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T064816Z" creationid="PhuongThao" creationdate="20151021T040804Z">
+        <seg>Những câu hỏi về việc nhận diện có thể vừa liên quan đến ngôn ngữ nói thông qua việc phân tích giọng nói và vừa liên quan đến ngôn ngữ viết. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +1958,14 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T131712Z" creationid="dinhquy" creationdate="20151012T131712Z">
         <seg>Nếu bạn đã từng ký vào bất kỳ loại hợp đồng nào đó cho dù một thẻ tín dụng, điện thoại hay hợp đồng thuê tài sản bạn sẽ gặp ngôn ngữ pháp lý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you received a telephone threat or an abusive letter a forensic linguist might be able to help identify who was behind them.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T064908Z" creationid="PhuongThao" creationdate="20151021T064908Z">
+        <seg>Nếu bạn nhận được một cú điện thoại đe dọa hoặc một bức thư quấy rối, một nhà ngôn ngữ học pháp lý sẽ có thể giúp bạn xác định kẻ thủ phạm. </seg>
       </tuv>
     </tu>
     <tu>
