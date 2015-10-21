@@ -1153,6 +1153,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even the image of the police has changed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="MSI" changedate="20151021T102851Z" creationid="MSI" creationdate="20151021T102851Z">
+        <seg>Thậm chí hình ảnh của cảnh sát cũng thay đổi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even this description is not without problems, for it is difficult for any definition to capture the vast array of duties performed by the police.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T035623Z" creationid="MSI" creationdate="20151020T035623Z">
@@ -3013,8 +3021,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>New methods of policing develop (e.g. via CCTV) and specialist units emerge.</seg>
       </tuv>
-      <tuv lang="VI" changeid="MSI" changedate="20151021T102206Z" creationid="MSI" creationdate="20151021T102113Z">
-        <seg>Đội ngũ cảnh sát cũng không ngừng đáp trả lại với những  </seg>
+      <tuv lang="VI" changeid="MSI" changedate="20151021T102830Z" creationid="MSI" creationdate="20151021T102113Z">
+        <seg>Nhiều phương pháp điều tra và kiếm soát mới đã được cảnh sát áp dụng (như CCTV) và các đơn vị đặc biệt được thành lập. </seg>
       </tuv>
     </tu>
     <tu>
