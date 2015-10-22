@@ -1868,8 +1868,8 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       <tuv lang="EN-US">
         <seg>Identification questions might concern either spoken language using voice analysis or written language.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151021T064816Z" creationid="PhuongThao" creationdate="20151021T040804Z">
-        <seg>Những câu hỏi về việc nhận diện có thể vừa liên quan đến ngôn ngữ nói thông qua việc phân tích giọng nói và vừa liên quan đến ngôn ngữ viết. </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151022T085326Z" creationid="PhuongThao" creationdate="20151021T040804Z">
+        <seg>Những câu hỏi về việc nhận diện có thể vừa liên quan đến ngôn ngữ nói, thông qua việc phân tích giọng nói và vừa liên quan đến ngôn ngữ viết. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3751,6 +3751,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151014T062716Z" creationid="Demon" creationdate="20151014T062716Z">
         <seg>Nghiên cứu dự đoán nguy cơ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roger Shuy, an  eminent American forensic linguist, argues that although John DeLorean, a sports car manufacturer, was set up to be involved in a nefarious drug deal, examination of the covert tapes show that he did not understand that this was the case and that because of this he never consented to take part (Shuy 1993).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151022T085147Z" creationid="PhuongThao" creationdate="20151022T085147Z">
+        <seg>Roger Shuy, một nhà ngôn ngữ học pháp lý nổi tiếng, đã thuyết phục rằng mặc dù John DeLorean, một chủ xưởng sản xuất xe hơi thể thao, đã bị xếp đặt để dính líu vào một phi vụ mua bán ma túy bất chính, nhưng sau khi nghiên cứu các đoạn băng ghi âm ẩn, có thể thấy rằng anh ta đã chẳng hề nhận thức được việc đó và vì thế, anh ta đã chẳng hề đồng ý tham gia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6332,6 +6340,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151012T153356Z" creationid="Demon" creationdate="20151012T153356Z">
         <seg>Định nghĩa một tội phạm tình dục như thế nào?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>identification&lt;t0/&gt; evidence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151022T085331Z" creationid="PhuongThao" creationdate="20151022T085240Z">
+        <seg>Dấu hiệu nhận diện.</seg>
       </tuv>
     </tu>
     <tu>
