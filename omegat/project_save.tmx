@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -361,8 +361,8 @@
       <tuv lang="EN-US">
         <seg>Another way of demonstrating that false confessions do occur is by examining individual cases in which people have confessed and have been found guilty on this basis by a court of law only for it to be demonstrated years later that they were not the guilty party.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151021T015558Z" creationid="USER" creationdate="20151020T082154Z">
-        <seg>Một cách khác để chứng minh rằng những lời thú tội giả xảy ra là bằng cách chất vấn riêng từng cá nhân thú tội và đã bị kết án bởi quan tòa </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151022T122643Z" creationid="USER" creationdate="20151020T082154Z">
+        <seg>Một phương pháp khác để chứng minh các lời khai là giả chính là xem xét riêng từng vụ án có đã người nhận tội và đã bị phán quyết là có tội bởi toà án, và phải mất đến nhiều năm sau thì mới có thể chứng minh là họ vô tội. </seg>
       </tuv>
     </tu>
     <tu>
