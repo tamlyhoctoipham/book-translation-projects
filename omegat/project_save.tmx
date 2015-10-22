@@ -4011,6 +4011,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some do admit to it.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151022T131945Z" creationid="USER" creationdate="20151022T131926Z">
+        <seg>Một vài người thừa nhận đã làm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some examples of these are the impact of interviewing techniques on a suspect or witness, the reliability of eyewitness testimony, the clinical assessment of a suspect or witness, or the use of profiling techniques during an investigation.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151018T144915Z" creationid="Admin" creationdate="20151018T144915Z">
@@ -4470,8 +4478,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The first stage (often called ‘the interview’) is designed to allow suspects to say whether they committed the crime or not.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151022T131734Z" creationid="USER" creationdate="20151022T131734Z">
-        <seg> The first stage (often called ‘the interview’) is designed to allow suspects to say whether they committed the crime or not.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151022T131907Z" creationid="USER" creationdate="20151022T131734Z">
+        <seg>Giai đoạn đầu thường gọi là chất vấn được thiết kế cho phép nghi phạm trả lời cho dù họ có phạm tội hay không.</seg>
       </tuv>
     </tu>
     <tu>
