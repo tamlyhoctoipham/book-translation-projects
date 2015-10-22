@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example of a linguist giving evidence of language use is discussed below.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151022T084200Z" creationid="PhuongThao" creationdate="20151022T084200Z">
+        <seg>Dưới đây là một ví dụ về việc một nhà ngôn ngữ học đưa ra bằng chứng bằng việc sử dụng ngôn ngữ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of this is the case known as the ‘Cardiff Three’.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T045042Z" creationid="MSI" creationdate="20151020T045042Z">
@@ -2172,8 +2180,8 @@ Những nhà ngôn ngữ học pháp và nhà tâm lý học pháp y có nhiều
       <tuv lang="EN-US">
         <seg>In one case Jerry McMenamin, a Californian forensic linguist, examined the common understanding of the word ‘accident’ to argue that under an insurance claim a cot-death might constitute an accident.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151022T083940Z" creationid="PhuongThao" creationdate="20151022T075453Z">
-        <seg>Trong một vụ kiện, một nhà ngôn ngữ học pháp lý người California là Jerry McMenamin đã khảo sát nhận thức thông thường về từ "tai nạn" để tranh luận về một bảo hiểm yêu cầu công nhận tình trạng trẻ em chết khi đang ngủ (cot-death) có thể cấu thành một tai nạn.    .</seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151022T084107Z" creationid="PhuongThao" creationdate="20151022T075453Z">
+        <seg>Trong một vụ kiện, một nhà ngôn ngữ học pháp lý người California là Jerry McMenamin đã khảo sát nhận thức thông thường về từ "tai nạn" để tranh luận về một bảo hiểm yêu cầu công nhận tình trạng trẻ em chết khi đang ngủ (cot-death) có thể tạo thành một tai nạn.    .</seg>
       </tuv>
     </tu>
     <tu>
