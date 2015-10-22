@@ -4244,6 +4244,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That is, while some studies did find a cue to discriminate to a certain extent between lying and truth-telling, other studies did not.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151022T180354Z" creationid="nguye" creationdate="20151022T180354Z">
+        <seg>Đó là , trong khi một vài nghiên cứu đã tìm ra dấu hiệu để phân biệt ở một mức độ nào đó giữa nói dối và nói thật, một số khác lại không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The British police are proud to remain routinely unarmed, retain the principal of minimum force and carry a minimal amount of equipment for their own protection.</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151006T163314Z" creationid="Jennifer Tran" creationdate="20151006T162625Z">
@@ -4406,8 +4414,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The cues that had been examined in several studies did not produce the same effect across the studies.</seg>
       </tuv>
-      <tuv lang="VI" changeid="nguye" changedate="20151021T143358Z" creationid="nguye" creationdate="20151021T143358Z">
-        <seg>Những dấu hiệu được kiểm nghiệm trong một vài nghiên cứu không tạo được hiệu ứng giống nhau .</seg>
+      <tuv lang="VI" changeid="nguye" changedate="20151022T180307Z" creationid="nguye" creationdate="20151021T143358Z">
+        <seg>Những dấu hiệu được kiểm nghiệm trong một vài nghiên cứu không tạo được ảnh hưởng giống nhau .</seg>
       </tuv>
     </tu>
     <tu>
