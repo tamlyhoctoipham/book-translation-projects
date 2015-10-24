@@ -1569,6 +1569,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For offenders with a learning disability there is a specially adapted &lt;t2/&gt;programme&lt;t3/&gt; which employs exercises where cartoons and drawings are used.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Demon" changedate="20151024T182427Z" creationid="Demon" creationdate="20151024T182109Z">
+        <seg>Đối với tội phạm gặp khó khăn trong việc tiếp thu, có một chương trình thích nghi đặc biệt sử dụng cái bài tập bao gồm hoạt hình và tranh vẽ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For prison to be a punishment it must be an uncomfortable experience.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151011T160602Z" creationid="LHC" creationdate="20151011T160602Z">
@@ -4838,8 +4846,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;programmes&lt;t1/&gt; being run in English and Welsh prisons and probation areas are only suitable for offenders whose level of intelligence is within the normal range.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Demon" changedate="20151024T182045Z" creationid="Demon" creationdate="20151024T182045Z">
-        <seg>Các chương được áp dụng trong các nhà tù ở Anh và xứ Wales và khu vực quản chế chỉ thích hợp cho những tội phạm có mức thông minh tầm trung.</seg>
+      <tuv lang="VI" changeid="Demon" changedate="20151024T182137Z" creationid="Demon" creationdate="20151024T182045Z">
+        <seg>Các chương được áp dụng trong các nhà tù ở Anh và xứ Wales và khu vực quản chế chỉ thích hợp cho những tội phạm có mức thông minh bình thường.</seg>
       </tuv>
     </tu>
     <tu>
