@@ -5958,8 +5958,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The police interviewer said to him: ‘I’ve had little girls sitting on my lap.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151027T142958Z" creationid="USER" creationdate="20151027T142958Z">
-        <seg>Anh ta trả lời chất vấn: ' Tôi đặt cô bé ngồi vào lòng mình'.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151027T143207Z" creationid="USER" creationdate="20151027T142958Z">
+        <seg>Anh ta trả lời chất vấn: 'Tôi đặt cô bé ngồi vào lòng mình'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6729,6 +6729,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151021T142020Z" creationid="nguye" creationdate="20151021T142020Z">
         <seg>Vì thế họ sẽ thử không biểu lộ những dấu hiệu này khi nói dối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They wriggle and before you &lt;t0/&gt;realise&lt;t1/&gt; it you’ve got an involuntary erection.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151027T143203Z" creationid="USER" creationdate="20151027T143203Z">
+        <seg>Họ</seg>
       </tuv>
     </tu>
     <tu>
