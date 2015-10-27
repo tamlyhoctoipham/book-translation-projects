@@ -1505,6 +1505,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feelings of hopelessness/depression.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151027T125653Z" creationid="yuko" creationdate="20151027T125653Z">
+        <seg>Cảm thấy tuyệt vọng/chán nản.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Few other police forms can project such a compelling image that is easily recognized beyond their own jurisdiction.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151023T105321Z" creationid="MSI" creationdate="20151023T105321Z">
@@ -1934,6 +1942,14 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T144621Z" creationid="dinhquy" creationdate="20151012T144621Z">
         <seg>Có thể kể đến habeas corpus (quyền được đưa ra trước một tòa án sau một thời gian bắt giữ nhất định) và mens rea (đề cập đến trạng thái tinh thần có tội của một người đối với một tội, ví dụ như cố ý làm tổn hại đến ai đó hoặc lái xe thiếu thận trọng).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grief/bereavement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151027T125601Z" creationid="yuko" creationdate="20151027T125601Z">
+        <seg>Đau buồn tội độ/mất người thân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5005,8 +5021,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Since prisoner bullying has been associated with failed rehabilitation and recidivism, self-injury by prisoners and poor psycho- logical health, a good understanding of why it occurs is needed if criminal psychologists are going to help reduce bullying in prison.</seg>
       </tuv>
-      <tuv lang="VI" changeid="yuko" changedate="20151018T171352Z" creationid="yuko" creationdate="20151018T171352Z">
-        <seg>Chính vì sự bắt nạt tù nhân thường đi kèm với việc không thể phục hồi sau chấn thương hoặc tái phạm một hành vi nào đó, tự hành hạ bản thân bởi chính những tù thân hoặc thể trạng yếu, cần  có một nghiên cứu sâu để lí giải cho nguyên nhân tại sao việc đó xảy ra để các nhà tâm lí học có thể áp dụng và giảm thiểu việc khủng bố trong  .</seg>
+      <tuv lang="VI" changeid="yuko" changedate="20151027T125520Z" creationid="yuko" creationdate="20151018T171352Z">
+        <seg>Chính vì sự bắt nạt tù nhân thường đi kèm với việc không thể phục hồi sau chấn thương hoặc tái phạm một hành vi nào đó, tự hành hạ bản thân bởi chính những tù thân hoặc thể trạng yếu, cần  có một nghiên cứu sâu để lí giải cho nguyên nhân tại sao việc đó xảy ra để các nhà tâm lí học có thể áp dụng và giảm thiểu việc khủng bố trong </seg>
       </tuv>
     </tu>
     <tu>
