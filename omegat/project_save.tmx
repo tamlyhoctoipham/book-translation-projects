@@ -8018,8 +8018,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>minimizing&lt;t0/&gt; the seriousness of the offence.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151027T044610Z" creationid="USER" creationdate="20151027T044610Z">
-        <seg>Giảm tối thiểu mức độ vi phạm tội ác.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151027T050622Z" creationid="USER" creationdate="20151027T044610Z">
+        <seg>Giảm tối thiểu mức độ phạm tội.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8056,6 +8056,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>pointing&lt;t0/&gt; out the futility of denial.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151027T050702Z" creationid="USER" creationdate="20151027T050654Z">
+        <seg>Chỉ ra dù phủ nhận cũng vô ích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>policing&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151014T104052Z" creationid="MSI" creationdate="20151014T094247Z">
@@ -8068,6 +8076,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T194027Z" creationid="Demon" creationdate="20151024T193845Z">
         <seg>Kỹ năng đối phó kém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pretending&lt;t0/&gt; to be in possession of more evidence than they actually had.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151027T050602Z" creationid="USER" creationdate="20151027T050602Z">
+        <seg>Vờ như họ thực sự giữ nhiều bằng chứng. </seg>
       </tuv>
     </tu>
     <tu>
