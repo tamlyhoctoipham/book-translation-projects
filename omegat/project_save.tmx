@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As well as relying on statistical approaches for geographical profiling, geographical profilers also consider issues such as the offender’s likely motivation for the offences and the characteristics of the physical environment in which his or her offending takes place.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151027T031916Z" creationid="Hx" creationdate="20151027T031916Z">
+        <seg>Bên cạnh việc dựa vào các phương pháp thống kê để lập hồ sơ tội phạm theo địa lý, những nhà lập hồ sơ còn quan tâm đến các vấn đề ví dụ như động cơ của kẻ phạm tội và các đặc điểm môi trường vật lý của nơi mà anh ta hay cô ta gây án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As well as sometimes participating in court cases, forensic linguists also have an academic interest in the workings of the court- room.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T005446Z" creationid="dinhquy" creationdate="20151007T005446Z">
@@ -5127,6 +5135,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151021T021516Z" creationid="USER" creationdate="20151021T021516Z">
         <seg>Những lời thú tội này được gọi là 'cưỡng chế tuân thủ', một phần là vì người khai man vẫn biết là họ không hề thực hiện hành vi tội ác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such factors could skew an offender’s journey to crime and therefore affect the appropriateness of statistical models.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151027T032016Z" creationid="Hx" creationdate="20151027T032016Z">
+        <seg>Những yếu tố đó có thể làm trệch hành trình gây án của kẻ phạm tội và do đó ảnh hưởng tới sự phù hợp của các hình mẫu thống kê.</seg>
       </tuv>
     </tu>
     <tu>
