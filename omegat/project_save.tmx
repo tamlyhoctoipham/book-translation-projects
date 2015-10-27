@@ -1938,14 +1938,6 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Given this prior belief in guilt, it is not surprising that such officers see their main role as the securing of a confession.</seg>
-      </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151022T130044Z" creationid="USER" creationdate="20151022T130022Z">
-        <seg>chưa dich đc </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Good examples include habeas corpus (the right to be taken before a court after a certain period of arrest) and &lt;t2/&gt;mens&lt;t3/&gt; rea (referring to a person’s culpable mental state with regard to a crime, e.g. intentionally harming someone or driving recklessly).</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T144621Z" creationid="dinhquy" creationdate="20151012T144621Z">
@@ -4511,6 +4503,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151012T171823Z" creationid="yuko" creationdate="20151012T171823Z">
         <seg>Những tổn thương về mặt thể chất là hình thức trực tiếp của các cuộc xung hấn .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pointing out the futility of denial is designed to stop guilty suspects continuing to deny their involvement, but again this is likely to increase the false confession rate.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151027T152416Z" creationid="USER" creationdate="20151027T152416Z">
+        <seg>futility of denialfutility of denial</seg>
       </tuv>
     </tu>
     <tu>
