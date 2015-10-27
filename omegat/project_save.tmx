@@ -986,8 +986,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>Clearly it would be unwise to assume that offenders fit one typology or another.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151027T025531Z" creationid="Hx" creationdate="20151027T025531Z">
-        <seg>Rõ rằng việc giả định những kẻ phạm tội khớp với một loại hình này hoặc một loại hình khác là không khôn ngoan.</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151027T025706Z" creationid="Hx" creationdate="20151027T025531Z">
+        <seg>Rõ rằng việc giả định những kẻ phạm tội khớp chỉ với một loại hình này hoặc một loại hình khác là không khôn ngoan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,6 +1830,14 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T033056Z" creationid="Hx" creationdate="20151015T033056Z">
         <seg>Thiết lập hồ sơ theo địa lý thường được sử dụng để xác định khu vực nào có nhiều khả năng là nơi cư trú của người phạm tội dựa trên vị trí của vụ án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Geographical profiling principles have been developed in England for the marauder type of offender by Professor David Canter and colleagues.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151027T025902Z" creationid="Hx" creationdate="20151027T025902Z">
+        <seg>Những nguyên tắc lập hồ sơ theo địa lý đã được phát triển tại Anh cho loại hình marauder bởi Giáo sư David Canter và đồng nghiệp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4541,8 +4549,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Research with stranger rapists (rapists that attack victims previously unknown to them) and serial arsonists has confirmed that for these types of criminals, the marauder pattern of offending is more common, whereas the pattern for serial burglars is less clear.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151027T024451Z" creationid="Hx" creationdate="20151027T024451Z">
-        <seg>Nghiên cứu về những kẻ phạm tội hãm hiếp người lạ (những kẻ hãm hiếp tấn công các nạn nhân mà chúng trước đó không quen biết) và những kẻ phóng hỏa hàng loạt đã xác nhận rằng: đối với những kiểu hình tội phạm này, hình mẫu marauder thường phổ biến hơn, trong khi hình mẫu cho những kẻ trộm hàng loạt thì ít rõ ràng hơn .</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151027T025659Z" creationid="Hx" creationdate="20151027T024451Z">
+        <seg>Nghiên cứu về những kẻ phạm tội hãm hiếp người lạ (những kẻ hãm hiếp tấn công các nạn nhân mà chúng không quen biết trước đó) và những kẻ phóng hỏa hàng loạt đã xác nhận rằng: đối với những kiểu hình tội phạm này, hình mẫu marauder thường phổ biến hơn, trong khi hình mẫu cho những kẻ trộm hàng loạt thì ít rõ ràng hơn .</seg>
       </tuv>
     </tu>
     <tu>
