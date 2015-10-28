@@ -3012,8 +3012,8 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
       <tuv lang="EN-US">
         <seg>In such situations the profiler is therefore assuming a relationship between &lt;t4/&gt;behaviour&lt;t5/&gt; and demographic characteristics.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151028T155234Z" creationid="Hx" creationdate="20151028T155234Z">
-        <seg>Trong những trường hợp này, người lập hồ sơ, do đó, sẽ giả định một mối quan hệ giữa hành vi và các đặc điểm nhân khẩu học.</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T155755Z" creationid="Hx" creationdate="20151028T155234Z">
+        <seg>Trong những trường hợp này, người lập hồ sơ, do đó, sẽ giả định một mối liên hệ giữa hành vi và các đặc điểm nhân khẩu học.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,6 +5503,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151015T080623Z" creationid="dinhquy" creationdate="20151015T080623Z">
         <seg>Ví dụ như một số nhà tâm lý học, quan tâm đến các quy trình quy phạm pháp luật ra quyết định nhưng dường như ít chú ý đến cách các quy trình ra quyết định có thể đã thay đổi trong lịch sử của pháp luật trong xã hội dân sự.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some researchers have queried whether an offender’s demographic characteristics would influence their &lt;t6/&gt;behaviour&lt;t7/&gt; and have questioned their inclusion in offender profiles.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T155750Z" creationid="Hx" creationdate="20151028T155750Z">
+        <seg>Một số nhà nghiên cứu đã đặt câu hỏi liệu các đặc điểm nhân khẩu học của tội phạm có  ảnh hưởng tới hành vi của họ và nghi ngờ việc đưa chúng vào các hồ sơ tội phạm .</seg>
       </tuv>
     </tu>
     <tu>
