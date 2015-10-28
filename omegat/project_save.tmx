@@ -2372,8 +2372,8 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
       <tuv lang="EN-US">
         <seg>However, there is a vast array of policing activities conducted by many other agencies that fall outside these two categories and it is increasingly difficult to group or categorize these agencies.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Jennifer Tran" changedate="20151028T152209Z" creationid="Jennifer Tran" creationdate="20151028T152209Z">
-        <seg>Tuy nhiên, có một lượng danh sách khá lớn các hoạt động.</seg>
+      <tuv lang="VI" changeid="Jennifer Tran" changedate="20151028T152727Z" creationid="Jennifer Tran" creationdate="20151028T152209Z">
+        <seg>Tuy nhiên, có một lượng danh sách khá lớn các hoạt động bảo an được thực hiện bởi khá nhiều các trung tâm không thuộc 2 hạng mục này và càng khó khăn hơn trong việc nhóm hay phân mục các trung tâm này.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6872,6 +6872,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T192123Z" creationid="Demon" creationdate="20151024T192123Z">
         <seg>Những quan điểm này giúp các tội phạm biện hộ cho hành vi của mình hoặc giảm thiểu cảm giác tội lỗi của bản thân. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They all have different roles and responsibilities and work within different boundaries of the law.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Jennifer Tran" changedate="20151028T152830Z" creationid="Jennifer Tran" creationdate="20151028T152830Z">
+        <seg>Chúng đều có những vai trò và trách nhiệm khác nhau.</seg>
       </tuv>
     </tu>
     <tu>
