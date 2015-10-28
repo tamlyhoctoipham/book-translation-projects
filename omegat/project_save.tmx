@@ -3485,8 +3485,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>It is quite possible that apprehended offenders differ in the way they commit their offences from offenders who remain at large.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151028T152718Z" creationid="Hx" creationdate="20151028T152718Z">
-        <seg>Có khả năng những tội phạm đã bị bắt giữ khác biệt trong cách gân án của họ so với những .</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T153018Z" creationid="Hx" creationdate="20151028T152718Z">
+        <seg>Có khả năng những tội phạm đã bị bắt giữ có khác biệt trong cách gân án của họ so với những tội phạm vẫn đang tự do.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,6 +3671,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151014T104110Z" creationid="MSI" creationdate="20151014T104110Z">
         <seg>Nó đưa ra những nhận xét về vai trò của cảnh sát, đặc tính chung, quá trình thay đổi theo thời gian, những thay đổi đó đã được phản ánh như thế nào qua hình tượng cảnh sát </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It would be extremely hard to address this criticism due to the ethical difficulties and practicalities surrounding interviewing &lt;t2/&gt;unapprehended&lt;t3/&gt; offenders about their criminal histories.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T153055Z" creationid="Hx" creationdate="20151028T153055Z">
+        <seg>Có thể sẽ vô cùng khó khăn để xác định .</seg>
       </tuv>
     </tu>
     <tu>
