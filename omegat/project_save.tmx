@@ -705,8 +705,8 @@
       <tuv lang="EN-US">
         <seg>Assuming a degree of &lt;t4/&gt;behavioural&lt;t5/&gt; consistency across situations is termed ‘cross- situational consistency’.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151028T162336Z" creationid="Hx" creationdate="20151028T162336Z">
-        <seg>Sự giả định một mức độ nhất quán các hành vi xuyên suốt các tình huống được gọi là: "sự kiên định trong mọi tình huống".</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T163309Z" creationid="Hx" creationdate="20151028T162336Z">
+        <seg>Sự giả định một mức độ nhất quán các hành vi trong mọi tình huống được gọi là: "sự kiên định trong mọi tình huống".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1197,6 +1197,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151024T164208Z" creationid="Lenovo" creationdate="20151008T134604Z">
         <seg>Cân nhắc đến việc liệu có sự khác biệt nào giữa 1 tên trộm vặt trong cửa hàng để thỏa mãn thói quen dùng thuốc và 1 người ăn trộm để nuôi con của anh ta hoặc cô ta .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consistency across crimes is a special case of cross-situational consistency.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T163419Z" creationid="Hx" creationdate="20151028T163419Z">
+        <seg>Sự nhất quán trong mọi tội ác là một trường hợp đặc biệt của sự kiên định trong mọi tình huống.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4917,8 +4925,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Professor Canter called this the ‘offender consistency hypothesis’ which has its roots in personality psychology.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151028T163152Z" creationid="Hx" creationdate="20151028T163152Z">
-        <seg>Giáo sư Canter gọi điều này là "giả thuyết về tính nhất quán của hành vi phạm tội", có nguồn gốc .</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T163334Z" creationid="Hx" creationdate="20151028T163152Z">
+        <seg>Giáo sư Canter gọi điều này là "giả thuyết về tính nhất quán của hành vi phạm tội", bắt nguồn trong tâm lý học tính cách .</seg>
       </tuv>
     </tu>
     <tu>
