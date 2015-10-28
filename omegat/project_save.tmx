@@ -6782,8 +6782,16 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>They are therefore acting in a similar way to statistical profilers, but their inferences are based on their own personal experience and, of course, rely on their accurate recollection of these.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151028T144943Z" creationid="Hx" creationdate="20151028T144943Z">
-        <seg>Do đó, họ đóng vai trò tương tự như những nhà lập hồ sơ thống kê, nhưng những suy luận của họ lại dựa trên những kinh nghiệm của bản thân họ và, tất nhiên, dựa trên những hồi ức chính xác của những kinh nghiệm đó.</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T145118Z" creationid="Hx" creationdate="20151028T144943Z">
+        <seg>Do đó, họ đóng vai trò tương tự như những nhà lập hồ sơ theo phương pháp thống kê, nhưng những suy luận của họ lại dựa trên những kinh nghiệm của bản thân họ và, tất nhiên, dựa trên những hồi ức chính xác của những kinh nghiệm đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They argue that the profiles produced by clinical profilers could vary as a result of the individual nature of each clinical profiler’s experience.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T145321Z" creationid="Hx" creationdate="20151028T145321Z">
+        <seg>Họ phản bác rằng những hồ sơ được tạo lập bởi những nhà lập hồ sơ lâm sàng có thể khác biệt do .</seg>
       </tuv>
     </tu>
     <tu>
@@ -6953,6 +6961,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151028T143032Z" creationid="Hx" creationdate="20151028T143032Z">
         <seg>Cách tiếp cận này giả định rằng cách mà một tội ác được thực hiện liên quan đến đặc tính của con người, điều này giúp các nhà lập hồ sơ có thể đưa ra những suy luận về đặc tính của một tội phạm từ cách mà anh ta hay cô ta cư xử trong suốt vụ án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This approach to profiling has been criticized by advocates of statistical profiling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T145207Z" creationid="Hx" creationdate="20151028T145207Z">
+        <seg>Các tiếp cận này đã gặp phải chỉ trích từ những người ủng hộ cho việc lập hồ sơ tội phạm theo phương pháp thống kê.</seg>
       </tuv>
     </tu>
     <tu>
