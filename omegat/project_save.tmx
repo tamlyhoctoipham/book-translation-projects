@@ -1729,6 +1729,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, such researchers might find that 85 per cent of rapists that use a condom during a rape (e.g. to avoid leaving &lt;t0/&gt;semen  to&lt;t1/&gt;  be DNA tested) have previously had contact with law enforcement for their sexual offending, be that a conviction or just being arrested.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T143712Z" creationid="Hx" creationdate="20151028T143712Z">
+        <seg>Ví dụ, những nhà nghiên cứu kiểu này đã phát hiện ra tằng 85% những kẻ hãm hiếp có sử dụng bao cao su trong khi cưỡng hiếp (ví dụ: để tránh lưu lại tinh trùng để xét nghiệm DNA) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the transport available to burglars has been found to affect the distance they travelled to commit burglaries.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T045053Z" creationid="Hx" creationdate="20151015T044138Z">
@@ -6879,8 +6887,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>This approach aims to generate statistical relationships between actions displayed at crime scenes and offender characteristics and is carried out through the use of large-scale databases of solved crimes.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151028T143252Z" creationid="Hx" creationdate="20151028T143252Z">
-        <seg>Cách tiếp cận này nhằm mục đích.</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T143519Z" creationid="Hx" creationdate="20151028T143252Z">
+        <seg>Cách tiếp cận này nhằm mục đích tạo ra những mối quan hệ thống kê giữa các hành động được nhìn thấy tại hiện trường và những đặc tính của kẻ phạm tội và được xử lý thông qua việc sử dụng nguồn dữ liệu quy mô lớn của những vụ án đã được giải quyết.</seg>
       </tuv>
     </tu>
     <tu>
