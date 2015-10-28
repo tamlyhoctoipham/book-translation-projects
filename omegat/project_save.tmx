@@ -2756,8 +2756,8 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
       <tuv lang="EN-US">
         <seg>In light of the 1981 Royal Commission report and UK national media focus on the possibility of false confessions (which, of course, mean that the guilty remain free), the government in England and Wales brought in the 1984 Act which not only mandated the tape recording of interviews with suspects but also aimed to stop the use of inappropriate – coercive, oppressive – tactics, emphasizing that confessions should be voluntary.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151027T155721Z" creationid="USER" creationdate="20151027T155721Z">
-        <seg>Trong bản báo cáo 1981 của Ủy ban Hoàng gia và giới truyền thông quốc gia Anh tập trung vào khả năng đưa ra lời thú tội giả (tất nhiên hung thủ vẫn đang nhởn nhơ ngoài vòng pháp luật), chính phủ Anh và sứ Wales ban hành bộ luật 1984 Act, nó không chỉ cho phép ghi âm lời khai của phạm nhân mà còn có mục đích để ngăn chặn dùng thủ đoạn ép cung, những mánh khóe cưỡng chế, nó cũng nhấn mạnh nghi phạm nên tình nguyện đưa ra lời thú tội.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151028T113533Z" creationid="USER" creationdate="20151027T155721Z">
+        <seg>Trong bản báo cáo 1981 của Ủy ban Hoàng gia và giới truyền thông quốc gia Anh tập trung vào khả năng đưa ra lời thú tội giả (tất nhiên hung thủ vẫn đang nhởn nhơ ngoài vòng pháp luật), chính phủ Anh và sứ Wales ban hành đạo luật năm 1984, nó không chỉ cho phép ghi âm lời khai của phạm nhân mà còn có mục đích để ngăn chặn dùng thủ đoạn ép cung, những mánh khóe cưỡng chế, nó cũng nhấn mạnh nghi phạm nên tình nguyện đưa ra lời thú tội.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,6 +5512,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151022T180354Z" creationid="nguye" creationdate="20151022T180354Z">
         <seg>Đó là , trong khi một vài nghiên cứu đã tìm ra dấu hiệu để phân biệt ở một mức độ nào đó giữa nói dối và nói thật, một số khác lại không</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 1984 Act had resulted in inappropriate psychological tactics rarely being employed but had not provided the police with alternative procedures.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151028T113502Z" creationid="USER" creationdate="20151028T113502Z">
+        <seg>Bộ luật 1984 Act </seg>
       </tuv>
     </tu>
     <tu>
