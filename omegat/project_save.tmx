@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternative approach is clinical profiling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T144714Z" creationid="Hx" creationdate="20151028T144714Z">
+        <seg>Một cách tiếp cận khác là lập hồ sơ lâm sàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An alternative explanation for this finding could be that increased supervision during such activities prevents prisoner violence.</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151012T171315Z" creationid="yuko" creationdate="20151012T171315Z">
@@ -1060,6 +1068,14 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151023T181359Z" creationid="Demon" creationdate="20151023T180913Z">
         <seg>Rõ ràng, kẻ lạm dụng phải đảm bảo rằng đứa trẻ tuân theo mình. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clinical profilers, rather than using databases of offences, develop their inferences about an offender’s characteristics from their clinical experience of working with apprehended offenders.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T144815Z" creationid="Hx" creationdate="20151028T144815Z">
+        <seg>Nhà lập hồ sơ lâm sàng, thay vì sử dụng những dữ liệu của các vụ án, phát triển sự suy luận của họ về các đặc tính của một kẻ phạm tội thông qua kinh nghiệm lâm sàng của họ khi làm việc với những phạm nhân đã bị bắt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6756,6 +6772,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are therefore acting in a similar way to statistical profilers, but their inferences are based on their own personal experience and, of course, rely on their accurate recollection of these.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T144943Z" creationid="Hx" creationdate="20151028T144943Z">
+        <seg>Do đó, họ đóng vai trò tương tự như những nhà lập hồ sơ thống kê, nhưng những suy luận của họ lại dựa trên những kinh nghiệm của bản thân họ và, tất nhiên, dựa trên những hồi ức chính xác của những kinh nghiệm đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They find it difficult to express affection, give support or resolve arguments, and are often overly sensitive to rejection.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151020T111201Z" creationid="Demon" creationdate="20151020T111201Z">
@@ -8032,8 +8056,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>When such a relationship has been established and validated, the statistical profiler can &lt;t2/&gt;analyse&lt;t3/&gt; the circumstances of an offence and, using these statistical relationships, can make probabilistic inferences about the likely characteristics of the offender responsible.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151028T144502Z" creationid="Hx" creationdate="20151028T144502Z">
-        <seg>Khi một mối liên hệ như vậy đã được thiết lập và có hiệu lực, người lập hồ sơ thông kê có thể phân tích những tình huống của vụ án và sử dụng những mối quan hệ thống kê có thể tạo nên những suy luận xác suất về những đặc tính có thể có của .</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151028T144654Z" creationid="Hx" creationdate="20151028T144502Z">
+        <seg>Khi một mối liên hệ như vậy đã được thiết lập và có hiệu lực, người lập hồ sơ theo phương pháp thống kê có thể phân tích các tình huống của vụ án và sử dụng những mối quan hệ thống kê có thể tạo nên những suy luận xác suất về những đặc tính có thể có của kẻ phạm tội.</seg>
       </tuv>
     </tu>
     <tu>
