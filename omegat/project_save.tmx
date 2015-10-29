@@ -3052,8 +3052,8 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
       <tuv lang="EN-US">
         <seg>In language individuals seem to reuse words, phrases and linguistic constructions, and this can be useful if the author of a text needs to be identified.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151022T091501Z" creationid="PhuongThao" creationdate="20151022T091501Z">
-        <seg>Mỗi cá nhân dường như đều sử dụng lại các từ ngữ, các cụm từ và các cấu trúc ngôn ngữ, và điều này có thể trở nên hữu ích để giúp nhận diện tác giả của một văn bản ngôn ngữ khi cần thiết.  </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151029T085921Z" creationid="PhuongThao" creationdate="20151022T091501Z">
+        <seg>Mỗi cá nhân dường như đều sử dụng lại các từ ngữ, các cụm từ và các cấu trúc ngôn ngữ, và điều này có thể trở nên hữu ích để giúp nhận dạng tác giả của một văn bản ngôn ngữ khi cần thiết.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -6574,8 +6574,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The language of the manifesto was analysed by a variety of linguists (and others) at different stages in the investigation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151026T041716Z" creationid="PhuongThao" creationdate="20151026T041716Z">
-        <seg>Nhiều nhà ngôn ngữ học (và cả các chuyên gia lĩnh vực khác) đã phân tích ngôn từ của bản tuyên ngôn này trong nhiều giai đoạn khác nhau xuyên suốt cuộc điều tra. </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151029T085932Z" creationid="PhuongThao" creationdate="20151026T041716Z">
+        <seg>Nhiều nhà ngôn ngữ học (và cả các chuyên gia lĩnh vực khác) đã phân tích ngôn từ của Bản tuyên ngôn này trong nhiều giai đoạn khác nhau xuyên suốt cuộc điều tra. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9347,8 +9347,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>identification&lt;t0/&gt; evidence.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151029T085247Z" creationid="PhuongThao" creationdate="20151022T085240Z">
-        <seg>Chứng cứ nhận diện.</seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151029T085904Z" creationid="PhuongThao" creationdate="20151022T085240Z">
+        <seg>Chứng cứ nhận dạng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9605,6 +9605,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Nga" changedate="20151006T154807Z" creationid="Nga" creationdate="20151006T154807Z">
         <seg>Liệu có hiệu quả?&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>– &lt;t0/&gt;and&lt;t1/&gt; evidence of identification – Did the person say this or write this?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151029T085830Z" creationid="PhuongThao" creationdate="20151029T085830Z">
+        <seg>và bằng chứng về nhận dạng- tức có đúng là chính người đó là người đã nói và viết cái này hay không?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
