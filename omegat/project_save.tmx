@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You might be able to think of a situation where you have interpreted someone’s &lt;t2/&gt;behaviour&lt;t3/&gt; in a way which was different from a friend’s interpretation.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151029T022128Z" creationid="Hx" creationdate="20151029T022128Z">
+        <seg>(Bạn có thể nghĩ về một tình huống mà bạn diễn giải hành vi của một ai đó theo cách khác với cách diễn giải của một người bạn.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Gudjonsson’s&lt;t1/&gt; (2003) book provides details of several such cases.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151021T015753Z" creationid="USER" creationdate="20151021T015647Z">
@@ -9157,6 +9165,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T023958Z" creationid="USER" creationdate="20151010T023958Z">
         <seg>Nguyên tắc nhu cầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; offender consistency hypothesis.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151029T022142Z" creationid="Hx" creationdate="20151029T022142Z">
+        <seg>Giải thuyết về tính nhất quán của hành vi phạm tội.</seg>
       </tuv>
     </tu>
     <tu>
