@@ -721,8 +721,8 @@
       <tuv lang="EN-US">
         <seg>As with research into non-criminal populations, what is also evident is that consistency varies depending on the type of &lt;t4/&gt;behaviour&lt;t5/&gt; being observed.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Hx" changedate="20151029T030035Z" creationid="Hx" creationdate="20151029T030035Z">
-        <seg>Như với nghiên cứu trong .</seg>
+      <tuv lang="VI" changeid="Hx" changedate="20151029T030531Z" creationid="Hx" creationdate="20151029T030035Z">
+        <seg>Như với nghiên cứu về cư dân không phạm tội, điều khá hiển nhiên là sự nhất quán thay đổi phụ thuộc vào loại hành vi được quan sát.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3278,6 +3278,14 @@ Những nhà ngôn ngữ học pháp lý và nhà tâm lý học pháp y có nhi
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151027T150305Z" creationid="Lenovo" creationdate="20151007T152551Z">
         <seg>Vào thế kỷ thứ 16, một nhà văn Luân-đôn, Robert Greene, ghi nhận rằng tội ác đang trở thành một kiểu giải trí và điều này có nghĩa là ngày càng nhiều những báo cáo về việc các tội ác và sự trừng phạt của chúng xuất hiện trên báo chí, nhật báo và tin vặt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the studies conducted so far, &lt;t6/&gt;behaviours&lt;t7/&gt; relating to distance travelled to commit crimes and controlling the victim show the greatest consistency.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Hx" changedate="20151029T030623Z" creationid="Hx" creationdate="20151029T030623Z">
+        <seg>Trong các nghiên cứu được thực hiện từ trước tới nay, các hành vi liên quan tới khoản cách di chuyển để gây án và điều khiển nạn nhân thể hiện sự nhất quán lớn nhất.</seg>
       </tuv>
     </tu>
     <tu>
