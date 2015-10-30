@@ -1226,8 +1226,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>Close analysis of the positions of the television studio microphone ‘feeds’ and the recorded decibel level (volume) of the coughs indicated the coughing had to come from the microphones directed at five of the ten candidate contest- ants known as ‘fastest finger first’ contestants.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151029T065336Z" creationid="PhuongThao" creationdate="20151029T065336Z">
-        <seg>Một cuộc phân tích kín về vị trí của những feeds từ mọi micrô trong trường quay truyền hình và mức decibel (âm lượng) thu được của những tiếng ho chỉ ra rằng chúng phải xuất phát từ chiếc micrô đặt trực tiếp trước năm trong số mười ứng cử viên cho vị trí thí sinh, hay còn gọi là những thí sinh có "ngón tay đầu tiên nhanh nhất".   </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151030T021145Z" creationid="PhuongThao" creationdate="20151029T065336Z">
+        <seg>Một cuộc phân tích kỹ lưỡng về vị trí của những tiếp liệu từ mọi micrô trong trường quay truyền hình và mức decibel (âm lượng) của những tiếng ho thu được đã chỉ ra rằng chúng phải xuất phát từ chiếc micrô đặt trực tiếp trước năm trong số mười ứng cử viên cho vị trí thí sinh, hay còn gọi là những thí sinh có "ngón tay đầu tiên nhanh nhất".   </seg>
       </tuv>
     </tu>
     <tu>
@@ -6432,6 +6432,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T115825Z" creationid="USER" creationdate="20151008T053429Z">
         <seg>Bên cạnh đó, việc lựa chọn yếu tố nào quyết định thành công (hoặc thất bại) của chương trình điều trị cũng cần được xem xét kỷ lưỡng trong nghiên cứu dạng này (nó thường được gọi là nghiên cứu điều trị-kết quả).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The close analysis reveals that from DeLorean’s perspective the conversation was about financing for his car business.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151030T020950Z" creationid="PhuongThao" creationdate="20151030T020950Z">
+        <seg>Bản phân tích kỹ lưỡng </seg>
       </tuv>
     </tu>
     <tu>
