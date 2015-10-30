@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A few years later we conducted another analysis of real-life tape-recorded interviews with suspects.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151030T062416Z" creationid="USER" creationdate="20151030T062416Z">
+        <seg>Vài năm sau đó, ta thực hiện những phân tích khác về băng ghi âm cuộc sống đời thực của nghi phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A further analysis by FBI agent Jim Fitzgerald attempted to identify what seemed to him to be unusual linguistic features and turns of phrase.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151026T064504Z" creationid="PhuongThao" creationdate="20151026T064504Z">
@@ -4725,8 +4733,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>On the other hand, even in the not so good interviews some skills were frequently present (e.g. absence of undue pressure, of inappropriate interruptions, of long/complex questions and not releasing all of the information at the beginning).</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151030T062123Z" creationid="USER" creationdate="20151030T062123Z">
-        <seg>Trái lại, trong những buổi phỏng vấn không hiệu quả, một vài kỹ năng thường xuyên xuất hiện như sự vắng mặt của các yếu tố sau: áp lực thái quá, ngắt quãng buổi chất vấn một cái không phù hợp, câu hỏi quá dài hay quá phức tạp và không hé lộ tất cả thông tin ban đầu.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151030T062244Z" creationid="USER" creationdate="20151030T062123Z">
+        <seg>Trái lại, trong những buổi phỏng vấn không hiệu quả, một vài kỹ năng thường xuyên xuất hiện như sự vắng mặt của các yếu tố sau: áp lực thái quá, ngắt quãng buổi chất vấn một cách không phù hợp, câu hỏi quá dài hay quá phức tạp và không hé lộ tất cả thông tin ban đầu.</seg>
       </tuv>
     </tu>
     <tu>
