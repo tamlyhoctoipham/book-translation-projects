@@ -3012,8 +3012,16 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>If, by [institutionally racist] it is meant that it [Britain] is a society which knowingly, as a matter of policy, discriminates against black people, I reject the allegation.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Admin" changedate="20151030T135632Z" creationid="Admin" creationdate="20151030T135439Z">
-        <seg>Nếu, [phân biệt chủng tộc có tính chất cơ quan] có nghĩa rằng nó [nước Anh] là một xã hội, dưới phương diện là một vấn đề về chính sách, mà cố ý phân biệt đối xử đối với người dân đen, tôi phản đối cáo buộc trên.</seg>
+      <tuv lang="VI" changeid="Admin" changedate="20151030T140005Z" creationid="Admin" creationdate="20151030T135439Z">
+        <seg>Nếu, [phân biệt chủng tộc có tính chất cơ quan] có nghĩa rằng nó [nước Anh] là một xã hội, dưới phương diện là một vấn đề về chính sách, mà cố ý phân biệt đối xử đối với người da đen, tôi phản đối cáo buộc trên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If, however, the suggestion being made is that practices may be adopted by public bodies as well as private individuals which are unwittingly discriminatory against black people, then this is an allegation which deserves serious consideration, and, where proved, swift remedy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151030T140126Z" creationid="Admin" creationdate="20151030T135959Z">
+        <seg>Tuy nhiên, nếu chủ đích của các ý kiến này là để rèn luyện sự chấp nhận bởi các cơ quan nhà nước cũng như các cá nhân đã vô tình phân biệt đối xử với người da đen, thì đây là một cáo buộc đáng được xem xét nghiêm túc, và, ở nơi đã được chứng minh, xứng đáng có được biện pháp khắc phục nhanh chóng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6151,6 +6159,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151015T080623Z" creationid="dinhquy" creationdate="20151015T080623Z">
         <seg>Ví dụ như một số nhà tâm lý học, quan tâm đến các quy trình quy phạm pháp luật ra quyết định nhưng dường như ít chú ý đến cách các quy trình ra quyết định có thể đã thay đổi trong lịch sử của pháp luật trong xã hội dân sự.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some recent developments show evidence of commitment to provide equality and diversity to all prospective applicants including gay and lesbian citizens.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151030T140245Z" creationid="Admin" creationdate="20151030T140245Z">
+        <seg>Một số tình hình phát triển gần đây cho thấy bằng chứng về cam kết cho sự bình đẳng và sự đa dạng cho tất cả các ứng viên tiềm năng bao gồm cả công dân đồng tính nam và đồng tính nữ.</seg>
       </tuv>
     </tu>
     <tu>
