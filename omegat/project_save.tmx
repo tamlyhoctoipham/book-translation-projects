@@ -2338,6 +2338,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Given this prior belief in guilt, it is not surprising that such officers see their main role as the securing of a confession.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151031T152501Z" creationid="USER" creationdate="20151031T152501Z">
+        <seg>Không bất ngờ gì khi những nhân viên này thấy vai trò chính của họ là bảo mật thông tin lời thú tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good examples include habeas corpus (the right to be taken before a court after a certain period of arrest) and &lt;t2/&gt;mens&lt;t3/&gt; rea (referring to a person’s culpable mental state with regard to a crime, e.g. intentionally harming someone or driving recklessly).</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T144621Z" creationid="dinhquy" creationdate="20151012T144621Z">
