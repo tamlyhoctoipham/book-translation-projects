@@ -6157,8 +6157,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Societies expect that their police service will protect them from wrongdoers, especially dangerous criminals, and police forces strive hard to achieve this.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151020T070151Z" creationid="USER" creationdate="20151020T065545Z">
-        <seg>Người dân trong xã hội luôn mong chờ dịch vụ cảnh sát sẽ bảo vệ họ khỏi phững người phạm pháp, đặc biệt là những tên tội phạm đặc biệt nguy hiểm, và lực lượng cảnh sát luôn cố gắng hết mình để hoàn thành nghĩa vụ ấy. </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151031T164315Z" creationid="USER" creationdate="20151020T065545Z">
+        <seg>Người dân trong xã hội luôn mong chờ ngành cảnh sát sẽ bảo vệ họ khỏi những người phạm pháp, đặc biệt là những tên tội phạm đặc biệt nguy hiểm, và lực lượng cảnh sát luôn cố gắng hết mình để hoàn thành nghĩa vụ ấy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7796,6 +7796,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These (and other published studies conducted by senior police officers as part of their research doctorates – a crucial development) revealed a surprising lack of police skills if the suspect denied the offence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151031T164226Z" creationid="USER" creationdate="20151031T164226Z">
+        <seg>Những nghiên cứu này (và cả những nghiên cứu đã công bố trước báo giới khác được tiến hành bởi những nhân viên cảnh sát có thâm niên như là luận án tiến sĩ của họ - một sự phát triển cốt yếu) đã hé lộ một sự thật ngạc nhiên về sự thiếu hụt kỹ năng chuyên môn để đối mặt với trường hợp nghi phạm cứ khăng khăng phủ nhận tội ác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These are based on the Circle Theory of Environmental Range which predicts that all things being equal, the shape of an offender’s criminal and home range will be circular, with the home itself being located in the centre of the circle.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151027T030626Z" creationid="Hx" creationdate="20151027T030626Z">
@@ -9185,8 +9193,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>Unfortunately, this commendable striving to get the guilty to confess also has a number of negative effects.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151020T071042Z" creationid="USER" creationdate="20151020T071042Z">
-        <seg>Không may thay, cái nỗ lực đáng khen ngợi ấy để người phạm tội thú nhận tội ác của mình cũng có khá nhiều ảnh hưởng tiêu cực.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151031T164352Z" creationid="USER" creationdate="20151020T071042Z">
+        <seg>Không may thay, những nỗ lực đáng khen ngợi ấy để người phạm tội thú nhận tội ác của mình cũng có khá nhiều ảnh hưởng tiêu cực.</seg>
       </tuv>
     </tu>
     <tu>
