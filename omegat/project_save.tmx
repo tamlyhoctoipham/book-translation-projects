@@ -5203,6 +5203,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On comparing this collection of &lt;t8/&gt;behaviours&lt;t9/&gt; to a database of US murders, the specific combination of &lt;t10/&gt;behaviours&lt;t11/&gt; displayed in these six murders was found  to  be  very  rare and hence the researchers concluded that six of the eleven murders could be attributed to Jack the Ripper with some confidence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T092221Z" creationid="The sun" creationdate="20151102T092221Z">
+        <seg>Trong khi so sánh tập hợp những hành vi đó với một cơ sở dữ liệu của các vụ án mạng tại Mỹ, sự kết hợp đặc biệt của những hành vi thể hiện trong sáu vụ án mạng này là rất hiếm gặp và vì vậy các nhà nghiên cứu có thể khá tự tin mà kết luận rằng sáu trong số mười một vụ án mạng này do Jack Đồ Tể gây ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On several occasions youths had broken into his home and despite many calls to the police, Martin did not feel he was being taken seriously.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151024T092636Z" creationid="Lenovo" creationdate="20151024T092636Z">
@@ -10486,6 +10494,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T162408Z" creationid="USER" creationdate="20151008T162408Z">
         <seg>Đánh giá của phạm nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>assumptions&lt;t0/&gt; of case linkage.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T092250Z" creationid="The sun" creationdate="20151102T092250Z">
+        <seg>Giả định của kết nối vụ án.</seg>
       </tuv>
     </tu>
     <tu>
