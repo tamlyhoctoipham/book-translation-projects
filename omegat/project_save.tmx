@@ -231,6 +231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A study that tried to predict the characteristics of burglars from their crime scene &lt;t2/&gt;behaviour&lt;t3/&gt; also achieved some success in predicting characteristics such as offender demographics (e.g. age) and previous criminal history.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T035700Z" creationid="The sun" creationdate="20151102T035700Z">
+        <seg>Một nghiên cứu khác đã cố gắng dự đoán về đặc điểm của kẻ trộm đêm từ hành vi của chúng tại hiện trường cũng đã gặt hái được một số kết quả trong việc dự đoán một số đặc điểm như nhân khẩu học của kẻ phạm tội (ví dụ: tuổi) hay lịch sử tiền án. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A subculture of violence exists within some prisons, with physical violence being approved by some prisoners.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151026T232310Z" creationid="LHC" creationdate="20151014T145450Z">
@@ -8044,6 +8052,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These studies have searched for relationships between offender characteristics and actions at the &lt;t4/&gt;behavioural&lt;t5/&gt; level.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T035709Z" creationid="The sun" creationdate="20151102T035709Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These studies look at what happens in the run up to an offence, while the offence is taking place and after the offence.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151014T063443Z" creationid="Demon" creationdate="20151014T063443Z">
@@ -10100,8 +10116,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>evaluations&lt;t0/&gt; of offender profiling in practice.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T032435Z" creationid="The sun" creationdate="20151102T032435Z">
-        <seg>Đánh giá&lt;t0/&gt; việc thực hành lập hồ sơ tội phạm</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T035724Z" creationid="The sun" creationdate="20151102T032435Z">
+        <seg>Đánh giá&lt;t0/&gt;việc thực hành lập hồ sơ tội phạm</seg>
       </tuv>
     </tu>
     <tu>
