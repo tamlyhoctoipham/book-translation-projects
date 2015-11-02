@@ -823,6 +823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As with offender profiling, if case linkage is to be considered a scientific practice it is important that it has a sound theoretical basis.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T082411Z" creationid="The sun" creationdate="20151102T082411Z">
+        <seg>Như với việc lập hồ sơ tội phạm, nếu kết nối vụ án được coi như một hoạt động khoa học, quan trọng là nó phải có một cơ sở lý thuyết vững chắc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As with other types of offenders, sex offenders often have parents who were law- breakers.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151014T065759Z" creationid="Demon" creationdate="20151014T065759Z">
@@ -986,8 +994,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>Because we may have misconceptions about which &lt;t6/&gt;behaviours&lt;t7/&gt; are a rare or common occurrence for a type of crime it is important to work this out statistically by consulting databases of crimes.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T081051Z" creationid="The sun" creationdate="20151102T081051Z">
-        <seg>Bởi vì chúng ta có thể có những hiểu lầm về việc những hành vi nào là hiếm gặp hoặc thường xuyên góp mặt trong một loại tội ác, điều quan trọng là phải </seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T082212Z" creationid="The sun" creationdate="20151102T081051Z">
+        <seg>Bởi vì chúng ta có thể có những hiểu lầm về việc những hành vi nào là hiếm gặp hoặc thường xuyên góp mặt trong một loại tội ác, điều quan trọng là phải tìm hiểu về điều đó thông qua số liệu thống kê bằng cách tham vấn dữ liệu tội phạm. </seg>
       </tuv>
     </tu>
     <tu>
