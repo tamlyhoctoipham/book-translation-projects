@@ -1611,8 +1611,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Despite this, much more research would need to be conducted before concluding that the theoretical basis for offender profiling is unsound.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T031826Z" creationid="The sun" creationdate="20151102T031826Z">
-        <seg>Mặc dù vậy, cần thực hiện nhiều nghiên cứu hơn nữa trước khi đưa ra kết luận rằng cơ sở lý thuyết cho việ lập hồ sơ tội phạm là không đủ vững chắc.</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T052654Z" creationid="The sun" creationdate="20151102T031826Z">
+        <seg>Mặc dù vậy, cần thực hiện nhiều nghiên cứu hơn nữa trước khi đưa ra kết luận rằng cơ sở lý thuyết cho việc lập hồ sơ tội phạm là không đủ vững chắc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8040,6 +8040,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151019T161509Z" creationid="Demon" creationdate="20151019T161457Z">
         <seg>Những ảo tưởng này có thể ảnh hưởng đến mối quan hệ cá nhân và dẫn đến phạm tội trong tương lai.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These findings cannot be given too much weight, however, since they are based on a very small sample of officers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T052947Z" creationid="The sun" creationdate="20151102T052947Z">
+        <seg>Mặc dù vậy, những phát hiện này không mang tính tiêu biểu bởi chúng được thực hiện dựa trên một mẫu vô cùng nhỏ các sĩ quan cảnh sát.</seg>
       </tuv>
     </tu>
     <tu>
