@@ -823,6 +823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At face value this is indeed good news.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T032931Z" creationid="The sun" creationdate="20151102T032931Z">
+        <seg>Xét trên bề mặt, đây thực sự là tin tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At one point I looked up and the sky was black with missiles.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151011T151059Z" creationid="Admin" creationdate="20151011T151059Z">
@@ -3644,8 +3652,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>In the published literature and on the Internet it is easy to find case studies of successful applications of offender profiling to real criminal investigations.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T032652Z" creationid="The sun" creationdate="20151102T032652Z">
-        <seg>Trong các sách được xuất bản và trên Internet, rất dễ dàng tìm thấy những  </seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T032858Z" creationid="The sun" creationdate="20151102T032652Z">
+        <seg>Trong các sách được xuất bản và trên Internet, rất dễ dàng tìm thấy những nghiên cứu tình huống về những vụ án sử dụng thành công việc lập hồ sơ tội phạm để điều tra tội ác trong thực tế.</seg>
       </tuv>
     </tu>
     <tu>
