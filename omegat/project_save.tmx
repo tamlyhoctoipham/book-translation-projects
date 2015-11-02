@@ -719,6 +719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As noted above, one common limitation of offender profiling techniques is that the relationships between offender &lt;t0/&gt;behaviours&lt;t1/&gt; and offender characteristics have been developed from samples of known offenders.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T100556Z" creationid="The sun" creationdate="20151102T100556Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As noted above, prisoner victimization has been associated with a number of negative outcomes for prisoners.</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151009T173414Z" creationid="yuko" creationdate="20151009T173414Z">
@@ -6461,8 +6469,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Similarity in &lt;t6/&gt;behaviours&lt;t7/&gt; related to controlling the victim/witnesses and the distance &lt;t8/&gt;travelled to commit crimes have performed better as predictors of linkage than variables relating to how the target was selected, the planning of the offence or the property stolen.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T100010Z" creationid="The sun" creationdate="20151102T100010Z">
-        <seg>Sự tương đồng trong hành vi liên quan đến điều khiển nạn nhân/nhân chứng và khoảng cách đi lại để thực hiện tội ác đã thể hiện tốt hơn trong vai trò .</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T100526Z" creationid="The sun" creationdate="20151102T100010Z">
+        <seg>Sự tương đồng trong hành vi liên quan đến điều khiển nạn nhân/nhân chứng và khoảng cách đi lại để thực hiện tội ác đã thể hiện tốt hơn trong vai trò dự đoán về sự kết nối các vụ án hơn là các biến số liên quan đến các con mồi bị lựa chọn thế nào, kế hoạch của kẻ thủ ác hay những đồ đạc bị mất cắp.</seg>
       </tuv>
     </tu>
     <tu>
