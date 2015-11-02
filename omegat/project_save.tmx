@@ -3434,6 +3434,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In all studies conducted thus far this goal has been achieved.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T095149Z" creationid="The sun" creationdate="20151102T095149Z">
+        <seg>Trong tất cả các nghiên cứu được thực hiện cho đến hiện tại, mục tiêu này đã được hoàn thành.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In comparison to prisons in the US, jails are notoriously poorly resourced, with inactivity and crowding being particular problems.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151026T122217Z" creationid="LHC" creationdate="20151014T143152Z">
@@ -6175,6 +6183,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151029T033611Z" creationid="Hx" creationdate="20151029T021543Z">
         <seg>Những nhà nghiên cứu tâm lý học tính cách đã giải thích rằng sự tương đồng tâm lý sẽ liên quan đến việc một tình huống có ý nghĩa với chúng ta như thế nào và nó đã kích hoạt những cảm xúc, suy nghĩ, kỳ vọng và mục tiêu gì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Researchers using various statistical techniques have investigated whether linked pairs could be differentiated from unlinked pairs based on measures of &lt;t0/&gt;behavioural&lt;t1/&gt; similarity.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T095026Z" creationid="The sun" creationdate="20151102T095026Z">
+        <seg>Những nhà nghiên cứu sử dụng nhiều phương pháp thống kê để điều tra xem liệu rằng những cặp kết nối có khác biệt so với những cặp không kết nối dựa trên đo lường về sự tương đồng trong hành vi.</seg>
       </tuv>
     </tu>
     <tu>
