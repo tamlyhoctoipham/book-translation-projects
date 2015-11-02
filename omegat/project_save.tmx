@@ -6956,6 +6956,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The comments made by the profiler were assessed against what was known about the apprehended offender.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T053752Z" creationid="The sun" creationdate="20151102T053752Z">
+        <seg> .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The convictions were overturned by the Court of Appeal in 1992, after new DNA evidence was uncovered under layers of paint on a skirting board in Miss White’s flat.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T050105Z" creationid="MSI" creationdate="20151020T050105Z">
@@ -9064,8 +9072,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>This was done with a sub-sample of cases since only fifty-seven per cent had been solved.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T053601Z" creationid="The sun" creationdate="20151102T053303Z">
-        <seg>được thực hiện với một mẫu có số lượng vụ án ít hơn bởi chỉ có 57% vụ án đã được giải quyết.</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T053906Z" creationid="The sun" creationdate="20151102T053303Z">
+        <seg>được thực hiện với một mẫu có số lượng vụ án ít hơn bởi trong tổng số tất cả các vụ án, chỉ có 57% là đã được giải quyết.</seg>
       </tuv>
     </tu>
     <tu>
