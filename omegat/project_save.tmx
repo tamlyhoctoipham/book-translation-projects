@@ -729,8 +729,8 @@
       <tuv lang="EN-US">
         <seg>As noted above, one common limitation of offender profiling techniques is that the relationships between offender &lt;t0/&gt;behaviours&lt;t1/&gt; and offender characteristics have been developed from samples of known offenders.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T100750Z" creationid="The sun" creationdate="20151102T100556Z">
-        <seg>Nh.</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T101115Z" creationid="The sun" creationdate="20151102T100556Z">
+        <seg>Như đã nói ở trên, một hạn chế chung của kỹ thuật lập hồ sơ tội phạm là rằng những mối quan hệ giữa hành vi của tội phạm và đặc điểm của tội phạm được phát triển từ các mẫu của những tên tội phạm đã biết.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9109,6 +9109,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is also a limitation of the research for case linkage.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T101202Z" creationid="The sun" creationdate="20151102T101202Z">
+        <seg>Đó cũng là một hạn chế của nghiên cứu về kết nối vụ án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is an important step in the case linkage process.</seg>
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151102T073546Z" creationid="The sun" creationdate="20151102T073546Z">
@@ -10742,6 +10750,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151102T035724Z" creationid="The sun" creationdate="20151102T032435Z">
         <seg>Đánh giá&lt;t0/&gt;việc thực hành lập hồ sơ tội phạm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>evaluations&lt;t0/&gt; of the practice of case linkage.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T101228Z" creationid="The sun" creationdate="20151102T101228Z">
+        <seg>Đánh giá về việc thực hành kết nối vụ án.</seg>
       </tuv>
     </tu>
     <tu>
