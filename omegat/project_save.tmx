@@ -8501,6 +8501,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a question that future research could investigate.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151102T031615Z" creationid="yuko" creationdate="20151102T031615Z">
+        <seg>Đây là một vấn đề mà các nghiên cứu tương lai có thể điều tra, phân tích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a worldwide problem.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151024T081845Z" creationid="MSI" creationdate="20151024T081845Z">
@@ -9958,6 +9966,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T191303Z" creationid="Demon" creationdate="20151024T191303Z">
         <seg>Lệch lạc về nhận thức.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>coping with imprisonment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151102T031741Z" creationid="yuko" creationdate="20151102T031741Z">
+        <seg>cgiải quyết .</seg>
       </tuv>
     </tu>
     <tu>
