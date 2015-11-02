@@ -239,6 +239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A similar study was conducted in the Netherlands, where only six profiles existed which could be assessed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T052029Z" creationid="The sun" creationdate="20151102T052029Z">
+        <seg>Một nghiên cứu tương tự được thực hiện tại Hà Lan, nơi chỉ có sáu hồ sơ tội phạm tồn tại mà có thể được đánh giá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A study that tried to predict the characteristics of burglars from their crime scene &lt;t2/&gt;behaviour&lt;t3/&gt; also achieved some success in predicting characteristics such as offender demographics (e.g. age) and previous criminal history.</seg>
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151102T035700Z" creationid="The sun" creationdate="20151102T035700Z">
@@ -3318,6 +3326,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151027T023750Z" creationid="Hx" creationdate="20151027T023750Z">
         <seg>Trái lại với marauder, commuter di chuyển ra xa phạm vi nhà của họ đến một địa điểm nhất định nơi họ gây án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast to the British study, the feedback from the police officers was negative.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T052222Z" creationid="The sun" creationdate="20151102T052222Z">
+        <seg>Trái với nghiên cứu thực hiện tại Anh, các sĩ quan cảnh sát tại đây có phản hồi tiêu cực .</seg>
       </tuv>
     </tu>
     <tu>
