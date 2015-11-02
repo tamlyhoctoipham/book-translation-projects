@@ -4923,6 +4923,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of the comments made in these profiles, only a third could be verified.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T054503Z" creationid="The sun" creationdate="20151102T054440Z">
+        <seg>Trong số tất cả những bình luận trong các hồ sơ trên, chỉ có 1/3 là có thể kiểm chứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offence-specific targets are patterns of thought which have been shown in research to be connected with sexually abusive &lt;t4/&gt;behaviour&lt;t5/&gt; and sexual offending.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T185719Z" creationid="Demon" creationdate="20151024T185719Z">
@@ -5023,6 +5031,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151029T034507Z" creationid="PhuongThao" creationdate="20151029T034507Z">
         <seg>Ngày 09 tháng 9 năm 2001, thiếu tá Charles Ingram của quân đội Anh đã tham dự trò chơi Ai là triệu phú. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On average, approximately two comments were correct for every comment that was incorrect.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T054602Z" creationid="The sun" creationdate="20151102T054602Z">
+        <seg>Trung bình, xấp xỉ có 2 bình luận là chính xác cho tất cả những binh luận không chính xác.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6958,8 +6974,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The comments made by the profiler were assessed against what was known about the apprehended offender.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T054341Z" creationid="The sun" creationdate="20151102T053752Z">
-        <seg>Những nhận xét của những người lập hồ sơ được thẩm định và so sánh với những thứ đã biết về những tên tội phạm đã bị bắt .</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T054450Z" creationid="The sun" creationdate="20151102T053752Z">
+        <seg>Những bình luận của những người lập hồ sơ được thẩm định và so sánh với những thứ đã biết về những tên tội phạm đã bị bắt .</seg>
       </tuv>
     </tu>
     <tu>
