@@ -936,6 +936,14 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the time this was an area of poverty and disease and the gruesome murders caused great fear among the local people.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T083600Z" creationid="The sun" creationdate="20151102T083600Z">
+        <seg>Tại thời điểm đó, khu vực ấy là một vùng đất nghèo nan và đầy bệnh tật, cùng với đó là những vụ giết người rợn tóc gáy gây ra nỗi sợ hãi cùng cực cho người dân địa phương. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this point, it is important to make a distinction between sentenced and remand prisoners, and consider how their status can affect their experience of imprisonment.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151026T120336Z" creationid="LHC" creationdate="20151011T164133Z">
@@ -3794,6 +3802,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the late nineteenth century in London, eleven women were murdered in an area called Whitechapel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T083359Z" creationid="The sun" creationdate="20151102T083359Z">
+        <seg>Cuối thế kỷ 19 tại London, mười một phụ nữ đã bị giết hại tại một khu vực có tên là Whitechapel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the next section we move on from the assumptions of offender profiling to consider the research that has evaluated the actual practice of offender profiling.</seg>
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151102T032347Z" creationid="The sun" creationdate="20151102T032347Z">
@@ -4325,8 +4341,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>It is to the psychological assumptions of case linkage that we now turn.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T083002Z" creationid="The sun" creationdate="20151102T082729Z">
-        <seg>Điều đó có nghĩa là hiện tại chúng ta sẽ hướng đến các giả định tâm lý của kết nối vụ án.</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T083214Z" creationid="The sun" creationdate="20151102T082729Z">
+        <seg>Điều đó có nghĩa là, hiện tại chúng ta đang hướng đến các giả định tâm lý học của kết nối vụ án.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4647,6 +4663,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151020T112303Z" creationid="Demon" creationdate="20151020T112303Z">
         <seg>Đi kèm với điều này có vẻ là sự bất lực trong việc đương đầu với căng thẳng trong cuộc sống của các tội phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linking the crimes of Jack the Ripper.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="The sun" changedate="20151102T083239Z" creationid="The sun" creationdate="20151102T083239Z">
+        <seg>Kết nối các vụ án của Jack Đồ Tể.</seg>
       </tuv>
     </tu>
     <tu>
