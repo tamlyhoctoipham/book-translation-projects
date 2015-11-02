@@ -3394,6 +3394,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a 1984 book chapter in which we reviewed our research (and that of others) we concluded that:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151102T101801Z" creationid="ADMIN" creationdate="20151102T101801Z">
+        <seg>Trong một chương của cuốn sách xuất bản năm 1984, chúng tôi xem xét lại nghiên cứu của mình (và cả những người khác) và kết luận như sau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a recent evaluation of community-based offending behaviour programmes carried out by the Universities of Leicester and Liverpool in the UK, those offenders who failed to complete programmes and those who failed even to start the programmes were the very people who are judged by the risk principle to be in greater need of treatment.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T153603Z" creationid="USER" creationdate="20151009T110637Z">
@@ -7094,8 +7102,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The Devlin Committee, which reported to the Home Secretary in 1976, stated that as far as its members were concerned no research had been conducted on voice identification but that ‘research should proceed as rapidly as possible into the practicality of voice parades ... or any other appropriate methods’.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151102T101032Z" creationid="ADMIN" creationdate="20151102T101032Z">
-        <seg>Ủy ban Devlin, .</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151102T101659Z" creationid="ADMIN" creationdate="20151102T101032Z">
+        <seg>Như báo cáo cho Bộ trưởng Bộ Nội vụ vào năm 1976, Ủy ban Devlin nói rằng sẽ không có nghiên cứu nào về nhận dạng giọng nói được thực hiện khi nào các thành viên của ủy ban còn có liên quan nhưng cũng nói rằng "nên tiến hành càng sớm càng tốt những nghiên cứu về tính thực tế của việc đưa một loạt giọng nói để nhân chứng nhận dạng ... hoặc bất kì phương thức nào khác thích hợp.</seg>
       </tuv>
     </tu>
     <tu>
