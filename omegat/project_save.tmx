@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A later overview of research on voice identification was published in 1995.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151102T103521Z" creationid="ADMIN" creationdate="20151102T103521Z">
+        <seg>Một nghiên cứu sau này về nhận dạng giọng nói đã được công bố vào năm 1995.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A major tactic seemed to be to reveal at the beginning of the interview all of the evidence against the suspect and to then tell them to confess.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151028T112338Z" creationid="USER" creationdate="20151028T112338Z">
@@ -3774,6 +3782,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151022T131739Z" creationid="USER" creationdate="20151022T131726Z">
         <seg>Ở một số nước như Mỹ lực lượng cảnh sát hiện nay được đào tạo cách lấy cung nghi phạm theo hai giai đoạn chính.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In some criminal trials judges do not agree with requests from the &lt;t0/&gt;defence&lt;t1/&gt; lawyers that &lt;t2/&gt;earwitness&lt;t3/&gt; evidence may be so error- prone that such evidence should not be allowed to form part of the prosecution case.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151102T103933Z" creationid="ADMIN" creationdate="20151102T103933Z">
+        <seg>Trong nhiều phiên tòa, các thẩm phán không chấp thuận khi luật sư bên phía bị can kháng nghị rằng bằng chứng về giọng nói có thể mắc lỗi và do đó không nên được sử dụng để khởi tố.</seg>
       </tuv>
     </tu>
     <tu>
