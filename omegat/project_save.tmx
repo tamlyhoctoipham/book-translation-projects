@@ -3060,8 +3060,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>If you cannot afford a lawyer, one will be provided for you at government expense.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T020756Z" creationid="PhuongThao" creationdate="20151020T020756Z">
-        <seg>Nếu anh không đủ tiền chi tra để mời luật sư, một luật sư sẽ được mời đến để giúp anh bằng chi phí của Chính phủ. </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151102T030057Z" creationid="PhuongThao" creationdate="20151020T020756Z">
+        <seg>Nếu anh không đủ tiền chi trả cho việc này, một luật sư sẽ được mời đến để giúp anh bằng chi phí của Chính phủ. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7318,8 +7318,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The purpose of the caution is to tell arrested individuals just what their rights are under the law, but the language used to express these rights is not straightforward.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151020T020911Z" creationid="PhuongThao" creationdate="20151020T020911Z">
-        <seg>Mục đích của lời cảnh báo này là nhằm để nói cho những người bị bắt giữ về quyền lợi của họ có theo pháp luật, tuy nhiên, ngôn ngữ dùng để diễn đạt những điều đó thì lại không được thẳng thắn. </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151102T030117Z" creationid="PhuongThao" creationdate="20151020T020911Z">
+        <seg>Mục đích của lời cảnh báo này là nhằm để nói cho những người bị bắt giữ về quyền lợi của họ có theo pháp luật, tuy nhiên, ngôn ngữ dùng để diễn đạt những điều đó thì lại không được thẳng thắn cho lắm. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7654,8 +7654,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The wording of Miranda rights varies slightly from state to state but the minimal Miranda warning, as outlined in the Miranda v. Arizona case is given below.</seg>
       </tuv>
-      <tuv lang="VI" changeid="PhuongThao" changedate="20151102T024839Z" creationid="PhuongThao" creationdate="20151015T040025Z">
-        <seg>Có nhiều khác biệt nhỏ trong việc diễn đạt Quyền Miranda ở từng bang, nhưng dưới đây là một lời cảnh báo Miranda tối thiểu , như đã được đưa ra trong vụ kiện Miranva v. Arizona.    </seg>
+      <tuv lang="VI" changeid="PhuongThao" changedate="20151102T030026Z" creationid="PhuongThao" creationdate="20151015T040025Z">
+        <seg>Có nhiều khác biệt nhỏ trong sự diễn đạt Quyền Miranda ở từng bang, nhưng dưới đây là một lời cảnh báo Miranda tối thiểu đã được viện ra trong vụ kiện Miranva v. Arizona.    </seg>
       </tuv>
     </tu>
     <tu>
