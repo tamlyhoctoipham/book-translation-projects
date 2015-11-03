@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>(If all offenders were consistent in their &lt;t2/&gt;behaviour&lt;t3/&gt; but in the same way it would be impossible to distinguish one offender’s crimes from another offender’s crimes.) To test this second criterion for case linkage, researchers have tried statistically to distinguish pairs of crimes committed by the same offender (linked pairs) from pairs of crimes committed by different offenders (unlinked pairs).</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T093948Z" creationid="The sun" creationdate="20151102T093948Z">
-        <seg>(Nếu như tất cả tội phạm đều nhất quán trong hành vi của chúng nhưng đều theo cùng một đường lối, sẽ là bất khả thi để phân biệt tội ác của thủ phạm này với tội ác của kẻ khác.) Để kiểm tra tiêu chí thứ hai này của kết nối vụ án, các nhà nghiên cứu đã cố gắng dùng thống kê để phân biệt các cặp tội ác thực hiện bởi cùng một kẻ thủ ác (cặp kết nối) so với cặp tội ác thực hiện bởi những kẻ thủ ác khác nhau (cặp không kết nối).</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151103T083510Z" creationid="The sun" creationdate="20151102T093948Z">
+        <seg>(Nếu như tất cả tội phạm đều nhất quán trong hành vi của chúng nhưng lại theo cùng một đường lối, sẽ là bất khả thi để phân biệt tội ác của thủ phạm này với tội ác của kẻ khác.) Để kiểm tra tiêu chí thứ hai này của kết nối vụ án, các nhà nghiên cứu đã cố gắng dùng thống kê để phân biệt các cặp tội ác thực hiện bởi cùng một kẻ thủ ác (cặp tội ác có thể kết nối) so với cặp tội ác thực hiện bởi những kẻ thủ ác khác nhau (cặp tội ác không có kết nối).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6445,8 +6445,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Researchers using various statistical techniques have investigated whether linked pairs could be differentiated from unlinked pairs based on measures of &lt;t0/&gt;behavioural&lt;t1/&gt; similarity.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T095026Z" creationid="The sun" creationdate="20151102T095026Z">
-        <seg>Những nhà nghiên cứu sử dụng nhiều phương pháp thống kê để điều tra xem liệu rằng những cặp kết nối có khác biệt so với những cặp không kết nối dựa trên đo lường về sự tương đồng trong hành vi.</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151103T083601Z" creationid="The sun" creationdate="20151102T095026Z">
+        <seg>Những nhà nghiên cứu sử dụng nhiều phương pháp thống kê để điều tra xem liệu rằng những cặp tội ác có thể kết nối có khác biệt so với những cặp không có kết nối dựa trên đo lường về sự tương đồng trong hành vi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7494,8 +7494,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The careful planning that had gone into them, the extensive cutting of the victims, the mutilation of the victims’ bodies, and the posing of their bodies in sexually degrading manners in preparation for their discovery, were highlighted as the consistent and distinctive features.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T091436Z" creationid="The sun" creationdate="20151102T091436Z">
-        <seg>Việc lên kế hoạch tỉ mỉ mà đã trở thành hành vi của hắn, những vết cắt nghiêm trọng trên cơ thể nạn nhân, sự phanh thây xác các nạn nhân, và sắp đặt xác họ trong tư thế hạ nhục dâm dục khi bị tìm thấy, đã được làm nổi bật lên là những đặc điểm nhất quán và riêng biệt.</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151103T083409Z" creationid="The sun" creationdate="20151102T091436Z">
+        <seg>Việc lên kế hoạch tỉ mỉ mà đã trở thành hành vi của hắn, những vết cắt nghiêm trọng trên cơ thể nạn nhân, sự phanh thây xác các nạn nhân, và sắp đặt xác họ trong tư thế hạ nhục dâm dục khi bị tìm thấy, đã được làm nổi bật lên là những đặc điểm đặc trưng và nhất quán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11556,8 +11556,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>‘Linked’ offences are therefore those that are known to have been committed by the same offender, usually as a result of conviction.</seg>
       </tuv>
-      <tuv lang="VI" changeid="The sun" changedate="20151102T094343Z" creationid="The sun" creationdate="20151102T094343Z">
-        <seg>Do đó, những tội ác 'được kết nối'  là những vụ án đã được biết đến là được thực hiện bởi cùng một kẻ thủ ác, thường là kết quả của việc tuyên án.</seg>
+      <tuv lang="VI" changeid="The sun" changedate="20151103T083542Z" creationid="The sun" creationdate="20151102T094343Z">
+        <seg>Do đó, những tội ác 'có thể kết nối'  là những vụ án đã được biết đến là được thực hiện bởi cùng một kẻ thủ ác, thường là kết quả của việc tuyên án.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
