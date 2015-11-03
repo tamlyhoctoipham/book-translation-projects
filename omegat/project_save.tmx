@@ -3428,8 +3428,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>In August 1999 the national Court of Appeal (in the case of Roberts) reported in its written judgement that the lawyers for the appellant (i.e. the convicted man who was appealing the conviction) had placed before it that 1998 paper and the court noted that among the points made were the following:</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151103T044737Z" creationid="ADMIN" creationdate="20151103T044340Z">
-        <seg>Vào tháng Tám năm 1999, Tòa phúc thẩm quốc gia (vụ án gia đình nhà Robert) đã viết trong biên bản phiên tòa rằng các luật sư bên nguyên kháng (ví dụ như người bị kết án yêu cầu kháng cáo) </seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151103T044835Z" creationid="ADMIN" creationdate="20151103T044340Z">
+        <seg>Vào tháng Tám năm 1999, Tòa phúc thẩm quốc gia (vụ án gia đình nhà Robert) đã viết trong biên bản phiên tòa rằng các luật sư bên nguyên kháng (ví dụ như người bị kết án yêu cầu kháng cáo) đã dùng nghiên cứu năm 1998 và tòa ghi nhận các điểm đã được trình bày như sau: </seg>
       </tuv>
     </tu>
     <tu>
@@ -11484,8 +11484,24 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>voice&lt;t0/&gt; identification is more difficult than visual identification;</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151012T124558Z" creationid="ADMIN" creationdate="20151012T124558Z">
-        <seg>nhận dạng giọng nói khó hơn nhiều so với nhận diện bằng mắt;</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151103T045041Z" creationid="ADMIN" creationdate="20151012T124558Z">
+        <seg>nhận dạng giọng nói khó hơn nhiều so với nhận diện gương mặt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voice&lt;t0/&gt; identification is more likely than visual identification to be wrong;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151103T045100Z" creationid="ADMIN" creationdate="20151103T044946Z">
+        <seg>nhận dạng giọng nói có khả năng mắc lỗi nhiều hơn nhận diện gương mặt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voice&lt;t0/&gt; identification of a stranger’s voice is a very difficult task, even where the opportunities to listen to the voice are relatively good;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151103T044952Z" creationid="ADMIN" creationdate="20151103T044938Z">
+        <seg>nhận dạng giọng nói của một người không quen biết là việc vô cùng khó, ngay cả khi trong điều kiện khá lý tưởng;</seg>
       </tuv>
     </tu>
     <tu>
