@@ -1691,8 +1691,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Criminal psychologists have been active in this development contributing to the design, delivery and management of &lt;t2/&gt;programmes&lt;t3/&gt; which attempt to address the offenders’ thoughts, attitudes and &lt;t4/&gt;behaviours&lt;t5/&gt; that contribute to their offending &lt;t6/&gt;behaviour&lt;t7/&gt;, and prevent &lt;t8/&gt;further offending.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Admin" changedate="20151020T161608Z" creationid="Admin" creationdate="20151020T161608Z">
-        <seg>Các nhà tâm lý học tội phạm đã đượcCriminal psychologists have been active in this development contributing to the design, delivery and management of &lt;t2/&gt;programmes&lt;t3/&gt; which attempt to address the offenders’ thoughts, attitudes and &lt;t4/&gt;behaviours&lt;t5/&gt; that contribute to their offending &lt;t6/&gt;behaviour&lt;t7/&gt;, and prevent &lt;t8/&gt;further offending.</seg>
+      <tuv lang="VI" changeid="Admin" changedate="20151021T002611Z" creationid="Admin" creationdate="20151020T161608Z">
+        <seg>Các nhà tâm lý học tội phạm đã được tham gia đóng góp phát triển việc thiết kế, phân phối và quản lý của chương trình nhằm xác định suy nghĩ, thái độ và hành vi của tội phạm góp phần tạo nên tội ác cũng như ngăn ngừa các tội ác sau này.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3094,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151008T033505Z" creationid="Hx" creationdate="20151008T033505Z">
         <seg>Tuy nhiên, mục đích của hai quá trình này là hoàn toàn khác nhau và do đó chúng sẽ được thảo luận riêng biệt trong chương này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the role of the prison or probation psychologist is not limited to rehabilitation related work.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151021T004332Z" creationid="Admin" creationdate="20151021T004332Z">
+        <seg>Tuy nhiên, vai trò của tù nhân hay thác thức của nhà tâm lý học không giới hạn trong mối quan hệ giữa việc cải tạo và công việc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6211,6 +6219,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Psychologists are also involved in the management of these &lt;t9/&gt;programmes&lt;t10/&gt;, ensuring that the right offenders are placed on such &lt;t11/&gt;programmes&lt;t12/&gt; and that the &lt;t13/&gt;programmes&lt;t14/&gt; are delivered in the manner in which the designer intended.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151021T003336Z" creationid="Admin" creationdate="20151021T003336Z">
+        <seg>Các nhà tâm lý học còn liên quan đến việc quản lý các chương trình đó để đảm bảo chắc chắn rằng các phạm nhân được tham gia vào đúng chương trình phù hợp và các chương trình được thực hiện đúng như mục đích của người thiết kế tạo ra.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Psychologists can provide an input to each of these arrangements on an operational level but can also provide managerial and advisory support to those delivering such interventions.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151020T161057Z" creationid="Admin" creationdate="20151020T160001Z">
@@ -6375,6 +6391,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151021T030641Z" creationid="USER" creationdate="20151021T030633Z">
         <seg>Nghiên cứu chứng minh rằng nếu không được đào tạo điều trái ngược thì hầu hết những cảnh sát có nhiệm vụ chất vấn nghi phạm từ đầu đã luôn tin rằng họ có khả năng cao là thủ phạm, thì nghi phạm đó sẽ thừa nhận mình đã phạm tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research has shown that badly delivered &lt;t15/&gt;programmes&lt;t16/&gt; can at best be ineffective but at worst be damaging.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Admin" changedate="20151021T003636Z" creationid="Admin" creationdate="20151021T003636Z">
+        <seg>Nghiên cứu cho thấy các chương trình không được thực hiện đúng có thể làm việc thực hiện trở thành vô nghĩa không hiệu quả thậm chí là gây ra thiệt hại nặng nề.  </seg>
       </tuv>
     </tu>
     <tu>
