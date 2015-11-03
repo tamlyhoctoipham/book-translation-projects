@@ -3426,6 +3426,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In August 1999 the national Court of Appeal (in the case of Roberts) reported in its written judgement that the lawyers for the appellant (i.e. the convicted man who was appealing the conviction) had placed before it that 1998 paper and the court noted that among the points made were the following:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151103T044340Z" creationid="ADMIN" creationdate="20151103T044340Z">
+        <seg>Vào tháng Tám năm 1999, Tòa phúc thẩm quốc gia (vụ án gia đình nhà Robert) đã viết trong biên bản phiên tòa rằng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Britain there are often calls for more uniformed police on the street, which research suggests offers citizens reassurance, lowers fear of crime and maintains law and order.</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151006T165439Z" creationid="Jennifer Tran" creationdate="20151006T165439Z">
@@ -7990,8 +7998,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The overview stated that ‘One of the myths still held by many laypersons and officials in the criminal justice system is the belief that eyewitness memory, including voice recognition, is merely common knowledge’ and that ‘Most voice identification issues of concern to the court, of course, are for voices of strangers ... identification for unfamiliar voices must by treated with caution.’</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151103T043058Z" creationid="ADMIN" creationdate="20151103T043058Z">
-        <seg>Bài khái quát viết 'Nhiều người không chuyên và cán bộ công tác trong hệ thống tư pháp hình sự vẫn còn giữ một niềm tin sai lầm rằng trí nhớ của nhân chứng, bao gồm cả nhận dạng giọng nói, chỉ đơn thuần là thường thức' và 'Phần lớn các giọng nói nói cần được xác nhận, đương nhiên, là của người lạ ... việc nhận dạng những giọng nói xa lạ cần phải được xử lí một cách cẩn thận.'</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151103T044353Z" creationid="ADMIN" creationdate="20151103T043058Z">
+        <seg>Bài khái quát viết 'Nhiều người không chuyên và cán bộ công tác trong hệ thống tư pháp hình sự vẫn còn giữ một niềm tin sai lầm, đó là trí nhớ của nhân chứng, bao gồm cả nhận dạng giọng nói, chỉ đơn thuần là thường thức' và 'Phần lớn các giọng nói nói cần được xác nhận, đương nhiên, là của người lạ ... việc nhận dạng những giọng nói xa lạ cần phải được xử lí một cách cẩn thận.'</seg>
       </tuv>
     </tu>
     <tu>
