@@ -3154,6 +3154,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, some caution should be exercised before drawing any firm conclusions about the apparently poorer psychological health of prisoners compared to the general public.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151103T164844Z" creationid="yuko" creationdate="20151103T164844Z">
+        <seg>Tuy nhiên cũng nên đưa ra một số cảnh bảo trước khi đi đến kết luận chính thức về tình trạng sức khoẻ tâm lý yếu kém của tù nhân so với cộng đồng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, such retributive punishment demands that someone is to ‘blame’ for a criminal offence and considers that all offenders are equal.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151024T164110Z" creationid="Lenovo" creationdate="20151008T132615Z">
@@ -11081,8 +11089,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>With a sample of adult prisoners, Jessica Woodhams found that over six per cent of prisoners reported levels indicative of clinical anxiety and depression.</seg>
       </tuv>
-      <tuv lang="VI" changeid="yuko" changedate="20151103T164248Z" creationid="yuko" creationdate="20151103T164248Z">
-        <seg>Với một nhóm phạm .</seg>
+      <tuv lang="VI" changeid="yuko" changedate="20151103T164645Z" creationid="yuko" creationdate="20151103T164248Z">
+        <seg>Với một nhóm phạm nhân đứng tuổi, Jessica Woodhams tìm ra rằng: hơn 6% số tù nhân được báo cáo có những mức độ biểu thị lo lắng và trầm cảm lâm sàng .</seg>
       </tuv>
     </tu>
     <tu>
