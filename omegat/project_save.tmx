@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For more on ‘story’ cues see the section below on &lt;t0/&gt;analysing&lt;t1/&gt; what people say.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T163754Z" creationid="nguye" creationdate="20151104T163754Z">
+        <seg>(Để biết nhiều hơn về dấu hiệu "câu chuyện", xem phần dưới về việc phân tích những gì người ta nói.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(However, in many of these laboratory based studies the participants initially have been shown many faces, each very briefly, to later recognize among an even larger set rather than initially just one or two faces, as in most crimes, &lt;t2/&gt;to&lt;t3/&gt; later identify from several.) One of the current leading psychological explanations of these findings is that people are able to encode (i.e. put into memory) more information concerning the types of faces they are familiar with.</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T161630Z" creationid="VIP_PC" creationdate="20151104T161630Z">
@@ -6731,6 +6739,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Professor &lt;t0/&gt;Vrij&lt;t1/&gt; has suggested a number of reasons that are based on psychological theory and research.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T163933Z" creationid="nguye" creationdate="20151104T163933Z">
+        <seg>Giáo sư Vrij đã nêu ra nhiều lí do dựa vào giả thiết và nghiên cứu tâm lý học.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Professor Canter called this the ‘offender consistency hypothesis’ which has its roots in personality psychology.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151028T163334Z" creationid="Hx" creationdate="20151028T163152Z">
@@ -7519,6 +7535,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151021T143107Z" creationid="nguye" creationdate="20151021T143107Z">
         <seg>Vì vậy nghiên cứu đã cho chúng ta biết gì về hành vi của con người khi nói dối?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So why are many professionals such as police officers far from perfect at detecting deception?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T163849Z" creationid="nguye" creationdate="20151104T163849Z">
+        <seg>Vậy tại sao nhiều chuyên gia như cảnh sát lại không làm tốt trong việc phát hiện nói dối?</seg>
       </tuv>
     </tu>
     <tu>
