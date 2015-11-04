@@ -2427,8 +2427,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>First, and perhaps foremost, there are dozens of research studies on how people actually behave when lying, which consistently have revealed that when lying compared to when they are telling the truth some people show increases in certain &lt;t2/&gt;behaviours&lt;t3/&gt;, while other people show decreases or no change in the same &lt;t4/&gt;behaviours&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="VI" changeid="nguye" changedate="20151104T164047Z" creationid="nguye" creationdate="20151104T164047Z">
-        <seg>Thứ nhất, có hàng tá các nghiên cứu trong việc người ta thật sự có hành vi như thế nào khi nói dối</seg>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T164359Z" creationid="nguye" creationdate="20151104T164047Z">
+        <seg>Thứ nhất, có hàng tá các nghiên cứu trong việc người ta thật sự có hành vi như thế nào khi nói dối đã cho thấy rằng khi so sánh người khi nói dối với nói thật, một số thường có những hành vi nhất định nhiều hơn bình thường , trong khi những người khác cho thấy sự giảm đi hoặc không thay đổi đối với cùng một hành vi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2902,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151103T134125Z" creationid="ADMIN" creationdate="20151012T123546Z">
         <seg>Hơn nữa, trong một số trường hợp, có thể nhân chứng không nhìn thấy mặt nhưng lại nghe được giọng của hung thủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore, in some lying/truth-telling situations a person’s &lt;t6/&gt;behaviours&lt;t7/&gt; may increase, but the same person’s &lt;t8/&gt;behaviours&lt;t9/&gt; may decrease in other deceptive situations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T164527Z" creationid="nguye" creationdate="20151104T164527Z">
+        <seg>Thêm vào đó, trong một số tình huống nói dối/ nói thật những hành vi của cá nhân có thể tăng lên, nhưng có những hành vi của cùng người đó có thể giảm trong một số tình huống nói dối khác.</seg>
       </tuv>
     </tu>
     <tu>
