@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(ii) we do not put all these parts into memory and (iii) when we try to retrieve from memory the (limited amount of) information that actually is in there about the event we (a) cannot retrieve all that is there and (b) we ‘add’ to what is retrieved based on our expectations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155427Z" creationid="VIP_PC" creationdate="20151104T155427Z">
+        <seg>(ii)chúng ta không đưa tất cả các phần vào trong trí nhớ và (iii) khi chúng ta cố gắng nhớ lại một phần thông tin (bị hạn chễ) thì thực chất chúng ta (a) không thể khôi phục tất cả và (b) thông tin mà chúng ta nhớ được sẽ được "thêm" vào dựa trên nguyện vọng của mình. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Gudjonsson’s&lt;t1/&gt; (2003) book provides details of several such cases.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151031T164802Z" creationid="USER" creationdate="20151021T015647Z">
@@ -2529,6 +2537,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, jurors or judges might mistakenly think that a confident witness should be relied on more than a non-confident witness.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155500Z" creationid="VIP_PC" creationdate="20151104T155500Z">
+        <seg>Ví dụ như các thành viên bồi thẩm đoàn và các thẩm phán có thể có suy nghĩ sai lầm rằng những nhân chứng tự tin đáng tin hơn những người thiếu tự tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, prisoners who are part of an established criminal network may find it easier to integrate into the prison social network if they have co- offenders imprisoned with them at the same time.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151014T144852Z" creationid="LHC" creationdate="20151014T144852Z">
@@ -3062,6 +3078,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151030T135307Z" creationid="Admin" creationdate="20151030T135307Z">
         <seg>Tuy nhiên, Báo cáo của Lord Scarman năm 1981 (sau cuộc bạo loạn ở Brixton) và Báo cáo Macpherson (sau cái chết của Stephen Lawrence, 1993), cả hai thừa nhận không chỉ vấn đề phân biệt chủng tộc và tội phạm bắt nguồn từ phân biệt chủng tộc đang ở khắp nước Anh, mà cũng có những khái niệm về phân biệt chủng tộc có tính chất cơ quan trong chính phạm vi ngành cảnh sát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, a topic that only recently has begun to receive the attention of criminal psychologists is that of elderly witnesses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155506Z" creationid="VIP_PC" creationdate="20151104T155506Z">
+        <seg>Tuy nhiên, một chuyên đề mới đây đã bắt đầu nhận được nhiều chú ý của các nhà tâm lý học tội phạm khi đề cập đến các nhân chứng già.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5683,10 +5707,26 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Much of the research on aspects of witnesses has found that these have little effect on performance (e.g.  Whether the witness was female or male, a member of the public or a police officer, confident or not, intelligent).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155443Z" creationid="VIP_PC" creationdate="20151104T155443Z">
+        <seg>Rất nhiều nghiên cứu về các khía cạnh của nhân chứng đã chỉ ra rằng nó không ảnh hưởng nhiều lắm đến biểu hiện của nhân chứng (ví dụ: liệu nhân chứng là nam hay nữ, là một thành viên của cộng đồng hay là một cảnh sát, tự tin hay không, và trí thông minh.) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Much of this research has been conducted in the West: its findings might not apply so readily to prisons in other parts of the world and it is important to bear this in mind.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151023T223844Z" creationid="LHC" creationdate="20151011T152555Z">
         <seg>Phần lớn việc nghiên cứu này được tiến hành ở phương Tây: có thể những kết quả của nó không dễ dàng áp dụng cho các nhà tù ở những nơi khác trên thế giới và do vậy chúng ta cần phải ghi nhớ điều quan trọng này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, research on these aspects can inform decisions as to whether witness evidence can be relied upon.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155407Z" creationid="VIP_PC" creationdate="20151104T155407Z">
+        <seg>Tuy nhiên, nghiên cứu về khía cạnh có thể cung cấp thêm thông tin cho các quyết định như việc liệu chứng cứ của nhân chứng có thể được dựa trên hay không.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8524,6 +8564,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most crucial contribution of criminal psychology to better evaluation of eyewitness testimony has been to try to make investigators, courts, and juries aware that memory does not act like a tape recorder.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155414Z" creationid="VIP_PC" creationdate="20151104T155414Z">
+        <seg>Đóng góp quan trọng nhất của tâm lý học tội phạm cho việc đánh giá tốt hơn về lời khai nhân chứng đã cố gắng để khiến các nhà điều tra, quan tòa và thẩm phán biết được rằng trí nhớ con người không hoạt động như một cuộn băng ghi hình.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most notable example of this is DNA profiling.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T042457Z" creationid="MSI" creationdate="20151020T042457Z">
@@ -8988,6 +9036,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The third of these aspects can be improved in the light of psychological research but the first two usually cannot.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155401Z" creationid="VIP_PC" creationdate="20151104T155401Z">
+        <seg>Khía cạnh thứ ba có thể được hoàn thiện trong nghiên cứu tâm lý nhưng hai khía cạnh còn lại thì thường không thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The training and the booklets were extensively based on ethical psychological notions.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151030T051247Z" creationid="USER" creationdate="20151030T051247Z">
@@ -9336,6 +9392,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151027T030626Z" creationid="Hx" creationdate="20151027T030626Z">
         <seg>Những nguyên tắc này dựa trên Lý thuyết Vòng tròn của phạm vi môi trường sống. Lý thuyết này dự đoán rằng tất cả mọi thứ đều ngang nhau, khuôn dáng của phạm vi phạm tội và phạm vi cư trú của kẻ phạm tội sẽ có dạng hình tròn, với bản thân ngôi nhà của kẻ phạm tội được đặt tại trung tâm của hình tròn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are important findings.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155516Z" creationid="VIP_PC" creationdate="20151104T155454Z">
+        <seg>Đó đều là những phát hiện quan trọng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10606,6 +10670,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thousands of psychological research studies have found that (&lt;t0/&gt;i&lt;t1/&gt;) during an event we can only focus on certain parts of it,</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155420Z" creationid="VIP_PC" creationdate="20151104T155420Z">
+        <seg>Hàng ngàn nghiên cứu tâm lý đã chứng minh được (i) xuyên xuốt một sự kiện nào đó, chúng ta chỉ có thể tập trung vào một vài phần cơ bản mà thôi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thousands of research studies have now been published but in relatively few countries have the police updated their identification procedures and/or governments updated their regulations to take full account of what psychology has discovered to assist in the conviction of the guilty.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151017T043219Z" creationid="ADMIN" creationdate="20151017T043219Z">
@@ -11758,6 +11830,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151012T123229Z" creationid="ADMIN" creationdate="20151007T013238Z">
         <seg>Những khía cạnh trong công việc điều tra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aspects&lt;t0/&gt; of witnesses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155432Z" creationid="VIP_PC" creationdate="20151104T155432Z">
+        <seg>Khía cạnh Nhân chứng</seg>
       </tuv>
     </tu>
     <tu>
