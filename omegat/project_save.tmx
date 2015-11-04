@@ -2882,6 +2882,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore, those officers who were more experienced in investigative interviewing performed better.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T162118Z" creationid="nguye" creationdate="20151104T162118Z">
+        <seg>Hơn nữa, những thanh tra có kinh nghiệm trong việc hỏi cung có khả năng phát hiện tốt hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Geographical profiling has its history in environmental criminology.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T033354Z" creationid="Hx" creationdate="20151015T033354Z">
@@ -4718,6 +4726,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151102T100058Z" creationid="ADMIN" creationdate="20151012T123401Z">
         <seg>Thay vào đó, họ thường cho phép một nhân chứng có nhiều kinh nghiệm (như tôi chẳng hạn) để xác nhận (ví dụ: cung cấp thông tin cho bồi thẩm đoàn) (i) những nghiên cứu về mức độ tin cậy của lời khai có được từ nhân chứng chỉ nghe (như đã đề cập ở trên) và (ii) những tác nhân trực tiếp ảnh hưởng đến bằng chứng đó lúc được đưa ra trên tòa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interestingly, those officers whose beliefs about cues to deception fitted with lay people’s stereotypical beliefs (for example, gaze aversion, fidgeting) were the poorest at detecting lies/truths and those who mentioned ‘story’ cues (e.g. amount of detail, contradictions) were the best.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T162149Z" creationid="nguye" creationdate="20151104T162149Z">
+        <seg>Thú vị rằng, những thanh tra </seg>
       </tuv>
     </tu>
     <tu>
@@ -11401,8 +11417,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>We found an average lie/truth accuracy rate of sixty-five per cent (which is significantly better than the chance rate of fifty per cent), with the lie detection rate being sixty-six per cent and truth detection sixty-four per cent.</seg>
       </tuv>
-      <tuv lang="VI" changeid="nguye" changedate="20151104T161835Z" creationid="nguye" creationdate="20151104T161835Z">
-        <seg>Chúng </seg>
+      <tuv lang="VI" changeid="nguye" changedate="20151104T162051Z" creationid="nguye" creationdate="20151104T161835Z">
+        <seg>Chúng tôi đã tìm thấy tỉ lệ nói dối/ nói thật trung bình là 65% ( nó tốt hơn nhiều so với việc đoán may với tỉ lệ 50-50) , với tỉ lệ phát hiện nói dối là 66% và tỉ lệ phát hiện nói thật là 64%.</seg>
       </tuv>
     </tu>
     <tu>
