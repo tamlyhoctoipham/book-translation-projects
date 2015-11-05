@@ -2369,6 +2369,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even today there is no accepted definition.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151105T044129Z" creationid="USER" creationdate="20151105T044129Z">
+        <seg>Kể cả đến ngày nay vẫn chưa có khái niệm nào hoàn toàn được chấp nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every day the police service is involved in a large range of activities, ranging from fairly trivial tasks such as giving directions to dealing with serious road accidents, reporting deaths to loved ones and investigating crime.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T035637Z" creationid="MSI" creationdate="20151020T035637Z">
@@ -9432,6 +9440,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151031T162940Z" creationid="USER" creationdate="20151031T162940Z">
         <seg>Những chiến lược này được thực hiện thường gồm 'báo cáo thách thức' và 'mâu thuẫn nhấn mạnh', chúng được đề cập trong sáng kiến đào tạo mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The term ‘criminal psychology’ has been defined in a number of different ways.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151105T044026Z" creationid="USER" creationdate="20151105T044026Z">
+        <seg>Khái niệm 'tâm lý học tội phạm' được định nghĩa bằng nhiều cách khác nhau. </seg>
       </tuv>
     </tu>
     <tu>
