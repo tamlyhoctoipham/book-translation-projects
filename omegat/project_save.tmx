@@ -4892,8 +4892,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>Inasmuch as the results we have reported are optimal in that wit- nesses were not stressed and there was no attempt at voice dis- guise, recognition accuracy at realistic delays and speech sample durations was so low that we would agree with Bull and Clifford’s (1984) conclusions.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151105T132255Z" creationid="ADMIN" creationdate="20151105T132255Z">
-        <seg>B.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T134036Z" creationid="ADMIN" creationdate="20151105T132255Z">
+        <seg>Bởi vì kết quả chúng tôi có được là trong điều kiện lý tưởng, khi nhân chứng không căng thẳng và cũng không có sự giả giọng nào, thì độ chính xác ở các điểm dừng và đoạn ghi âm mẫu thực tế là rất thấp nên chúng tôi đồng ý với kết luận mà Bull và Clifford đã đưa ra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7271,6 +7271,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T130610Z" creationid="dinhquy" creationdate="20151012T130610Z">
         <seg>Cải cách hướng dẫn (CALCRIM 220).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regarding the latter I have, for example, conducted experiments for and testified in different trials concerning whether people could tell which one (the suspect’s) of several voices in the ‘voice parade’ played by the police to the rape victim was the only one that was an edited voice sample (from a police interview), the others speaking in a monologue; whether people could tell which voice (again of a suspect) was the only one not reading from a script;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T134153Z" creationid="ADMIN" creationdate="20151105T134153Z">
+        <seg>Về vấn đề thứ hai được đề cập ở trên</seg>
       </tuv>
     </tu>
     <tu>
@@ -12998,6 +13006,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151006T191226Z" creationid="Admin" creationdate="20151006T191226Z">
         <seg>Những tình huống đặc biệt.&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the extent to which the suspect’s voice stood out from the other voices as better matching the voice description given by the witness of the perpetrator’s voice (e.g. in terms of having ‘an Irish accent’ or in another case being ‘high pitched’).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T134112Z" creationid="ADMIN" creationdate="20151105T134112Z">
+        <seg>).</seg>
       </tuv>
     </tu>
     <tu>
