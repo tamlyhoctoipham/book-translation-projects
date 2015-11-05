@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>A later overview of research on voice identification was published in 1995.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151103T042118Z" creationid="ADMIN" creationdate="20151102T103521Z">
-        <seg>Một bài khái quát về việc nghiên cứu nhận dạng giọng nói sau này đã được công bố vào năm 1995.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T131225Z" creationid="ADMIN" creationdate="20151102T103521Z">
+        <seg>Một bài khái quát nữa về các nghiên cứu nhận dạng giọng nói sau này đã được công bố vào năm 1995.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5443,6 +5443,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be brought home to jurors that there is an even greater danger of the &lt;t1/&gt;earwitnesses&lt;t2/&gt; believing themselves to be right and yet, in fact, being mistaken;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T131436Z" creationid="ADMIN" creationdate="20151105T131436Z">
+        <seg>Bồi thẩm đoàn cũng nên được cảnh báo về khả năng nhân chứng nghe tin rằng họ đúng khi trong thực tế họ lại sai;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should be noted that there is some controversy about whether self-harming and suicide should be considered as being essentially the same behaviour.</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151027T125845Z" creationid="yuko" creationdate="20151027T125845Z">
@@ -9174,8 +9182,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The overview stated that ‘One of the myths still held by many laypersons and officials in the criminal justice system is the belief that eyewitness memory, including voice recognition, is merely common knowledge’ and that ‘Most voice identification issues of concern to the court, of course, are for voices of strangers ... identification for unfamiliar voices must by treated with caution.’</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151103T044353Z" creationid="ADMIN" creationdate="20151103T043058Z">
-        <seg>Bài khái quát viết 'Nhiều người không chuyên và cán bộ công tác trong hệ thống tư pháp hình sự vẫn còn giữ một niềm tin sai lầm, đó là trí nhớ của nhân chứng, bao gồm cả nhận dạng giọng nói, chỉ đơn thuần là thường thức' và 'Phần lớn các giọng nói nói cần được xác nhận, đương nhiên, là của người lạ ... việc nhận dạng những giọng nói xa lạ cần phải được xử lí một cách cẩn thận.'</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T131241Z" creationid="ADMIN" creationdate="20151103T043058Z">
+        <seg>Bài viết 'Nhiều người không chuyên và cán bộ công tác trong hệ thống tư pháp hình sự vẫn còn giữ một niềm tin sai lầm, đó là trí nhớ của nhân chứng, bao gồm cả nhận dạng giọng nói, chỉ đơn thuần là thường thức' và 'Phần lớn các giọng nói nói cần được xác nhận, đương nhiên, là của người lạ ... việc nhận dạng những giọng nói xa lạ cần phải được xử lí một cách cẩn thận.'</seg>
       </tuv>
     </tu>
     <tu>
