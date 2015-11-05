@@ -2946,6 +2946,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further and more in-depth information can be found in the following chapters.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151105T043814Z" creationid="USER" creationdate="20151105T043814Z">
+        <seg>Nhiều thông tin và chuyên sâu hơn nữa cũng có thể được tìm thấy trong những chương tiếp theo.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further investigation needs to examine the reasons for non-completion, especially within high-risk groups.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T121306Z" creationid="USER" creationdate="20151009T112340Z">
@@ -12958,6 +12966,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151012T153626Z" creationid="Demon" creationdate="20151012T153626Z">
         <seg>Điều gì gây ra xâm phạm tình dục?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>what&lt;t0/&gt; is criminal/forensic psychology?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151105T043937Z" creationid="USER" creationdate="20151105T043937Z">
+        <seg>Vậy tâm lý học tội phạm/pháp y là gì?</seg>
       </tuv>
     </tu>
     <tu>
