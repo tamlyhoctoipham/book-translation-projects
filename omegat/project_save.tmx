@@ -2713,6 +2713,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, ten years ago two leading criminal psychologists in the UK defined it as ‘that branch of applied psychology which is concerned with the collection, examination and presentation of evidence for judicial purposes’ (&lt;t0/&gt;Gudjonsson&lt;t1/&gt; and &lt;t2/&gt;Haward&lt;t3/&gt; 1998, p.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151105T045033Z" creationid="USER" creationdate="20151105T044712Z">
+        <seg>Ví dụ như mười năm trước, hai chuyên gia tâm lý học tội phạm hàng đầu ở Anh Quốc đã định nghĩa rằng nó như là 'một chuyên ngành ứng dụng tâm lý  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the basic pitch of a person’s voice, known as the formant frequency, is one such feature.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151029T073852Z" creationid="PhuongThao" creationdate="20151029T073852Z">
@@ -12988,8 +12996,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>what&lt;t0/&gt; is criminal/forensic psychology?</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151105T043937Z" creationid="USER" creationdate="20151105T043937Z">
-        <seg>Vậy tâm lý học tội phạm/pháp y là gì?</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151105T044754Z" creationid="USER" creationdate="20151105T043937Z">
+        <seg>Vậy tâm lý học tội phạm/ tâm lý học pháp y là gì?</seg>
       </tuv>
     </tu>
     <tu>
