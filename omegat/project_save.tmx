@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This statement was in line with the Devlin Committee’s view on the value of visual identification/eyewitness evidence.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T125652Z" creationid="ADMIN" creationdate="20151105T125652Z">
+        <seg>(Phát biểu này đổng ý với quan điểm của Ủy ban Devlin trong vấn đề giá trị của bằng chứng nhìn.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You might be able to think of a situation where you have interpreted someone’s &lt;t2/&gt;behaviour&lt;t3/&gt; in a way which was different from a friend’s interpretation.)</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151029T022128Z" creationid="Hx" creationdate="20151029T022128Z">
@@ -11857,8 +11865,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>We say this because, even though the topic of ear-witnessing presently lacks any theoretical underpinnings, we are of the opinion that ear-witnessing and &lt;t0/&gt;eyewitnessing&lt;t1/&gt; are similarly and considerably error prone.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151103T134400Z" creationid="ADMIN" creationdate="20151102T102813Z">
-        <seg>Chúng tôi nói vậy vì dù cho hiện tại thì vấn đề bằng chứng nghe vẫn đang thiếu nền tảng lý luận thì chúng tôi cho rằng bằng chứng nghe cũng như nhìn đều tương tự nhau và đều được cho là dễ mắc lỗi.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T125748Z" creationid="ADMIN" creationdate="20151102T102813Z">
+        <seg>Chúng tôi nói vậy vì dù cho hiện nay vấn đề bằng chứng nghe vẫn đang thiếu nền tảng lý luận thì chúng tôi vẫn cho rằng bằng chứng nghe cũng như nhìn đều tương tự nhau và đều được cho là dễ mắc lỗi.</seg>
       </tuv>
     </tu>
     <tu>
