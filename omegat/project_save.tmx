@@ -4740,8 +4740,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>In the United States many people keep guns in their home for self-defence and protection from intruders – this would be illegal in Britain.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151105T160308Z" creationid="SONY" creationdate="20151105T160308Z">
-        <seg>Tại Mỹ, rất nhiều người được cất giữ súng tại nhà cho việc phòng thân và bảo vệ khỏi những kẻ đột nhập bất hợp pháp - điều này lại là vi phạm phát luật ở Anh</seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151105T160346Z" creationid="SONY" creationdate="20151105T160308Z">
+        <seg>Tại Mỹ, rất nhiều người được cất giữ súng tại nhà cho việc phòng thân và bảo vệ khỏi những kẻ đột nhập bất hợp pháp - điều này lại là vi phạm pháp ở Anh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10633,6 +10633,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151104T120647Z" creationid="USER" creationdate="20151104T105544Z">
         <seg>Cuốn sách này được viết cho cộng đồng nói chung những ai có mong muốn hiểu thấu đáo hơn về tâm lý học tội phạm hơn là những kiến thức từ phương tiện truyền thông phổ biến như báo chí và truyền hình. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This brings into question how the rights of the citizen and the rights of an intruder should be balanced.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151105T160637Z" creationid="SONY" creationdate="20151105T160637Z">
+        <seg>Điều này tạo nên một dấu hỏi về cách cân bằng giữa quyền công dân và quyền của một tên xâm phạm bất hợp pháp.</seg>
       </tuv>
     </tu>
     <tu>
