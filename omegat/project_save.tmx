@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>1989) examined all the published research on the accuracy with which people (in experiments) are able correctly to identify a voice they heard previously.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151105T130213Z" creationid="ADMIN" creationdate="20151105T130213Z">
-        <seg>.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T130731Z" creationid="ADMIN" creationdate="20151105T130213Z">
+        <seg>Họ phân tích tất cả các bài nghiên cứu đã từng được công bố về điều kiện để một người (trong thí nghiệm) có thể tìm ra đúng giọng nói họ được nghe trước đó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2037,6 +2037,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151030T024035Z" creationid="PhuongThao" creationdate="20151030T024035Z">
         <seg>DeLorean đã được trắng án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the parameters involved, recognition of an unfamiliar voice may have a sufficient probability of accuracy that it could be of use in a police investigation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151105T130814Z" creationid="ADMIN" creationdate="20151105T130725Z">
+        <seg>Tùy thuộc vào thông số được dùng mà nhận dạng giọng nói có một mức độ chính xác nhất định đủ để cảnh sát sử dụng khi tiến hành điều tra.</seg>
       </tuv>
     </tu>
     <tu>
