@@ -2465,6 +2465,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Experimental: this can involve the psychologist performing research in order to inform a case.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151106T080924Z" creationid="USER" creationdate="20151106T080924Z">
+        <seg>Thực nghiệm: công việc gồm nhà tâm lý học trình bày nghiên cứu cứu để cung cấp tài liệu, tin tức cho một trường hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faced with cases like this it may seem that a judge or the legal system is simply being obstinate but the judge has to be cautious; there is good research to demonstrate that how the law is explained to the jury can influence its verdict.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151010T072520Z" creationid="dinhquy" creationdate="20151010T072520Z">
@@ -10745,6 +10753,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="SONY" changedate="20151105T160637Z" creationid="SONY" creationdate="20151105T160637Z">
         <seg>Điều này tạo nên một dấu hỏi về cách cân bằng giữa quyền công dân và quyền của một tên xâm phạm bất hợp pháp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can involve carrying out experimental tests in order to illustrate a point or provide further information to the courts (for example, how likely it is that someone can correctly identify an object in the hand of an individual from a distance of 100 meters at twilight).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151106T081130Z" creationid="USER" creationdate="20151106T081130Z">
+        <seg>Công việc này </seg>
       </tuv>
     </tu>
     <tu>
