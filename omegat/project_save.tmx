@@ -2811,8 +2811,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>For example, punishing the body in order to punish the spirit was originally the basis of corporal punishments, but within Western cultures this moved towards punishment of the mind through imprisonment (Foucault, 1991).</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151107T050457Z" creationid="SONY" creationdate="20151107T050457Z">
-        <seg>Ví dụ, hành hình cơ thể để trừng trị tinh thần là cơ sở nguyên thủy của nhục hình, nhưng với văn hóa phương Tây việc này chuyển thành việc xử phạt trên tâm lý qua việc bỏ tù..</seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151107T050728Z" creationid="SONY" creationdate="20151107T050457Z">
+        <seg>Ví dụ, hành hình cơ thể để trừng trị tinh thần là cơ sở nguyên thủy của nhục hình, nhưng khi du nhập vào văn hóa phương Tây đã chuyển thành xử phạt tâm lý thông qua việc bỏ tù.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,6 +4118,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151104T155054Z" creationid="USER" creationdate="20151104T154853Z">
         <seg>Tuy nhiên, nếu như bạn đã xem những bộ phim như Sự im lặng của bầy cừu, thì bạn có thể sẽ tin tất cả những nhà tâm lý học tội phạm, như Clarice Starling - người đã rất nỗ lực để nhìn thấu tâm can, suy nghĩ của tội phạm bằng cách nói chuyện với những phạm nhân đã bị kết án về vụ án của họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imprisonment as a form of punishment is found in many cultures.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151107T050844Z" creationid="SONY" creationdate="20151107T050844Z">
+        <seg>Phạt tù là dạng hình phạt phổ biến hiện hữu trên nhiều nền văn hóa</seg>
       </tuv>
     </tu>
     <tu>
@@ -13004,8 +13012,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>cross-cultural  punishment.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151107T050318Z" creationid="SONY" creationdate="20151107T045829Z">
-        <seg>Hình phạt theo văn hóa .</seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151107T050616Z" creationid="SONY" creationdate="20151107T045829Z">
+        <seg>Sự giao thoa hình phạt giữa các nền văn hóa .</seg>
       </tuv>
     </tu>
     <tu>
