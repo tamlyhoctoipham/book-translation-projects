@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And does it matter?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151107T045522Z" creationid="SONY" creationdate="20151107T045522Z">
+        <seg>Và điều này liệu có quan trọng ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And finally, it contributes to a personal or collective sense of security.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151024T090931Z" creationid="Lenovo" creationdate="20151024T090931Z">
@@ -971,6 +979,14 @@
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151009T173414Z" creationid="yuko" creationdate="20151009T173414Z">
         <seg>Như đã đề cập ở trên, sự ngược đãi đối với tù nhân đã song hành với một vài kết quả tiêu cực cho chính họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As noted above, punishment often reflects the prevailing culture, norms and attitudes in a society.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151107T050246Z" creationid="SONY" creationdate="20151107T050246Z">
+        <seg>Như đã nêu ở trên, hình phạt thường phản ánh nền văn hóa đương thời, quy tắc và quan điểm trong xã hội.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3590,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151029T032137Z" creationid="Hx" creationdate="20151028T161510Z">
         <seg>Tuy nhiên, còn có một nghi vấn là những thông tin đó hữu ích cho cảnh sát như thế nào.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it may be questioned whether vigilantes gain justice or revenge.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151107T045500Z" creationid="SONY" creationdate="20151107T045500Z">
+        <seg>Tuy nhiên,  câu hỏi đặt ra là liệu rằng những việc làm Ủy Ban trật tự là nhằm đòi lại công lý hay trả thù.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12966,6 +12990,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151104T115739Z" creationid="USER" creationdate="20151104T115739Z">
         <seg>Nhà tâm lý học tội phạm: Họ thiết lập công việc của mình như thế nào? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cross-cultural  punishment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151107T045829Z" creationid="SONY" creationdate="20151107T045829Z">
+        <seg>Hình phạt .</seg>
       </tuv>
     </tu>
     <tu>
