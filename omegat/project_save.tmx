@@ -519,6 +519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advisory: in this role the psychologist may provide advice to the police about how to proceed with an investigation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151108T095020Z" creationid="USER" creationdate="20151108T095020Z">
+        <seg>Tư vấn: trong vai trò này nhà tâm lý học có thể cung cấp lời khuyên cho cảnh sát về cách tiếp tục vụ điều tra. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advocates of Megan’s Law believe that active community notification will help criminal justice agencies in investigations, establish legal grounds to hold known sex offenders, deter sex offenders from committing future crimes and offer the public information that they can use to protect their children from offenders.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151011T163700Z" creationid="Demon" creationdate="20151011T163700Z">
@@ -2741,6 +2749,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151019T160651Z" creationid="Demon" creationdate="20151019T160651Z">
         <seg>Ví dụ như một cậu thiếu niên có thể thấy rằng một trải nghiệm gợi dục có thể tạo ra một dạng cuồng dâm sinh hoang tưởng mà cậu ấy trở thành kẻ kiểm soát và đầy quyền lực, những điều không có thực trong cuộc sống của cậu ấy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, an offender’s profile could inform the investigation, or advice could be provided about how best to interview a particular suspect.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151108T095630Z" creationid="USER" creationdate="20151108T095630Z">
+        <seg>Ví dụ như, hồ sơ phạm tội có thể cung cấp thông tin cho quá trình điều tra hoặc lời khuyên về cách tốt nhất để chất vấn từng kiểu nghi phạm đặc biệt..</seg>
       </tuv>
     </tu>
     <tu>
