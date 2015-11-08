@@ -2697,6 +2697,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a court may wish to know how likely an offender is to reoffend before the sentence is decided.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151108T093920Z" creationid="USER" creationdate="20151108T093920Z">
+        <seg>Ví dụ như, một phiên tòa có thể biết một người phạm tội có thể tái phạm như thế nào trước khi quyết định bản án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a man with a high voice may be relatively unusual and so will be easier to identify than a man with a mid-range or deep voice.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151030T021613Z" creationid="PhuongThao" creationdate="20151029T080738Z">
