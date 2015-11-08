@@ -6709,8 +6709,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Official statistics suggest that suicide rates are high in prisons and in juvenile detention centres.</seg>
       </tuv>
-      <tuv lang="VI" changeid="yuko" changedate="20151108T154855Z" creationid="yuko" creationdate="20151108T154855Z">
-        <seg>Theo các thống kê chính thức, tỉ lệ tự vẫn rất cao trong tù và trong các trung tâm giam giữ trẻ vị thành niên .</seg>
+      <tuv lang="VI" changeid="yuko" changedate="20151108T155005Z" creationid="yuko" creationdate="20151108T154855Z">
+        <seg>Theo các thống kê chính thức, tỉ lệ tự vẫn rất cao trong tù và trong các trung tâm giam giữ vị thành niên .</seg>
       </tuv>
     </tu>
     <tu>
@@ -7071,6 +7071,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151027T025358Z" creationid="Hx" creationdate="20151027T025358Z">
         <seg>Một nghiên cứu đã tiến hành khảo sát một kẻ phạm tội hãm hiếp gây án tại Ý trong một số năm hợp lý và nó đã hé lộ rằng kẻ phạm tội đôi khi cưu xử như một marauder nhưng khi khác lại như một commuter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One study found that sixteen per cent of juveniles in detention centres reported previous deliberate self- harm and twenty-seven per cent reported thinking about attempting suicide in the past.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="yuko" changedate="20151108T155203Z" creationid="yuko" creationdate="20151108T155002Z">
+        <seg>Một nghiên cứu chỉ ra rằng 16% vị thành niên ở các trung tâm giam giữ được báo cáo đã từng ngược đãi bản thân và 27% xác nhận đã từng nghĩ đến việc cố gắng tự tử.</seg>
       </tuv>
     </tu>
     <tu>
