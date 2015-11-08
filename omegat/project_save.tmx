@@ -2577,6 +2577,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, they need guidance on how to avoid revealing near the beginning of the interview most or all of the information they have about the crime and the suspect (see chapter 4).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151108T034051Z" creationid="nguye" creationdate="20151108T034051Z">
+        <seg>Cuối cùng, họ cần có hướng dẫn trong việc tránh tiết lộ các thông tin mà họ có về vụ án và nghi phạm lúc bắt đầu buổi hỏi cung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, this chapter will explore citizens’ perceptions of the police and other police and security agencies, track some of the key developments in the private security industry over the last decade and discuss some forms of voluntary policing, both within and outside the limits of the law.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151014T104132Z" creationid="MSI" creationdate="20151014T104132Z">
@@ -10670,8 +10678,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>They also need training to combine useful cues from &lt;t2/&gt;behaviour&lt;t3/&gt; and from speech (see the section below on combining lie detection methods).</seg>
       </tuv>
-      <tuv lang="VI" changeid="nguye" changedate="20151108T033538Z" creationid="nguye" creationdate="20151108T033538Z">
-        <seg>Họ còn cần </seg>
+      <tuv lang="VI" changeid="nguye" changedate="20151108T033941Z" creationid="nguye" creationdate="20151108T033538Z">
+        <seg>Họ còn cần luyện tập để kết hợp những dấu hiệu hành vi hữu dụng và từ lời nói ( xem phần trên trong kết hợp các phương pháp phát hiện nói dối ) .</seg>
       </tuv>
     </tu>
     <tu>
@@ -13598,6 +13606,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151018T082046Z" creationid="ADMIN" creationdate="20151018T082046Z">
         <seg>giá trị của bằng chứng nhận dạng giọng nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>training&lt;t0/&gt; to detect deception from behavior.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151108T034104Z" creationid="nguye" creationdate="20151108T034104Z">
+        <seg>Rèn luyện để phát hiện nói dối từ hành vi.</seg>
       </tuv>
     </tu>
     <tu>
