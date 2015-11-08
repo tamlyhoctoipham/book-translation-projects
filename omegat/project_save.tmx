@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number of books that claim to improve people’s ability to detect deception have been published.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151108T034203Z" creationid="nguye" creationdate="20151108T034203Z">
+        <seg>Nhiều sách được xuất bản khẳng định rằng có thể cải thiện khả năng của con người để phát hiện nói dối.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number of countries (e.g. Norway) are now taking note of this.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151031T152056Z" creationid="USER" creationdate="20151031T151822Z">
@@ -3670,6 +3678,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151106T030635Z" creationid="ADMIN" creationdate="20151009T143650Z">
         <seg>Tuy nhiên, cần phải lưu ý rằng những điểm yếu tồn tại trong não người cũng có nghĩa là tên tội phạm thật có thể thoát tội trừ khi phía cảnh sát cải thiện bộ máy của họ với những phát hiện từ các nghiên cứu tâm lý có liên quan .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, many of the &lt;t0/&gt;behaviours&lt;t1/&gt; these books claim to be guides to deception are not valid cues.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151108T034238Z" creationid="nguye" creationdate="20151108T034238Z">
+        <seg>Tuy nhiên , rất nhiều hành vi mà những cuốn sách đó chỉ ra không phải là những dấu hiệu dùng được.</seg>
       </tuv>
     </tu>
     <tu>
