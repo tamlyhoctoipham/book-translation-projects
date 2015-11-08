@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, a prosecution or &lt;t0/&gt;defence&lt;t1/&gt; lawyer may ask for advice on how best to cross-examine a vulnerable witness or another expert witness.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151108T100316Z" creationid="USER" creationdate="20151108T100316Z">
+        <seg>Thay vào đó, luật sư bên khởi tố hoặc bị cáo có thể yêu cầu lời khuyên về làm thế nào là tốt nhất để đối thẩm một nhân chứng dễ bị tổn thương hay một nhân chứng chuyên môn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, it can involve psychologists providing the court with a summary of current research findings which may be relevant to the case in question.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151106T082933Z" creationid="USER" creationdate="20151106T082933Z">
@@ -11690,6 +11698,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151018T150400Z" creationid="Admin" creationdate="20151018T150400Z">
         <seg>Vai trò có thể liên quan đến làm việc với tội phạm để giảm bớt tỉ lệ tái phạm tội trong tương lai hay còn một vai trò nữa là chữa bệnh tâm lý nếu cần thiết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This role involves the use of the psychologist’s expertise in order to advise the police, courts or prison and probation services.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151108T100540Z" creationid="USER" creationdate="20151108T100540Z">
+        <seg>Vai trò này bao gồm lợi ích từ ý kiến chuyên môn của nhà tâm lý học để tư vấn cho cảnh sát, quan tòa hay cơ quan quản lý nhà tù và giám sát phạm nhân. </seg>
       </tuv>
     </tu>
     <tu>
