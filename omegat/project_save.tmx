@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actuarial: in this instance the word ‘actuarial’ relates to the use of statistics in order to inform a case.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151109T104808Z" creationid="USER" creationdate="20151109T104808Z">
+        <seg>Thon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advisory: in this role the psychologist may provide advice to the police about how to proceed with an investigation.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151108T095020Z" creationid="USER" creationdate="20151108T095020Z">
