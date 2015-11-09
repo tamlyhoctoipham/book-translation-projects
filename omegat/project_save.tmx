@@ -2163,8 +2163,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Criminal psychology covers a range of fascinating topics.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151104T102814Z" creationid="USER" creationdate="20151104T102814Z">
-        <seg>Tâm lý học tội phạm bao phủ một phạm vi rộng gồm nhiều chủ đề hấp dẫn. </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151109T144545Z" creationid="USER" creationdate="20151104T102814Z">
+        <seg>Tâm lý học tội phạm bao hàm một phạm vi rất rộng gồm nhiều chủ đề hấp dẫn. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2771,8 +2771,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>For centuries people have been very interested in crime, and in the last hundred years psychology has grown from a fledgling discipline to one of great importance.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151104T103826Z" creationid="USER" creationdate="20151104T103826Z">
-        <seg>Suốt nhiều thế kỷ qua, con người đã luôn rất hứng thú tội ác, và trong khoảng trăm năm gần đây, tâm lý học đã phát triển từ một một môn học non nớt thành một một bộ phận trọng yếu trong cuộc sống. </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151109T144617Z" creationid="USER" creationdate="20151104T103826Z">
+        <seg>Suốt nhiều thế kỷ qua, con người đã luôn rất hứng thú tội ác, và trong hàng trăm năm gần đây, tâm lý học đã phát triển từ một một môn học non nớt thành một một bộ phận trọng yếu trong cuộc sống. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4892,8 +4892,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>In several countries around the world (e.g. the USA, the UK), psychology is now&lt;t0/&gt; among the top three most popular subjects to be studied at university or college.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151104T104214Z" creationid="USER" creationdate="20151104T104214Z">
-        <seg>Ở một vài nước trên thế giới (như Mỹ, Anh Quốc), tâm lý học là một trong top 3 môn học phổ biến được nhiều sinh viên chọn học nhất ở trường đại học và cao đẳng.</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151109T144640Z" creationid="USER" creationdate="20151104T104214Z">
+        <seg>Ở một vài nước trên thế giới (như Mỹ, Anh Quốc), tâm lý học nằm trong top 3 môn học phổ biến được nhiều sinh viên chọn học nhất ở trường đại học và cao đẳng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6943,6 +6943,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151007T013609Z" creationid="dinhquy" creationdate="20151007T013609Z">
         <seg>Một ví dụ của phân tích ngôn ngữ của xét xử hiếp dâm là nghiên cứu của Susan Ehrlich (2001)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One example of how a psychologist may act in an actuarial role is if they are required to present actuarial information relating to the probability of an event occurring to the court.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151109T144519Z" creationid="USER" creationdate="20151109T144519Z">
+        <seg>Một ví dụ về cách mà một nhà tâm lý học hành động trong vai trò thống kê bảo hiểm là họ được yêu cầu thông báo thông tin thống kê bảo hiểm liên quan tới khả năng một sự kiện có thể xảy ra ở phiên tòa.</seg>
       </tuv>
     </tu>
     <tu>
