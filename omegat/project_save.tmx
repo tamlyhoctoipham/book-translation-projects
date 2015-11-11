@@ -5202,6 +5202,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the USA the death penalty is reserved for murder, in other countries it can be given for homosexuality, drug dealing or smuggling.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T151758Z" creationid="SONY" creationdate="20151111T151758Z">
+        <seg>Tại Mỹ, án tử hình chỉ áp dụng riêng cho tội giết người, ở một số nước khác thì có thể áp dụng cho tội quấy rối tình dục, buôn ma túy hay buôn lậu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the USA, such concerns led to Megan’s Law in 1996, which allows private and personal information on those registered as sex offenders against children, to be made available to the community (see the box on the previous pages for more information).</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151012T140137Z" creationid="Demon" creationdate="20151011T170126Z">
@@ -6551,6 +6559,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T161719Z" creationid="VIP_PC" creationdate="20151104T161719Z">
         <seg>Những người tham gia được cung cấp kinh nghiệm về việc nhận mặt và sau đó cố gắng (nhớ lại) phác họa đúng nhất bằng cách nhận dạng mắt, mũi, gò má... trên khuôn mặt từ những bức ảnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Methods of execution also differ.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T151852Z" creationid="SONY" creationdate="20151111T151852Z">
+        <seg>Các phương thức tử hình cũng đa dạng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10670,8 +10686,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The types of crime which carry a death penalty differ.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151111T151553Z" creationid="SONY" creationdate="20151111T151553Z">
-        <seg>Loại tội phạm bị tử hình quy định ở mỗi nước </seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T151630Z" creationid="SONY" creationdate="20151111T151553Z">
+        <seg>Loại tội phạm bị áp dụng án tử được quy định khác nhau ở mỗi nước.</seg>
       </tuv>
     </tu>
     <tu>
