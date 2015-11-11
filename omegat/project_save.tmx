@@ -863,6 +863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And are polygraphs reliable in detecting deception?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T163501Z" creationid="USER" creationdate="20151111T163501Z">
+        <seg>Máy phát hiện nói dối liệu có đáng tin trong phát hiện sự lưa dối hay không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And does it matter?</seg>
       </tuv>
       <tuv lang="VI" changeid="SONY" changedate="20151107T045522Z" creationid="SONY" creationdate="20151107T045522Z">
@@ -11392,6 +11400,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151102T030254Z" creationid="PhuongThao" creationdate="20151020T030750Z">
         <seg>Hiển nhiên, những câu hỏi này liên quan đến lĩnh vực pháp luật, nhưng chúng cũng liên quan đến việc lĩnh hội nữa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These questions will be discussed in more detail in chapter 5.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T163620Z" creationid="USER" creationdate="20151111T163620Z">
+        <seg>Những câu hỏi này sẽ được thảo luận kỹ hơn ở chương 5.</seg>
       </tuv>
     </tu>
     <tu>
