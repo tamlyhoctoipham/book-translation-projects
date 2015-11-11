@@ -12053,6 +12053,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This phased approach made it clear that in order to assist children to tell the interviewers as much as possible about what may have happened, the interviewers must first of all devote time to establishing a positive relationship between themselves and the child, but in a way that could not be criticized as serving to bias or unduly influence what the child might say.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T112757Z" creationid="ADMIN" creationdate="20151111T112757Z">
+        <seg>Cách tiếp cận theo pha này cho thấy rõ ràng là để giúp trẻ em kể lại được nhiều nhất có thể về những gì có khả năng đã xảy ra thì người thẩm vấn trước hết cần phải tạo được một mối quan hệ tốt với đứa trẻ, nhưng không được tới mức làm cho đứa trẻ thiên vị hoặc ảnh hưởng ngầm đến những gì trẻ nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This pioneering initiative (nothing like it appears to have happened in other countries) emphasized that in interviews with suspects the role of the police is (&lt;t0/&gt;i&lt;t1/&gt;) to gather accurate information, to keep an open mind, (iii) to act fairly, especially with vulnerable suspects, (iv) to compare information gained in the interview with other information, (v) to question the suspect appropriately, even if they exercise the right to silence and (vi) to not necessarily accept the first answer given by the suspect.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151031T170032Z" creationid="USER" creationdate="20151030T050013Z">
@@ -13658,6 +13666,22 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>achieve&lt;t0/&gt; closure.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T112547Z" creationid="ADMIN" creationdate="20151111T112547Z">
+        <seg>kết thúc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ask&lt;t0/&gt; appropriate questions,</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T112538Z" creationid="ADMIN" creationdate="20151111T112538Z">
+        <seg>đặt những câu hỏi phù hợp,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>aspects&lt;t0/&gt; of the crime.</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T161848Z" creationid="VIP_PC" creationdate="20151104T161848Z">
@@ -13980,8 +14004,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>obtain&lt;t0/&gt; free recall,</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151111T112450Z" creationid="ADMIN" creationdate="20151111T112450Z">
-        <seg>,</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T112525Z" creationid="ADMIN" creationdate="20151111T112450Z">
+        <seg>ghi nhận gợi nhớ tự do,</seg>
       </tuv>
     </tu>
     <tu>
