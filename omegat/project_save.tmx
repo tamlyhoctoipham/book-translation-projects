@@ -2497,6 +2497,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Does the offender live locally to the &lt;t0/&gt;crime scene?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T115219Z" creationid="USER" creationdate="20151111T115219Z">
+        <seg>Vậy thủ phạm có sống ở khu vực lận cận gần hiện trường vụ án không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drawing comparisons between studies can, however, be problematic since the definitions used by different researchers have varied.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151101T032353Z" creationid="LHC" creationdate="20151014T233317Z">
@@ -12921,8 +12929,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>Was the crime planned meticulously or was it impulsive?</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151111T115025Z" creationid="USER" creationdate="20151111T115025Z">
-        <seg>Vậy thì nó được lên kế hoạch tỉ mỉ hay là </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151111T115126Z" creationid="USER" creationdate="20151111T115025Z">
+        <seg>Vậy thì nó được lên kế hoạch tỉ mỉ hay hấp tấp? </seg>
       </tuv>
     </tu>
     <tu>
