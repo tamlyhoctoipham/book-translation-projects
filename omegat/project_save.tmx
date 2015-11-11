@@ -519,6 +519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A wealth of psychological research has demonstrated that to assist people to recall often complex and distressing events, they must be in as positive a frame of mind as possible and have positive regard for the interviewer.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T120229Z" creationid="ADMIN" creationdate="20151111T120229Z">
+        <seg>Rất nhiều nghiên cứu tâm lý đã chứng minh rằng để một.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Academic criminal psychologists working in universities have also been conducting such research.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151105T144129Z" creationid="LHC" creationdate="20151011T151853Z">
@@ -9246,8 +9254,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The Criminal Justice Act 1991 allowed a video recorded interview (usually by the police and/or social services) to be used as part of a child’s evidence, pro- vided that the judge deemed the interviewing to have been con- ducted appropriately.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151111T115300Z" creationid="ADMIN" creationdate="20151111T110657Z">
-        <seg>Bộ luật hình sự năm 1991 quy định có thể dùng băng ghi hình buổi thẩm vấn (thường do cảnh sát và/hoặc bên phía dịch vụ xã hội thực hiện) như một phần trong bằng chứng mà một đứa trẻ cung cấp, với điều kiện buổi thẩm vấn đó được thẩm phán xác nhận là đã được tiến hành một cách nghiêm túc.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T115922Z" creationid="ADMIN" creationdate="20151111T110657Z">
+        <seg>Bộ luật hình sự năm 1991 quy định có thể dùng băng ghi hình buổi thẩm vấn (thường do cảnh sát và/hoặc bên phía dịch vụ xã hội thực hiện) như một phần trong bằng chứng mà một đứa trẻ cung cấp, với điều kiện buổi thẩm vấn đó được thẩm phán xác nhận đã tiến hành một cách nghiêm túc.</seg>
       </tuv>
     </tu>
     <tu>
