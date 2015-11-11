@@ -2171,8 +2171,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Countries within the European Union are generally bound by the European Convention on Human Rights which stipulates that the death penalty is not an appropriate punishment.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151111T150240Z" creationid="SONY" creationdate="20151111T150240Z">
-        <seg>Các quốc gia thuộc Liên minh Châu Âu  phạm vi giới hạn của Công ước Châu Âu về Nhân Quyền, công ước quy định việc là sự trừng phạt không thích đáng (thích hợp)</seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T150625Z" creationid="SONY" creationdate="20151111T150240Z">
+        <seg>Các quốc gia Liên minh Châu Âu thuộc phạm vi giới hạn của Công ước Châu Âu về Nhân Quyền, đã quy định rằng án tử hình là một sự trừng phạt không phù hợp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7427,6 +7427,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other countries which do have the death penalty include Singapore, Japan, China, Saudi Arabia and Iran.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T150545Z" creationid="SONY" creationdate="20151111T150545Z">
+        <seg>Án tử hình vẫn còn được áp dụng ở một số nước như Singapore, Japan, China, Saudi Arabia và Iran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other prisoners might use drugs or withdraw themselves psychologically.</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151104T174204Z" creationid="yuko" creationdate="20151104T174204Z">
@@ -9446,8 +9454,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The USA is alone in Western countries in retaining the death penalty.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151111T150256Z" creationid="SONY" creationdate="20151111T145621Z">
-        <seg>Mỹ là quốc gia duy nhất trong các nước phương Tây vẫn còn duy trì hình phạt tử.</seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T150555Z" creationid="SONY" creationdate="20151111T145621Z">
+        <seg>Mỹ là quốc gia duy nhất trong các nước phương Tây vẫn còn duy trì án tử hình.</seg>
       </tuv>
     </tu>
     <tu>
