@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For more on this see chapter 4).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T153621Z" creationid="USER" creationdate="20151111T153621Z">
+        <seg>Tìm hiểu thêm ở chương 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For more on ‘story’ cues see the section below on &lt;t0/&gt;analysing&lt;t1/&gt; what people say.)</seg>
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151104T163754Z" creationid="nguye" creationdate="20151104T163754Z">
@@ -3101,6 +3109,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151028T160222Z" creationid="Jennifer Tran" creationdate="20151028T160222Z">
         <seg>Lấy ví dụ, những thám tử tư không bị bó buộc trong những quy định nghiêm ngặt như các sĩ quan cảnh sát, và họ có khả năng tiếp cận rất nhiều cách thức điều tra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, psychologists have conducted research into interviews with vulnerable witnesses such as the young, the elderly and learning disabled witnesses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T154019Z" creationid="USER" creationdate="20151111T154019Z">
+        <seg>Ví dụ như, các nhà tâm lý học tiến hành nghiên cứu khi chất vấn nhung74 nhân chứng dễ bị tổn thương như giới tr3, người già và </seg>
       </tuv>
     </tu>
     <tu>
@@ -10256,6 +10272,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151105T131241Z" creationid="ADMIN" creationdate="20151103T043058Z">
         <seg>Bài viết 'Nhiều người không chuyên và cán bộ công tác trong hệ thống tư pháp hình sự vẫn còn giữ một niềm tin sai lầm, đó là trí nhớ của nhân chứng, bao gồm cả nhận dạng giọng nói, chỉ đơn thuần là thường thức' và 'Phần lớn các giọng nói nói cần được xác nhận, đương nhiên, là của người lạ ... việc nhận dạng những giọng nói xa lạ cần phải được xử lí một cách cẩn thận.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The police can also use psychologists in order to gain advice on how to interview particular types of witnesses or suspects.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T153846Z" creationid="USER" creationdate="20151111T153846Z">
+        <seg>Cảnh sát cũng phối hợp với các nhà tâm lý để nhận lời khuyên về cách chất vất từng dạng nhân chứng hay nghi phạm nhất định.</seg>
       </tuv>
     </tu>
     <tu>
