@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>(This applies strongly &lt;t0/&gt;to&lt;t1/&gt; many aspects of criminal psychology.)</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151111T120931Z" creationid="ADMIN" creationdate="20151111T120931Z">
-        <seg>(Điều này cũng đúng khi áp dụng trong nhiều khía cạnh khác trong tâm lý học tội phạm.)</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T121022Z" creationid="ADMIN" creationdate="20151111T120931Z">
+        <seg>(Điều này đúng khi áp dụng vào nhiều khía cạnh trong tâm lý học tội phạm.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,6 +899,14 @@
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151109T162406Z" creationid="Jennifer Tran" creationdate="20151102T122706Z">
         <seg>Một khía cạnh khác của công dân tự trị là "Chủ nghĩa dân phòng", là khi công dân can thiệp vào việc nắm giữ và tự thực thi luật pháp theo ý họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another body of psychological research has demonstrated that when people are remembering events, what they say in their own words (in psychology this is called ‘free recall’) is more accurate than what they say in response to questions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T121603Z" creationid="ADMIN" creationdate="20151111T121001Z">
+        <seg>Theo một phần khác của các nghiên cứu, những gì họ tự diễn đạt bằng từ ngữ của riêng họ (tâm lý học gọi là 'gợi nhớ tự do') khi đang nhớ lại các sự kiện chính xác hơn nhiều so với những gì họ trả lời dựa theo câu hỏi.</seg>
       </tuv>
     </tu>
     <tu>
