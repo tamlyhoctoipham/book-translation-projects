@@ -4068,8 +4068,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>However, some advocates of the death penalty believe that pain- free capital punishment is no punishment at all and there have been calls within the USA to stop making executions painless.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151111T161352Z" creationid="SONY" creationdate="20151111T161352Z">
-        <seg>Tuy nhiên, một số quan điểm ủng hộ việc tử hình cho rằng hình phạt mà không đau đớn thì không thể hiện được sự trừng phạt, và tại Mỹ, đã có một số ý kiến yêu cầu  việc hành hình không đau đớn.</seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T161501Z" creationid="SONY" creationdate="20151111T161352Z">
+        <seg>Tuy nhiên, một số quan điểm ủng hộ việc tử hình cho rằng hình phạt mà không đau đớn thì không thể hiện được sự trừng phạt, và tại Mỹ, đã có một số ý kiến yêu cầu ngưng việc khiến án tử trở nên không đau đớn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14414,6 +14414,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151027T050622Z" creationid="USER" creationdate="20151027T044610Z">
         <seg>Giảm tối thiểu mức độ phạm tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>modern punishment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151111T161509Z" creationid="SONY" creationdate="20151111T161509Z">
+        <seg>Hình phạt hiện đại</seg>
       </tuv>
     </tu>
     <tu>
