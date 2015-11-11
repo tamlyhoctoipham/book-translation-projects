@@ -1816,6 +1816,14 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 2 describes the different approaches of clinical and statistical profiling in detail.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T121705Z" creationid="USER" creationdate="20151111T121705Z">
+        <seg>Chương hai sẽ mô tả chi tiết cách tiếp cận khác nhau của lập hồ sơ theo phương pháp lâm sàng và thống kê.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter eight.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151006T161249Z" creationid="Lenovo" creationdate="20151006T161249Z">
@@ -2691,8 +2699,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Even those individuals who claim to be working from the same theoretical standpoint can still vary in how the theory is applied to any given case.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151111T121122Z" creationid="USER" creationdate="20151111T121122Z">
-        <seg>Thâm chí những cá nhân đã khẳng định </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151111T121541Z" creationid="USER" creationdate="20151111T121122Z">
+        <seg>Thậm chí những cá nhân đã khẳng định sẽ luôn giữ vững lập trường có thể vẫn thay đổi cách quan điểm trong những trường hợp nhất định.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -7183,6 +7191,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151029T035538Z" creationid="Hx" creationdate="20151015T032521Z">
         <seg>Một trong những nguồn tin quan trọng nhất để xây dựng một bộ hồ sơ chính là những biên bản khai báo của nạn nhân hoặc nhân chứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the most important tasks during an investigation is collecting reliable evidence in order to put together a case of what happened during the event in question.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T121833Z" creationid="USER" creationdate="20151111T121833Z">
+        <seg>Một trong những nhiệm vụ quan trọng nhất trong suốt quá trình phá án là thu thập bằng chứng đáng tin cậy để </seg>
       </tuv>
     </tu>
     <tu>
