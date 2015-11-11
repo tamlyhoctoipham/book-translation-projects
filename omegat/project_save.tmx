@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This applies strongly &lt;t0/&gt;to&lt;t1/&gt; many aspects of criminal psychology.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T120931Z" creationid="ADMIN" creationdate="20151111T120931Z">
+        <seg>(Điều này cũng đúng khi áp dụng trong nhiều khía cạnh khác trong tâm lý học tội phạm.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This statement was in line with the Devlin Committee’s view on the value of visual identification/eyewitness evidence.)</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151105T125847Z" creationid="ADMIN" creationdate="20151105T125652Z">
@@ -521,8 +529,8 @@
       <tuv lang="EN-US">
         <seg>A wealth of psychological research has demonstrated that to assist people to recall often complex and distressing events, they must be in as positive a frame of mind as possible and have positive regard for the interviewer.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151111T120229Z" creationid="ADMIN" creationdate="20151111T120229Z">
-        <seg>Rất nhiều nghiên cứu tâm lý đã chứng minh rằng để một.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151111T120805Z" creationid="ADMIN" creationdate="20151111T120229Z">
+        <seg>Rất nhiều nghiên cứu tâm lý đã chứng minh rằng để một ai đó nhớ lại các sự kiện phức tạp và đau thương, họ phải ở trong trạng thái thoải mái nhất có thể và có suy nghĩ tích cực về người thẩm vấn.</seg>
       </tuv>
     </tu>
     <tu>
