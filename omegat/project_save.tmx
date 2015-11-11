@@ -3770,6 +3770,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do people behave when they are lying and what cues can police officers look out for that might indicate that the suspects are lying about their whereabouts during the crime?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T161746Z" creationid="USER" creationdate="20151111T161746Z">
+        <seg>Cách mọi người cư xử khi họ đang nói dối thế nào và  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How many of the eleven murders can be attributed to Jack the Ripper has also been debated.</seg>
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151102T085644Z" creationid="The sun" creationdate="20151102T085644Z">
@@ -8277,8 +8285,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Research performed by criminal psychologists investigating the detection of deception also has useful applications for the police when interviewing witnesses and in particular suspects.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151111T161044Z" creationid="USER" creationdate="20151111T161044Z">
-        <seg>Nghiên cứu được thực hiện bởi các nhà tâm lý học tội phạm </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151111T161637Z" creationid="USER" creationdate="20151111T161044Z">
+        <seg>Nghiên cứu được thực hiện bởi các nhà tâm lý học tội phạm phát hiện ra điểm dối lừa cũng có những ứng dụng hữu ích cho cảnh sát khi họ chất vấn nhân chứng cũng như những nghi phạm cụ thể.</seg>
       </tuv>
     </tu>
     <tu>
