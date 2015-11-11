@@ -2499,8 +2499,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Does the offender live locally to the &lt;t0/&gt;crime scene?</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151111T115219Z" creationid="USER" creationdate="20151111T115219Z">
-        <seg>Vậy thủ phạm có sống ở khu vực lận cận gần hiện trường vụ án không?</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151111T115504Z" creationid="USER" creationdate="20151111T115219Z">
+        <seg>Hung thủ liệu có sống ở khu vực lận cận gần hiện trường vụ án hay không?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11733,6 +11733,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This information can then be used to aid the police in investigations and in targeting resources.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T115640Z" creationid="USER" creationdate="20151111T115640Z">
+        <seg>Cảnh sát có thể sử dụng thông tin trên để phụ vụ công tác điều tra và  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This involved real-life police interviews with suspects that were video recorded.</seg>
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151104T161727Z" creationid="nguye" creationdate="20151104T161656Z">
@@ -12929,8 +12937,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>Was the crime planned meticulously or was it impulsive?</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151111T115126Z" creationid="USER" creationdate="20151111T115025Z">
-        <seg>Vậy thì nó được lên kế hoạch tỉ mỉ hay hấp tấp? </seg>
+      <tuv lang="VI" changeid="USER" changedate="20151111T115704Z" creationid="USER" creationdate="20151111T115025Z">
+        <seg>Vậy vụ án được lên kế hoạch tỉ mỉ hay chỉ một phút bốc đồng? </seg>
       </tuv>
     </tu>
     <tu>
@@ -13087,10 +13095,26 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What age range is the offender likely to fall into?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T115421Z" creationid="USER" creationdate="20151111T115421Z">
+        <seg>Lứa tuổi nào có khả năng thực hiện vụ án?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What are your views on the rehabilitation of offenders?</seg>
       </tuv>
       <tuv lang="VI" changeid="Nga" changedate="20151011T045343Z" creationid="Nga" creationdate="20151011T045343Z">
         <seg>Quan điểm của bạn ra sao về việc cải tạo phạm nhân?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What gender is the offender?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151111T115432Z" creationid="USER" creationdate="20151111T115432Z">
+        <seg>Giới tính của hung thủ là gì?</seg>
       </tuv>
     </tu>
     <tu>
