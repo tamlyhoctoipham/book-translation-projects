@@ -799,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An adult male has been found murdered and the only known witness is a little boy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151112T112554Z" creationid="USER" creationdate="20151112T112554Z">
+        <seg>Một người đàn ông trưởng thành bị sát hại và nhân chứng duy nhất chỉ là một cậu bé. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An alternative approach is clinical profiling.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151028T144714Z" creationid="Hx" creationdate="20151028T144714Z">
