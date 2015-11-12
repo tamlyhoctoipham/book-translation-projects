@@ -10124,6 +10124,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The information in this section has, thus far, been concerned with the application of psychological knowledge to assist in police investigation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="USER" changedate="20151112T114925Z" creationid="USER" creationdate="20151112T114925Z">
+        <seg>Thông tin ở phần này </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The language of the manifesto was analysed by a variety of linguists (and others) at different stages in the investigation.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151102T080045Z" creationid="PhuongThao" creationdate="20151026T041716Z">
@@ -14564,8 +14572,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>police&lt;t0/&gt; psychology.</seg>
       </tuv>
-      <tuv lang="VI" changeid="USER" changedate="20151112T114356Z" creationid="USER" creationdate="20151112T114356Z">
-        <seg>Tâm lý cảnh sát/</seg>
+      <tuv lang="VI" changeid="USER" changedate="20151112T114928Z" creationid="USER" creationdate="20151112T114356Z">
+        <seg>Tâm lý cảnh sát.</seg>
       </tuv>
     </tu>
     <tu>
