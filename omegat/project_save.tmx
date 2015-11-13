@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4830,6 +4830,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151102T095242Z" creationid="The sun" creationdate="20151102T095149Z">
         <seg>Tất cả các nghiên cứu được thực hiện cho đến hiện tại đã hoàn thành mục tiêu này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In an attempt to tackle current concerns about crime, a number of Western countries are changing how they deal with offenders.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151113T160337Z" creationid="SONY" creationdate="20151113T160337Z">
+        <seg>Nhằm mục đích tháo gỡ các vướng mắc hiện nay về tội phạm, các nước phương Tây đang thay đổi cách thức xử lý đối với người phạm tội. </seg>
       </tuv>
     </tu>
     <tu>
