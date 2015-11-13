@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6975,6 +6975,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151021T103022Z" creationid="MSI" creationdate="20151021T102113Z">
         <seg>Nhiều phương pháp điều tra và kiếm soát mới đã được cảnh sát áp dụng (như CCTV) và các đơn vị cảnh sát đặc biệt được thành lập. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Norman French influence can be found in vocabulary items such as assault, &lt;t0/&gt;misdemeanour&lt;t1/&gt;, slander, tort and so on but also in some grammatical structures.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151113T160700Z" creationid="dinhquy" creationdate="20151113T160700Z">
+        <seg>Norman ảnh hưởng của Pháp có thể được tìm thấy trong các mục từ vựng như hành hung, vu khống tội tiểu hình, sai lầm cá nhân và như vậy, nhưng cũng trong một số cấu trúc ngữ pháp.</seg>
       </tuv>
     </tu>
     <tu>
