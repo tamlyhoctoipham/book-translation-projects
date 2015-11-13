@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4470,6 +4470,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151020T080551Z" creationid="USER" creationdate="20151020T080551Z">
         <seg>Nếu như cảnh sát hay những nhà chức trách cam kết bảo quản mẫu vật nhỏ một cách an toàn thì chúng hoàn toàn có thể xét nghiệm được. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the punishment does not do this, it is not harsh enough.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151113T163142Z" creationid="SONY" creationdate="20151113T163116Z">
+        <seg>Nếu một hình phạt không đáp ứng được điều này, có nghĩa là nó chưa đủ nghiêm khắc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11358,8 +11366,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>There is a tension between the belief that offenders can be in some sense ‘treated’ in order to prevent offending behaviour (for example, through the use of cognitive behavioural therapies) and the belief that offenders need to be punished and that the punishment alone should be enough to teach people.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151113T162100Z" creationid="SONY" creationdate="20151113T162100Z">
-        <seg>rằng tội phạm bằng một cách nào đó được đối xử nhằm ngăn chặn hành vi chống đối (ví dụ,  </seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151113T163046Z" creationid="SONY" creationdate="20151113T162100Z">
+        <seg>Một sự căng thẳng diễn ra giữa hai tư tưởng, một bên cho rằng người phạm tội bằng một cách thức nào đó có thể được "huấn luyện" để ngăn ngừa họ thực hiện hành vi phạm tội (ví dụ, thông qua việc sử các liệu pháp nhận thức hành vi) và bên còn lại cho rằng tội phạm cần bị trừng phạt và rằng bản thân hình phạt đã là đủ cho việc răn dạy con người.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12265,6 +12273,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151028T163753Z" creationid="Hx" creationdate="20151028T163753Z">
         <seg>Điều này được gọi là "giả định tương đồng".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This has led to a number of schools of thought about punishments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151113T163234Z" creationid="SONY" creationdate="20151113T163234Z">
+        <seg>Điều này đã ảnh hưởng đến tư tưởng về hình phạt của một số các trường học.</seg>
       </tuv>
     </tu>
     <tu>
