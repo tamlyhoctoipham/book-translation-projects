@@ -2074,8 +2074,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>Closed questions that contain few (e.g. two) alternatives are especially risky, since research has shown that children and vulnerable adults may choose one of the alternatives even though doing so provides an incorrect account of what happened.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151114T034259Z" creationid="ADMIN" creationdate="20151114T034259Z">
-        <seg>Những câu hỏi đóng mà có một vài (như hai chẳng hạn) lựa chọn thì rất nguy hiểm, vì các nghiên cứu xác nhận rằng trẻ em và người lớn yếu thế có thể chọn một trong số những lựa chọn có sẵn dù không chính xác với những gì đã xảy ra.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T034420Z" creationid="ADMIN" creationdate="20151114T034259Z">
+        <seg>Những câu hỏi đóng mà có một vài (như hai chẳng hạn) lựa chọn thì rất nguy hiểm, vì các nghiên cứu xác nhận rằng trẻ em và người lớn yếu thế có thể chọn một trong số các lựa chọn có sẵn dù chúng không chính xác với những gì đã xảy ra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7703,6 +7703,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151110T150218Z" creationid="nguye" creationdate="20151110T150218Z">
         <seg>Một lý do cho điều này có thể là người ta sẽ gặp khó khăn khi lờ đi những niềm tin ( không đúng) của chính họ về những dấu hiệu biểu thị nói dối và vì thế họ không đạt được hiệu quả từ việc tập luyện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One reason why young children do this is because they believe that adults (especially authority figures) already know what happened and that their role (i.e. the children’s) is merely to confirm that the adult is correct.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T034350Z" creationid="ADMIN" creationdate="20151114T034350Z">
+        <seg>Một trong những .</seg>
       </tuv>
     </tu>
     <tu>
