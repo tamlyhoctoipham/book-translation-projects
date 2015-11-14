@@ -6077,8 +6077,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>It is important to do so not only because interrupting conveys to the witness that the interviewer wants short accounts, but also because questions run the risk of biasing the replies.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151114T025744Z" creationid="ADMIN" creationdate="20151114T025744Z">
-        <seg>Nhưng việc làm này là cần thiết không những vì .</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T030249Z" creationid="ADMIN" creationdate="20151114T025744Z">
+        <seg>Nhưng việc làm này là cần thiết không những vì khi nhân chứng bị ngắt lời, họ sẽ nghĩ rằng người thẩm vấn muốn nghe lời khai ngắn gọn, mà hơn nữa đặt ra câu hỏi có nguy cơ gây ảnh hưởng đến câu trả lời.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9383,6 +9383,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151015T080623Z" creationid="dinhquy" creationdate="20151015T080623Z">
         <seg>Ví dụ như một số nhà tâm lý học, quan tâm đến các quy trình quy phạm pháp luật ra quyết định nhưng dường như ít chú ý đến cách các quy trình ra quyết định có thể đã thay đổi trong lịch sử của pháp luật trong xã hội dân sự.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some question types are more biasing (or suggestive) than others.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T030329Z" creationid="ADMIN" creationdate="20151114T030329Z">
+        <seg>Có một số kiểu câu hỏi gây ảnh hưởng (hoặc mang tính gợi ý) hơn một số khác.</seg>
       </tuv>
     </tu>
     <tu>
