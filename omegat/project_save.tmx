@@ -3099,8 +3099,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>For example, in June 2005 the Court Of Appeal in London quashed a man’s conviction to 18 months imprisonment for indecent assault of an eight-year-old child.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151114T125947Z" creationid="ADMIN" creationdate="20151114T125751Z">
-        <seg>Ví dụ, vào tháng Sáu năm 2005, Tòa phúc thẩm của Luân Đôn đã hủy bỏ án 18 tháng tù giam cho một người đàn ông bị kết tội tấn công một đứa trẻ tám tuổi.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T130224Z" creationid="ADMIN" creationdate="20151114T125751Z">
+        <seg>Ví dụ, vào tháng Sáu năm 2005, Tòa phúc thẩm của Luân Đôn đã hủy bỏ án 18 tháng tù giam cho một người đàn ông bị cáo buộc tấn công một đứa trẻ tám tuổi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9960,6 +9960,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T045415Z" creationid="MSI" creationdate="20151020T045415Z">
         <seg>Đây là một vụ giết người tàn bạo của năm 1988 mà nạn nhân là một cô gái điếm tại Cardiff. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Court decided this largely because the judge in the original trial had not properly directed the jury regarding the defendant’s claim that the interviewing by the police of the child was not in accordance with the official guidance document (i.e. ABE).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T130219Z" creationid="ADMIN" creationdate="20151114T130219Z">
+        <seg>Tòa đưa ra quyết định này, phần lớn là vì các vị thẩm phán trong phiên tòa đầu đã không giải thích rõ ràng với bồi thẩm đoàn về .</seg>
       </tuv>
     </tu>
     <tu>
