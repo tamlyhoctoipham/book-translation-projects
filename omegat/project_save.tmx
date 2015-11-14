@@ -5964,8 +5964,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>It is actually quite difficult to hold one’s questions until the witness has finished his or her free recall.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151111T122809Z" creationid="ADMIN" creationdate="20151111T122809Z">
-        <seg>Việc phải kiềm chế không đặt câu hỏi và chờ cho đến khi nhân chứng hoàn tất quá trình gợi nhớ tự do này thật ra khá là khó khăn.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T025757Z" creationid="ADMIN" creationdate="20151111T122809Z">
+        <seg>Việc phải kiềm chế không đặt câu hỏi và chờ cho đến khi nhân chứng hoàn tất quá trình gợi nhớ tự do thật ra khá là khó khăn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6071,6 +6071,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151108T111938Z" creationid="USER" creationdate="20151108T111938Z">
         <seg>Điều quan trọng là đánh giá những con đường mà các nhà tâm lý góp phần mở rộng điều tra hơn là quá trình thiết lập hồ sơ tội phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is important to do so not only because interrupting conveys to the witness that the interviewer wants short accounts, but also because questions run the risk of biasing the replies.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T025744Z" creationid="ADMIN" creationdate="20151114T025744Z">
+        <seg>Nhưng việc làm này là cần thiết không những vì .</seg>
       </tuv>
     </tu>
     <tu>
