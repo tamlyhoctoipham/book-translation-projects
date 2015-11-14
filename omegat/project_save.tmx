@@ -3241,6 +3241,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, ‘A few minutes ago you said that your uncle hurt you.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T032021Z" creationid="ADMIN" creationdate="20151114T032021Z">
+        <seg>Ví dụ, 'Một vài phút trước bạn có nói rằng chú của bạn gây tổn thương cho bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, ‘You are enjoying reading this book, aren’t you?&lt;t0/&gt;’.&lt;t1/&gt; Research has shown that children and vulnerable adults are very inclined to reply ‘Yes’ to leading questions.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151114T030906Z" creationid="ADMIN" creationdate="20151114T030700Z">
