@@ -4034,6 +4034,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, in other countries the situation may be less appropriate for child witnesses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T114700Z" creationid="ADMIN" creationdate="20151114T114700Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, in recent years, the psychologists’ expertise has been increasingly recognized and can now be called upon as evidence in relation to a wide variety of issues.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151008T171655Z" creationid="Admin" creationdate="20151008T165423Z">
@@ -4204,8 +4212,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>However, such guidance is only being supported by Governments and other relevant organizations in some countries.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151114T033512Z" creationid="ADMIN" creationdate="20151114T033240Z">
-        <seg>Tuy nhiên, hướng dẫn trên chỉ được phổ biến ở vài nước nhờ Chính phủ và các tổ chức có liên quan ở nước họ.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T114604Z" creationid="ADMIN" creationdate="20151114T033240Z">
+        <seg>Tuy nhiên, hướng dẫn trên chỉ được phổ biến ở vài nước nhờ Chính phủ và các tổ chức có liên quan của nước họ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4486,6 +4494,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151110T042311Z" creationid="USER" creationdate="20151110T042311Z">
         <seg>Nếu tương thích - những lời đe dọa giống nhau sẽ được sử dụng, mẫu vật tương tự quần áo bị tên tội phạm lấy đi, và nó sẽ có vị trí địa lý gần với vụ cưỡng hiếp khác - rồi thông tin này được cảnh sát tiếp nhận để điều tra về khả năng hung thủ sẽ thừa nhận cả hai vụ án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If one is used, it should be followed up not by the use of further leading questions (as often happens in everyday conversations) but by the use of open questions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T114546Z" creationid="ADMIN" creationdate="20151114T114546Z">
+        <seg>Khi cần dùng, tiếp sau đó nên là câu hỏi mở thay vì tiếp tục đặt ra câu hỏi dẫn dắt khác (như vẫn hay xảy ra trong các cuộc trò chuyện thường ngày).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10344,6 +10360,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T132037Z" creationid="dinhquy" creationdate="20151012T132037Z">
         <seg>Việc đầu tiên dựa trên lịch sử của hệ thống pháp luật; thứ hai là chức năngthêm vào trong việc cố gắng để hiểu được mục đích của ngôn ngữ pháp lý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first involves the interviewers checking that they have correctly understood the important parts, if any, of what the interviewees have communicated.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T114835Z" creationid="ADMIN" creationdate="20151114T114835Z">
+        <seg>Ở phần đầu, người thẩm vấn sẽ kiểm tra lại xem họ đã hiểu đúng được những điểm quan trọng, nếu có, trong lời khai của nhân chứng hay chưa.</seg>
       </tuv>
     </tu>
     <tu>
