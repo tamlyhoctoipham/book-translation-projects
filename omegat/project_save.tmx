@@ -7709,8 +7709,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>One reason why young children do this is because they believe that adults (especially authority figures) already know what happened and that their role (i.e. the children’s) is merely to confirm that the adult is correct.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151114T034350Z" creationid="ADMIN" creationdate="20151114T034350Z">
-        <seg>Một trong những .</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T034832Z" creationid="ADMIN" creationdate="20151114T034350Z">
+        <seg>Một lý do trẻ em làm thế là vì trẻ tin người lớn (đặc biệt là những nhân vật có thẩm quyền) đã biết những gì xảy ra và vai trò của trẻ ở đây là để chứng thực cho việc người lớn đã đúng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12713,6 +12713,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151026T051508Z" creationid="USER" creationdate="20151026T051508Z">
         <seg>Đó là một trong những lý do tại sao Cảnh sát Anh và xứ Wales cùng với Ban thu thập chứng cứ phạm tội 1984 được cho phép thu âm toàn bộ cuộc thẩm vấn nghi phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is one of the reasons why the MOGP (and similar guidance documents) emphasizes that the witnesses must be told that the interviewer will be happy if the witness says ‘I don’t understand’ or ‘I don’t know’ (contrary to what school teachers may say).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T034828Z" creationid="ADMIN" creationdate="20151114T034731Z">
+        <seg>Đây là một trong số những lý do cuốn MOGP (và các tài liệu hướng dẫn khác) nhấn mạnh rằng</seg>
       </tuv>
     </tu>
     <tu>
