@@ -5802,6 +5802,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It advised that in the questioning phase ‘open’ questions should be asked first, then ‘specific’ questions, then ‘closed’ questions and preferably no leading questions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T032843Z" creationid="ADMIN" creationdate="20151114T032843Z">
+        <seg>Cuốn sách khuyến khích sử dụng câu hỏi 'mở' đầu tiên, sau đó tới câu hỏi 'cụ thể', tiếp đến là câu hỏi 'đóng' và tốt hơn là không có câu hỏi dẫn dắt nào khi đang trong pha đặt câu hỏi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also found that the problematic tactics of minimization, situational futility (i.e. telling the suspect that they committed this crime and that it will come out one day, and pointing out the negative consequences of denial) and intimidation never occurred.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151031T170537Z" creationid="USER" creationdate="20151031T162339Z">
@@ -7767,6 +7775,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T152957Z" creationid="USER" creationdate="20151007T144520Z">
         <seg>Những chương trình này gồm những tiêu chí được thông qua và thi hành bởi Cơ quan quản lý nhà tù và giám sát phạm nhân với mục đích là để giám sát những người phạm tội. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open questions invite the interviewee to provide information additional to that given in their free recall.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T033003Z" creationid="ADMIN" creationdate="20151114T033003Z">
+        <seg>Câu hỏi mở giúp người được thẩm vấn cung cấp thêm thông tin ngoài những gì có được từ quá trình gợi nhớ tự do.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13889,8 +13905,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>What did he use?&lt;t2/&gt;’.&lt;t3/&gt; Closed questions contain a list of alternatives but, of course, they run the risk of not including the correct alternative or of suggesting an alternative (that makes more ‘sense’ than the other alternatives).</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151114T032512Z" creationid="ADMIN" creationdate="20151114T032512Z">
-        <seg>Ông ấy đã dùng thứ gì?' Câu hỏi đóng bao gồm một danh sách có nhiều lựa chọn nhưng đương nhiên, có khả năng không bao gồm lựa chọn chính xác hoặc gợi ý một lựa chọn (lựa chọn đó nghe có vẻ 'có lý' hơn số còn lại).</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T033038Z" creationid="ADMIN" creationdate="20151114T032512Z">
+        <seg>Ông ấy đã dùng thứ gì?' Câu hỏi đóng bao gồm một danh sách có nhiều lựa chọn nhưng đương nhiên, có khả năng không bao gồm lựa chọn chính xác hoặc có thể gợi ý một lựa chọn (lựa chọn nghe có vẻ 'có lý' hơn số còn lại).</seg>
       </tuv>
     </tu>
     <tu>
