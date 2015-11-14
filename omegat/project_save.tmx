@@ -3826,6 +3826,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How did he do that?&lt;t0/&gt;’.&lt;t1/&gt; Specific questions focus on detail.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151114T032103Z" creationid="ADMIN" creationdate="20151114T032103Z">
+        <seg>Ông ấy đã làm thế nào?'. Câu hỏi cụ thể tập trung vào chi tiết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do people behave when they are lying and what cues can police officers look out for that might indicate that the suspects are lying about their whereabouts during the crime?</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151111T162301Z" creationid="USER" creationdate="20151111T161746Z">
