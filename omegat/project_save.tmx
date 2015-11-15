@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10408,6 +10408,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151014T104122Z" creationid="MSI" creationdate="20151014T104122Z">
         <seg>Nội dung chương này cũng quan tâm đến cách thức các sĩ quan cảnh sát xử lý những nhiệm vụ được yêu cầu, quy trình tuyển chọn sĩ quan cảnh sát, đồng thời thảo luận về những mục tiêu của Chính phủ nhằm tạo ra một hình mẫu cảnh sát của cộng đồng.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The chapter will also introduce the reader to some examples of programmes, how they operate and what the research literature says about their ability to reduce reoffending rates.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080737Z" creationid="Nga" creationdate="20151115T080737Z">
+        <seg>Chương trình cũng sẽ giới thiệu đến người đọc một vài ví dụ về những chương trình nói trên, cách thức hoạt động và các bài nghiên cứu đã nói gì về khả năng giảm thiểu tỉ lệ tái gây án. .</seg>
       </tuv>
     </tu>
     <tu>
