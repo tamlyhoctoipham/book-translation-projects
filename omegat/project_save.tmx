@@ -791,6 +791,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among the guidance given to the interviewer (prior to and during the four-hour interview) were aspects of the CI approach.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125225Z" creationid="ADMIN" creationdate="20151115T125225Z">
+        <seg>Trong số những hướng dẫn cung cấp cho người thẩm vấn (trước và trong buổi thẩm vấn dài bốn tiếng) là những khía cạnh trong cách tiếp cận theo hướng CI..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Among the wealth of information gathered was that concerning the appropriateness of the vocabulary used by the lawyers when questioning children of various &lt;t0/&gt;ages.&lt;t1/&gt; Those lawyers whose ‘side’ had called the child witnesses (usually the prosecution) rarely used vocabulary that the children appeared not to understand (this occurred in only twelve per cent of their ‘examinations-in-chief ’).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125346Z" creationid="ADMIN" creationdate="20151115T125334Z">
+        <seg>Trong số rất nhiều thông tin thu thập được có những liên quan đến việc sử dụng ngôn từ một cách phù hợp của luật sư khi hỏi trẻ em ở nhiều độ tuổi khác nhau. Luật sư bên 'phía' yêu cầu triệu tập nhân chứng (thường là bên khởi tố) hiếm khi nào dùng từ ngữ mà trẻ có vẻ không hiểu (chỉ mười hai phần trăm số người 'thẩm-tra-chính' dùng chúng).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Among these factors were the possible effects of (&lt;t0/&gt;i&lt;t1/&gt;) the consumption of a large amount of alcohol on witness perception and memory, (ii) being shown a photograph of a person on a later attempt to try to identify the perpetrator at an identification parade/line-up, (iii) the client being the only person in the line-up whose facial hair &lt;t2/&gt;colour&lt;t3/&gt; matched the witness’ original description and (iv) whether asking a witness during a trial if the perpetrator is present in court adds anything to the earlier identification (i.e. made at the line-up).</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T154709Z" creationid="VIP_PC" creationdate="20151104T154709Z">
@@ -867,6 +883,14 @@
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151114T131520Z" creationid="ADMIN" creationdate="20151114T131520Z">
         <seg>Một chương trình nghiên cứu tâm lý lớn, đa quốc gia, trong hai mươi năm qua, đã phát triển các cách giúp người được thẩm vấn nhớ được nhiều nhất có thể về các sự kiện đã diễn ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An important place where the questioning of (alleged) witnesses, victims and suspects also takes place is in criminal courts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125239Z" creationid="ADMIN" creationdate="20151115T125239Z">
+        <seg>Một địa điểm quan trọng mà việc đặt câu hỏi cho người (được cho) là nhân chứng, nạn nhân và nghi phạm cũng diễn ra đó là tại các phiên tòa xét xử tội phạm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1011,6 +1035,14 @@
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151104T165036Z" creationid="nguye" creationdate="20151104T165036Z">
         <seg>Lý do khác là nhiều người khi nói dối thường cố gắng không để lộ ra những dấu hiệu mà họ tin rằng người khác tìm thấy ở kẻ nói dối ( ví dụ : tần suất tăng của hành vi ) , và họ có thể thành công trong việc này hoặc cũng có thể trở nên kiểm soát quá nhiều hành vi của họ , dẫn tới việc giảm các hành vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another major aspect of the CI is to transfer control of the memory retrieval to the interviewee (e.g. the witness) which involves the interviewer realizing that they should behave in a way that allows (indeed, motivates) the interviewee to think hard, to do most of the talking, and not to be unduly influenced by any biases or expectations that the interviewer may have about what happened.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125145Z" creationid="ADMIN" creationdate="20151115T125145Z">
+        <seg>Một mặt khác của CI là nó chuyển quyền kiểm soát sự phục hồi trí nhớ qua cho người được thẩm vấn (như nhân chứng) và giúp người thẩm vấn nhận ra rằng họ cần phải hành xử theo một cách nhất định để giúp (hay khuyến khích) người được thẩm vấn suy nghĩ kĩ càng, là người nói nhiều hơn, và không bị ảnh hưởng ngầm bởi bất kì suy nghĩ hay kì vọng nào của người thẩm vấn có thể có về những gì đã xảy ra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3313,6 +3345,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the mental reinstatement of con- text which assists the interviewee to re-instate in their mind key aspects of the original event.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125109Z" creationid="ADMIN" creationdate="20151115T125109Z">
+        <seg>Cho một ví dụ, việc não có khả năng sắp xếp lại bối cảnh, không gian sẽ hỗ trợ người được thẩm vấn chọn lọc được những yếu tố then chốt nguyên bản trong sự kiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the transport available to burglars has been found to affect the distance they travelled to commit burglaries.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T045053Z" creationid="Hx" creationdate="20151015T044138Z">
@@ -4266,6 +4306,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, relatively few studies have been conducted on this particular topic, probably because of the difficulties of doing so.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125249Z" creationid="ADMIN" creationdate="20151115T125249Z">
+        <seg>Tuy nhiên, vẫn có khá ít bài nghiên cứu về chủ đề đặc thù này, có lẽ là do những khó khăn sẽ gặp phải khi thực hiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, research has suggested that offenders may change their geographical pattern of offending, sometimes behaving as marauders and at other times behaving as commuters.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151027T024708Z" creationid="Hx" creationdate="20151027T024708Z">
@@ -4838,6 +4886,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151014T184306Z" creationid="VIP_PC" creationdate="20151014T184306Z">
         <seg>Năm 2004, một vị cố vấn pháp lý ở Scotlandđã liên lạc với tác giả của cuốn sách này, bởi thân chủ của ông ta đã bị kết một tội danh nghiêm trọng. (Cố vấn pháp lý: Người đại diện hợp pháp) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 2005 the author of this chapter was surprised to receive the rare &lt;t2/&gt;honour&lt;t3/&gt; for a civilian of a Commendation Certificate from the London Metropolitan Police Service for the guidance provided in the interviewing of a woman who had been raped but who, initially, could recall little of the horrendous event.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125211Z" creationid="ADMIN" creationdate="20151115T125211Z">
+        <seg>Vào năm 2005, tác giả chương này rất bất ngờ khi có được vinh dự hiếm hoi là nhận Bằng khen Tuyên dương từ Lực lượng Cảnh sát Thủ đô Luân Đôn dành cho người dân vì đã cung cấp hướng dẫn thẩm vấn một người phụ nữ bị cưỡng hiếp nhưng lúc đầu lại hầu như chẳng nhớ được gì về sự kiện khủng khiếp này.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5662,6 +5718,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151015T033220Z" creationid="PhuongThao" creationdate="20151015T033220Z">
         <seg>Ngay lập tức, thông tin này sẽ được viên cảnh sát truyền đạt bằng lời nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the late 1980s we conducted one of the first published studies of questioning of child witnesses in criminal courts in which eighty-nine children were observed giving evidence in forty trials in Glasgow, Scotland.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125305Z" creationid="ADMIN" creationdate="20151115T125305Z">
+        <seg>Vào những năm cuối thập niên 80, chúng tôi tiến hành một trong số các bài nghiên cứu đầu tiên từng được công bố về vấn đề đặt câu hỏi cho nhân chứng là trẻ em trên tòa, trong đó có tám mươi chín trẻ được quan sát khi đưa ra bằng chứng trong bốn mươi phiên tòa tại Glasgow, Scotland.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7719,6 +7783,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151104T164733Z" creationid="nguye" creationdate="20151104T164733Z">
         <seg>Một là khi "độ nguy hiểm" cao hơn ( giống như trong những nghiên cứu có liên quan tới các buổi hỏi cung của cảnh sát) cảm xúc thường mạnh hơn, cho nên ảnh hưởng tới hành vi nhiều hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One major way is to use what is known as the ‘cognitive interview’ (which is often referred to as the CI).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125053Z" creationid="ADMIN" creationdate="20151115T125053Z">
+        <seg>Một cách chủ yếu là dùng phương pháp 'thẩm vấn nhận thức' (thường được gọi là CI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10148,6 +10220,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CI procedure has been found in many studies to help people remember more.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125158Z" creationid="ADMIN" creationdate="20151115T125158Z">
+        <seg>Quy trình CI, thông qua nhiều nghiên cứu đã được chứng thực là có thể giúp con người nhớ nhiều hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cardiff Three were convicted in 1988 for the brutal murder of a prostitute in Cardiff.</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T045415Z" creationid="MSI" creationdate="20151020T045415Z">
@@ -12088,6 +12168,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151021T120612Z" creationid="MSI" creationdate="20151021T120612Z">
         <seg>Tại Anh, năm 1829, Sir Robert Peel đã rất quan tâm tới vấn đề này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These contextual aspects then ‘trigger off’ (that is, then allow to be recalled) other aspects of the event that otherwise would have been very difficult to retrieve from memory.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125123Z" creationid="ADMIN" creationdate="20151115T125123Z">
+        <seg>Những yếu tố về không gian này sau đó sẽ 'gây nổ' (có nghĩa là cho phép nhớ lại) các yếu tố khác có trong sự việc mà nếu không thì sẽ rất khó để nhớ.</seg>
       </tuv>
     </tu>
     <tu>
