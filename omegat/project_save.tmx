@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1167,6 +1167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As mentioned briefly in Chapter 1, criminal psychologists have been instrumental in the design, implementation, management and delivery of offending behaviour programmes to a range of different types of offenders within both prison and community set- tings.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080218Z" creationid="Nga" creationdate="20151115T080218Z">
+        <seg>Như đã đề cập trong chương Một, các nhà tâm lý học đóng vai trò quan trọng trong việc thiết kế, triển khai, quản lý và truyền tải những chương trình hành vi phạm tội đến hàng loạt những dạng phạm nhân khác nhau bao gồm được quản lý trong nhà giam hoặc bởi cộng đồng..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As more activities take place on private property, more private security is required to protect it.</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151028T144516Z" creationid="Jennifer Tran" creationdate="20151028T144516Z">
@@ -2317,6 +2325,22 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151108T102514Z" creationid="USER" creationdate="20151108T102514Z">
         <seg>Điều tra hình sự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Criminal psychological research has shown that offenders tend to be lacking in such skills and there is an argument that it is these cognitive deficits that contribute to an offender’s decision to partake in criminal activities.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080252Z" creationid="Nga" creationdate="20151115T080252Z">
+        <seg>Nghiên cứu về tâm ý học tội phạm cho thấy các phạm nhân thường thiếu mất những kĩ năng này. Có quan điểm cho rằng sự thiếu hụt về nhận thức này là nguyên nhân khiến phạm nhân có hành vi phạm tội. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Criminal psychologists have also been involved in the evaluation of the effectiveness of offending behaviour programmes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080311Z" creationid="Nga" creationdate="20151115T080311Z">
+        <seg>Các nhà tâm lý học tội phạm cũng tham gia vào phần đánh giá tính hiệu quả của những chương trình cải tạo phạm nhân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11220,6 +11244,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reality, however, is that much more needs to be known about programmes and their &lt;t0/&gt;effectiveness.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080332Z" creationid="Nga" creationdate="20151115T080332Z">
+        <seg>Tuy nhiên, thực tế cho thấy còn rất nhiều thứ cần được làm rõ về những chương trình này cũng như tính hiệu quả của nó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason why people think this probably relates to the fact that such &lt;t2/&gt;behaviours&lt;t3/&gt; are fairly useful indicators of nervousness.</seg>
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151019T122440Z" creationid="nguye" creationdate="20151019T122407Z">
@@ -12128,6 +12160,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151104T160116Z" creationid="USER" creationdate="20151104T155234Z">
         <seg>Những quan niệm phổ biến về công việc của các nhà tâm lý học tội phạm có thể chỉ đúng ở một phần nhỏ, và không thể thay thế vai trò đa dạng, rộng lớn mà những nhà tâm lý học có thể làm được.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These professionals use the psychological techniques contained within the programme manuals to target the offenders’ problem-solving, social and personal control skills.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080235Z" creationid="Nga" creationdate="20151115T080235Z">
+        <seg>Các chuyên gia này dùng những kĩ thuật tâm lý ...... để tác động vào kĩ năng xử lí vấn đề, kĩ năng xã hội và kĩ năng tự kiềm chế của phạm nhân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13502,6 +13542,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This topic is still at a relatively early stage of development.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080353Z" creationid="Nga" creationdate="20151115T080353Z">
+        <seg>Chủ đề này chỉ đang phát triển ở giai đoạn đầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This type of research, however, can be time-consuming, expensive to conduct and is only ever as good as the accuracy of the reports received.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151008T162251Z" creationid="USER" creationdate="20151008T162131Z">
@@ -14819,6 +14867,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151104T064020Z" creationid="Admin" creationdate="20151104T063946Z">
         <seg>Cùng với sự gia tăng về các khóa học về tâm lý học tội phạm thì cũng có sự gia tăng tương ứng về số lượng các nhà tâm lý học tội phạm học làm việc ở trong các học viện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the public show of confidence in these programmes from govern- mental agencies, it would be reasonable to assume that the evidence concerning their effectiveness is positive and concrete.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Nga" changedate="20151115T080321Z" creationid="Nga" creationdate="20151115T080321Z">
+        <seg>Với sự tự tin vào những chương trình này từ phía các cơ quan chính phủ, hợp lý khi cho rằng những chương trình này thật sự có hiệu quả .</seg>
       </tuv>
     </tu>
     <tu>
