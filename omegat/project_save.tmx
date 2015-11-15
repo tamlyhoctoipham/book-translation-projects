@@ -2195,8 +2195,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Consider your own responses to crime and punishment.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151115T053722Z" creationid="SONY" creationdate="20151115T053722Z">
-        <seg>Hãy suy nghĩ về s</seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151115T053957Z" creationid="SONY" creationdate="20151115T053722Z">
+        <seg>Hãy đưa ra sự phản hồi của riêng bạn đối với tội ác và hình phạt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2613,6 +2613,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151007T130925Z" creationid="Demon" creationdate="20151007T130925Z">
         <seg>Liệu họ có dừng việc quấy rối tình dùng khi họ được thả khỏi tù hay không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you think being a victim of crime alters your perceptions as to how offenders should be punished?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="SONY" changedate="20151115T054108Z" creationid="SONY" creationdate="20151115T054056Z">
+        <seg>Bạn có nghĩ rằng việc trở thành nạn nhân của tội ác làm thay đổi quan điểm về cách thức xử phạt tội phạm?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8589,8 +8597,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Punishment is a constantly evolving aspect of society and is linked to thoughts about safety, the effectiveness of the criminal justice system and emotional responses to victimization.</seg>
       </tuv>
-      <tuv lang="VI" changeid="SONY" changedate="20151115T053647Z" creationid="SONY" creationdate="20151115T053647Z">
-        <seg>Hình phạt là một khía cạnh không ngừng phát triển của xã hội và gắn kết với ý nghĩa về sự an toàn, sự hiệu quả của hệ thống hình sự tư pháp và là sự hồi đáp tinh thần cho nạn nhân. </seg>
+      <tuv lang="VI" changeid="SONY" changedate="20151115T053945Z" creationid="SONY" creationdate="20151115T053647Z">
+        <seg>Hình phạt là một khía cạnh không ngừng phát triển của xã hội và gắn kết với ý nghĩa về sự an toàn, sự hiệu quả của hệ thống hình sự tư pháp và là những phản hồi tinh thần cho nạn nhân. </seg>
       </tuv>
     </tu>
     <tu>
