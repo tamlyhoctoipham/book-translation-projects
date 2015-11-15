@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The lawyers also largely used   age-appropriate   grammar,   ninety per cent and eighty-three percent, respectively.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125522Z" creationid="ADMIN" creationdate="20151115T125522Z">
+        <seg>(Các luật sư cũng sử dụng ngữ pháp khác nhau phù hợp theo từng độ tuổi khác nhau, tỉ lệ lần lượt là chín mười phần trăm và tám mươi ba phần trăm.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This applies strongly &lt;t0/&gt;to&lt;t1/&gt; many aspects of criminal psychology.)</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151111T121022Z" creationid="ADMIN" creationdate="20151111T120931Z">
@@ -1059,6 +1067,14 @@
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151027T130730Z" creationid="yuko" creationdate="20151027T130730Z">
         <seg>Một nghiên cứu khác cho thấy các mối quan hệ đồng lứa gặp trục trặc và có tiền sử bị lạm dụng tình dục cũng đi kèm với việc cố ý làm hại mình.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another study found similar data for ‘ordinary’ (alleged) adult rape victims but it also looked at transcripts of trials in which the alleged victims were adults with learning disability (who can have particular difficulty in understanding questions and in resisting suggestive questions).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125656Z" creationid="ADMIN" creationdate="20151115T125656Z">
+        <seg>Một nghiên cứu khác cũng cho ra kết quả tương tự với người lớn 'bình thường' và (được cho) là nạn nhân bị cưỡng hiếp, họ được cho là nạn nhân và là người lớn mắc chứng khó học (những người có thể gặp một số khó khăn nhất định trong việc hiểu câu hỏi và cưỡng lại các câu hỏi mang tính gợi ý).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3201,6 +3217,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in New Zealand, the transcripts of twenty child sexual abuse trials in which children aged five to twelve gave evidence (for the prosecution) revealed that the cross-examinations (by the &lt;t0/&gt;defence&lt;t1/&gt; lawyers) contained more leading (i.e. suggestive) questions (thirty-five per cent) than did prosecutors’ examinations-in-chief (fifteen per cent).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125549Z" creationid="ADMIN" creationdate="20151115T125549Z">
+        <seg>Ví dụ như ở New Zealand, trong hai mươi biên bản phiên tòa xét xử các vụ án trẻ em bị xâm hại tình dục có nhân chứng là trẻ từ năm đến mười hai tuổi, cho thấy các lần đối thẩm (với luật sư bên bào chữa) chứa nhiều câu hỏi dẫn dắt (như gợi ý) hơn (ba mươi lăm phần trăm) so với những lần thẩm tra của bên khởi tố (mười lăm phần trăm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in Sweden a 2005 study examined the descriptions given to the police by twenty-nine witnesses who saw the assassination of the Foreign Minister (Anna Lindh).</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155135Z" creationid="VIP_PC" creationdate="20151104T155135Z">
@@ -3630,6 +3654,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T121306Z" creationid="USER" creationdate="20151009T112340Z">
         <seg>Sau đó, công việc điều tra xa hơn cần kiểm tra lý do tại sao chưa hoàn thành, đặc biệt đối với những người trong nhóm có nguy cơ cao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore, (&lt;t2/&gt;i&lt;t3/&gt;) children’s misunderstanding of questions were evident in sixty-five per cent of the cross-examinations, (ii) there was a relationship between the &lt;t4/&gt;number of child witness misunderstandings and the &lt;t5/&gt;defence&lt;t6/&gt; lawyers’ use of complex questions, and (iii) when children appeared to contradict what they had earlier said in the trials this was very often associated with an age-inappropriate question being asked (which caused the contradiction).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125604Z" creationid="ADMIN" creationdate="20151115T125604Z">
+        <seg>Hơn nữa, (i) việc trẻ hiểu sai ý của câu hỏi chiếm sáu mươi phần trăm số lần đối thẩm, (ii) có tương quan giữa số lần trẻ hiểu sai và viêc sử dụng các câu hỏi phức tạp từ phía luật sư bên bào chữa, và (iii) khi lời khai của trẻ có vẻ như mâu thuẫn với những gì trẻ nói trước đó trên tòa, điều này thường xảy ra khi trẻ gặp câu hỏi không phù hợp với lứa tuổi (gây ra sự mâu thuẫn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4172,8 +4204,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>However, in other countries the situation may be less appropriate for child witnesses.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151114T114700Z" creationid="ADMIN" creationdate="20151114T114700Z">
-        <seg>.</seg>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125534Z" creationid="ADMIN" creationdate="20151114T114700Z">
+        <seg>Tuy thế, ở một số nước, điều này lại ít đúng khi nhân chứng là trẻ em.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,6 +4454,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151021T004332Z" creationid="Admin" creationdate="20151021T004332Z">
         <seg>Tuy nhiên, vai trò của tù nhân hay thác thức của nhà tâm lý học không giới hạn trong mối quan hệ giữa việc cải tạo và công việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the ‘opposing’ lawyers did this much more often (in forty per cent of their cross-examinations).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125437Z" creationid="ADMIN" creationdate="20151115T125437Z">
+        <seg>Vậy nhưng luật sư bên phía 'đối lập' lại thực hiện điều đó thường xuyên hơn nhiều (chiếm bốn mươi phần trăm số lần đối thẩm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5218,6 +5258,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In fact, both the &lt;t0/&gt;defence&lt;t1/&gt; and prosecution lawyers questioned the witnesses with learning disability in ways similar to ordinary adult rape victims, thus demonstrating no special skills for these particularly vulnerable witnesses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125732Z" creationid="ADMIN" creationdate="20151115T125732Z">
+        <seg>Thực tế là luật sư cả bên bào chữa và khởi tố đều có cùng một cách đặt câu hỏi cho nhân chứng mắc chứng khó học và người lớn là nạn nhân bị cưỡng hiếp, từ đó cho thấy không có phương pháp đặc biệt nào dùng cho những nhân chứng yếu thế này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In his report Lord &lt;t0/&gt;Scarman&lt;t1/&gt; responded to the suggestion that ‘Britain is an institutionally racist society’:</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151030T135413Z" creationid="Admin" creationdate="20151030T135413Z">
@@ -5826,6 +5874,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these latter trials, not only were there many more ‘yes’/‘no’ questions in the cross- examinations, there also were more leading questions than in evidence-in-chief (twenty-five per cent vs. three per cent).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125713Z" creationid="ADMIN" creationdate="20151115T125713Z">
+        <seg>Trong các phiên tòa kiểu này, không những tần suất xuất hiện trong các lần đối thẩm của câu hỏi 'có/không' nhiều hơn, mà số câu hỏi dẫn dắt cũng nhiều hơn số bằng-chứng-chính (hai mươi lăm phần trăm so với ba phần trăm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this 1980 study (which was conducted for the Royal Commission &lt;t0/&gt;On&lt;t1/&gt; Criminal Procedure) Barrie Irving was present at several dozen interviews in England.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151027T044226Z" creationid="USER" creationdate="20151027T043339Z">
@@ -5902,6 +5958,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151108T111244Z" creationid="USER" creationdate="20151108T111244Z">
         <seg>Thật sự thì hiểu biết của người phạm tội sẽ được hỗ trợ bằng cách tăng cường cảnh sát có khả năng ra quyết định và kỹ năng lãnh đạo, cải tiến phương pháp chất vấn các nhân chứng và nạn nhân, phát triển các phương pháp ghi âm chính xác, đối chiếu và phân tích dữ liệu tiền kết tội của các phạm nhân, phát triển hệ thống nghi phạm ưu tiên dựa trên nghiên cứu thực nghiệm và tăng cường kiểm soát trí thông minh cũng như quản lý người cung cấp thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed, for these the lawyers appeared to be conscious of the need to keep their vocabulary simple.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125502Z" creationid="ADMIN" creationdate="20151115T125502Z">
+        <seg>Thật vậy, với đối tượng này, các luật sư dường như hiểu được rằng họ cần phải dùng từ ngữ đơn giản.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7783,6 +7847,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151104T164733Z" creationid="nguye" creationdate="20151104T164733Z">
         <seg>Một là khi "độ nguy hiểm" cao hơn ( giống như trong những nghiên cứu có liên quan tới các buổi hỏi cung của cảnh sát) cảm xúc thường mạnh hơn, cho nên ảnh hưởng tới hành vi nhiều hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One looked at the transcripts of rape trials and found that the cross-examinations involved many more ‘yes’/‘no’ questions (which can be suggestive and do constrain the nature of the reply) than the examinations- in-chief (eighty-two per cent vs. forty-seven per cent) but fewer ‘open’ questions (which allow the witness to give an account not suggested by the question – six per cent versus twenty-three per cent).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125644Z" creationid="ADMIN" creationdate="20151115T125644Z">
+        <seg>Khi xem biên bản của các phiên tòa xử những vụ cưỡng hiếp thì câu hỏi 'có/không' được sử dụng trong các lần đối thẩm (có thể mang tính gợi ý và thúc ép câu trả lời) nhiều hơn so với những lần thẩm-tra-chính (tám mươi hai phần trăm so với bốn mươi bảy phần trăm) nhưng lại chứa ít câu hỏi 'mở' hơn (loại câu cho phép nhân chứng cung cấp thêm lời khai mà không bị dẫn dắt bởi câu hỏi - sáu phần trăm so với hai mươi ba phần trăm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10836,6 +10908,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The inappropriate vocabulary was by no means directed at only the youngest children.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125456Z" creationid="ADMIN" creationdate="20151115T125456Z">
+        <seg>Việc sử dụng từ vựng không thích hợp không hề chỉ nhắm tới trẻ em với độ tuổi thấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The incident was made all the more extraordinary by its setting.</seg>
       </tuv>
       <tuv lang="VI" changeid="SONY" changedate="20151103T151726Z" creationid="SONY" creationdate="20151103T151726Z">
@@ -10872,6 +10952,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T023146Z" creationid="Hx" creationdate="20151015T021105Z">
         <seg>Loại thứ hai là loại mọi người thường gắn với thuật ngữ thiết lập hồ sơ tội phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lawyer Emily Henderson claimed that many of the cross-examination tactics used by lawyers to question children are suggestive and are a ‘how not to’ guide to interviewing (that is, are the opposite of what is contained in guidance documents on how to interview children).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN" changedate="20151115T125618Z" creationid="ADMIN" creationdate="20151115T125618Z">
+        <seg>Luật sự Emily Henderson cho biết, chiến thuật của các luật sư khi đối thẩm với trẻ là đưa là câu hỏi mang tính gợi ý và không làm theo hướng dẫn thực hiện thẩm vấn (hay nói cách khác là đi ngược lại những điều được ghi trong những tài liệu hướng dẫn cách thẩm vấn trẻ em).</seg>
       </tuv>
     </tu>
     <tu>
