@@ -4490,6 +4490,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there is also a much wider interpretation of the responsivity principle which has been termed ‘specific responsivity’.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151115T233806Z" creationid="TranPhuc.envy" creationdate="20151115T233806Z">
+        <seg>Tuy nhiên, khái niệm này còn có một cách diễn giải rộng hơn được gọi là "đáp ứng cụ thể".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there is another field within which the work of psychologists, and the application of their knowledge, is useful to the police.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151112T115457Z" creationid="USER" creationdate="20151112T115457Z">
@@ -5732,8 +5740,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>In the broadest sense this principle means that programmes based on cognitive behavioural principles (those that focus on challenging individuals’ thoughts and attitudes in order to alter their behaviour) should be adopted as these have been shown by research to be most effective with offenders.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ENVY" changedate="20151018T150708Z" creationid="ENVY" creationdate="20151018T150708Z">
-        <seg>Theo nghĩa rộng nhất, điều này có nghĩa là cần thực hiện các chương trình dựa trên những nguyên tắc về hành vi nhận thức (tập trung vào việc thách thức suy nghĩ của cá nhân nhằm thay đổi hành vi của họ) vì những chương trình như vậy đã được chứng mình là có hiệu quả nhất đối với phạm nhân..</seg>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151115T233724Z" creationid="ENVY" creationdate="20151018T150708Z">
+        <seg>Theo cách hiểu khái quát nhất, điều này có nghĩa là những chương trình dựa trên các nguyên lý hành vi nhận thức (tập trung vào việc thử thách suy nghĩ và thái độ để thay đổi hành vi của của đối tượng) nên được áp dụng vì hiệu quả của chúng đối với phạm nhân đã được chứng minh qua nghiên cứu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10019,6 +10027,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specific responsivity refers to the need for interventions (and for those that deliver them) to be sensitive to the individual needs of those who are in attendance on the programme.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151115T233901Z" creationid="TranPhuc.envy" creationdate="20151115T233901Z">
+        <seg>Theo đó, các biện pháp can thiệp (và những người thực hiện chúng) cần nhạy cảm với nhu cầu của những đối tượng tham gia. Các đặc điểm cá nhân cần xem xét có thể bao gồm từ chủng tộc và giới tính cho đến khả năng đọc và nhận thức, động lực, khả năng hoạt động nhóm cũng như bất cứ yếu tố nào khác có tác động đến sự hiệu quả của các biện pháp can thiệp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifically, they are focusing on the goals of punishment and deterrence.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151105T150106Z" creationid="LHC" creationdate="20151011T160451Z">
@@ -10928,6 +10944,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="SONY" changedate="20151103T151726Z" creationid="SONY" creationdate="20151103T151726Z">
         <seg>Biến cố đã vượt quá so với sự sắp đặt của nó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The individual characteristics that should be considered under specific responsivity range from race and gender to cognitive and reading ability, motivation and the ability to function in groups.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151115T233935Z" creationid="TranPhuc.envy" creationdate="20151115T233935Z">
+        <seg>Các đặc điểm cá nhân cần xem xét có thể bao gồm từ chủng tộc và giới tính cho đến khả năng đọc và nhận thức, động lực, khả năng hoạt động nhóm</seg>
       </tuv>
     </tu>
     <tu>
@@ -12965,6 +12989,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This consideration has been termed ‘general responsivity’ as these methods, in a general sense, have been shown to produce positive results.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151115T233732Z" creationid="TranPhuc.envy" creationdate="20151115T233732Z">
+        <seg>Cách tiếp cận này được gọi là "đáp ứng tổng quát" vì chúng cho kết quả tích cực trên phương diện tổng quát..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This construction of consent as being presumed, unless clearly withdrawn, links with &lt;t0/&gt;Erhlich’s&lt;t1/&gt; ideological discussion of USA rape law.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151010T032912Z" creationid="dinhquy" creationdate="20151010T025419Z">
@@ -13441,6 +13473,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T050353Z" creationid="MSI" creationdate="20151020T050353Z">
         <seg>Chứng cứ này đã tố cáo Jeffrey Gafoor, tên sát nhân thực sự. Tên này đã bị kết án chung thân vào năm 2003. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This list is not exhaustive and may include many other individual factors that should be addressed if it is felt that they may impact on the effectiveness of the intervention for that individual.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151115T234006Z" creationid="TranPhuc.envy" creationdate="20151115T234006Z">
+        <seg>cũng như bất cứ yếu tố nào khác có tác động đến sự hiệu quả của các biện pháp can thiệp.</seg>
       </tuv>
     </tu>
     <tu>
