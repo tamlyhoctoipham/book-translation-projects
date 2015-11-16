@@ -4492,8 +4492,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>However, there are still many questions to be answered about the effectiveness of programmes and research needs to build on what we already know in order to expand knowledge of ‘What Works’.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ENVY" changedate="20151006T161603Z" creationid="ENVY" creationdate="20151006T161603Z">
-        <seg>Tuy nhiên, vẫn còn nhiều câu hỏi cần được trả lời về tính hiệu quả của các chương trình và chúng ta cần tiến hành nghiên cứu dựa trên những gì đã biết để mở rộng kiến thức về "Những hoạt động hiệu quả".</seg>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T132127Z" creationid="ENVY" creationdate="20151006T161603Z">
+        <seg>Tuy nhiên, chúng ta vẫn còn những câu hỏi cần trả lời về tính hiệu quả của các chương trình này và vẫn cần phải thực hiện các nghiên cứu dựa trên nhưng gì đã biết để mở rộng kiến thức của "What Works".</seg>
       </tuv>
     </tu>
     <tu>
@@ -13774,6 +13774,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This section will present two examples of offending behaviour programmes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T132250Z" creationid="TranPhuc.envy" creationdate="20151116T132250Z">
+        <seg>PHẦN NÀY SẼ GIỚI thiệu hai ví dụ về các chương trình điều chỉnh hành vi phạm tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This seems especially so when the set of photographs does not, in fact, contain the perpetrator (but similar people to him, as required by police ‘regulations’ in several countries).</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T161524Z" creationid="VIP_PC" creationdate="20151104T161524Z">
@@ -15742,6 +15750,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151008T033523Z" creationid="Hx" creationdate="20151008T033523Z">
         <seg>Thiết lập hồ sơ tội phạm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>offending  behaviour&lt;t0/&gt; programmes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T132228Z" creationid="TranPhuc.envy" creationdate="20151116T132228Z">
+        <seg>Cách chương trình về hành vi phạm tội.</seg>
       </tuv>
     </tu>
     <tu>
