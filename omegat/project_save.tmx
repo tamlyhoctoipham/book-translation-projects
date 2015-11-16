@@ -8411,6 +8411,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall, there was an improvement across the training, but some of this could merely have been due to practice.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151116T184436Z" creationid="nguye" creationdate="20151116T184436Z">
+        <seg>Nói chung, có một sự tiến bộ qua việc huấn luyện, nhưng một vài thứ trong đó  vẫn chỉ phụ thuộc vào thực tế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overcrowding.</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151108T160238Z" creationid="yuko" creationdate="20151108T160238Z">
@@ -15666,6 +15674,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>describing&lt;t0/&gt; the cues that some research studies have found to indicate lying in some people.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151116T184307Z" creationid="nguye" creationdate="20151116T184307Z">
+        <seg>Miêu tả những dấu hiệu mà một số nghiên cứu đã tìm thấy rằng nó biểu thị nói dối ở một vài người.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>detecting&lt;t0/&gt; deception from &lt;t1/&gt;behavioural&lt;t2/&gt; cues.</seg>
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151010T085620Z" creationid="nguye" creationdate="20151010T085526Z">
@@ -15750,6 +15766,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151014T183900Z" creationid="VIP_PC" creationdate="20151014T183900Z">
         <seg>Lời khai nhân chứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>feedback&lt;t0/&gt; on how accurate were their lie detection decisions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151116T184331Z" creationid="nguye" creationdate="20151116T184331Z">
+        <seg>Phản hồi về độ chính xác của những quyết định phát hiện nói dối của họ.</seg>
       </tuv>
     </tu>
     <tu>
