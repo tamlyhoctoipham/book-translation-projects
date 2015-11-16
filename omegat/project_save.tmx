@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A few years ago in the USA one psychological experiment involved training half of a group of students in cues that a book for interrogators claimed were related to deception.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151116T183539Z" creationid="nguye" creationdate="20151116T183539Z">
+        <seg>Một vài năm trước ở Mỹ, một thí nghiệm tâm lý trong việc huấn luyện một nửa của một nhóm học sinh những dấu hiệu trong một cuốn sách dành cho những người thẩm vấn mà có liên quan tới nói dối </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few years later we conducted another analysis of real-life tape-recorded interviews with suspects.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151030T062416Z" creationid="USER" creationdate="20151030T062416Z">
@@ -11872,6 +11880,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155401Z" creationid="VIP_PC" creationdate="20151104T155401Z">
         <seg>Khía cạnh thứ ba có thể được hoàn thiện trong nghiên cứu tâm lý nhưng hai khía cạnh còn lại thì thường không thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The trained group were worse than the untrained group on a subsequent detection deception task!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151116T183640Z" creationid="nguye" creationdate="20151116T183640Z">
+        <seg>Nhóm được huấn luyện biểu hiện kém hơn nhóm không được huấn luyện trong những bài tập phát hiện nói dối.</seg>
       </tuv>
     </tu>
     <tu>
