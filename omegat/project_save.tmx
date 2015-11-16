@@ -3193,6 +3193,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if a male offender is in a bar and catches another male (a stranger) looking at them, it may be the case that the offender thinks that the other male is goading them or ‘offering them out’.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T134133Z" creationid="TranPhuc.envy" creationdate="20151116T134133Z">
+        <seg>Giả sử, một phạm nhân nam đang ở trong quán bar và bắt gặp một người đàn ông lạ đang nhìn mình, anh ta có thể cho rằng người đó đang trêu chọc hoặc thách thức và sẽ hành động theo cách mà anh ta luôn làm - tấn công..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if an offender has a low reading ability and would struggle to complete some of the exercises within a programme because of this, then the service provider should be responsive to this and provide additional support for this offender.</seg>
       </tuv>
       <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T131726Z" creationid="TranPhuc.envy" creationdate="20151116T131726Z">
@@ -3307,8 +3315,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>For example, offenders (generally speaking) tend to be rigid in the responses they choose in certain problem circumstances.</seg>
       </tuv>
-      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T133032Z" creationid="TranPhuc.envy" creationdate="20151116T133032Z">
-        <seg>.</seg>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T134114Z" creationid="TranPhuc.envy" creationdate="20151116T133032Z">
+        <seg>Lấy một ví dụ, phạm nhân (nói chung) thường lựa chọn cách phản ứng cứng nhắc trong những tình huống cụ thể.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4758,6 +4766,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T120349Z" creationid="USER" creationdate="20151008T165614Z">
         <seg>Nếu tên trộm không bộc lộ thái độ hung hăng hoặc nếu biểu hiện hung mãn đó không liên quan đến cách cư xử của hắn, rồi có một chương trình với mục đích chính sẽ không phải là trang bị cho tên trộm những kĩ năng cần thiết để ngừng trộm đồ trong nhà. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the offender had stopped to weigh up the situation, he may have found that the stranger was not actually staring at him but was eyeing up the attractive female behind him!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T134251Z" creationid="TranPhuc.envy" creationdate="20151116T134251Z">
+        <seg>Nếu phạm nhân dừng lại để cân nhắc tình huống, anh ta đã có thể nhận ra rằng người đó không nhìn anh ta mà là cô nàng quyến rũ phía sau ! </seg>
       </tuv>
     </tu>
     <tu>
@@ -11260,10 +11276,26 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The offender has, therefore, not only impulsively jumped to the wrong conclusion about why the man is looking in his direction, but has also stuck rigidly to his usual course of action for resolving such circumstances.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T134311Z" creationid="TranPhuc.envy" creationdate="20151116T134311Z">
+        <seg>Do đó, phạm nhân không chỉ hấp tấp đưa ra kết luận sai mà còn mắc kẹt với cách cư xử thông thường của mình đối với các tình huống như vậy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The offender’s home should therefore be located within the circle and also towards the centre of the circle.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151027T031214Z" creationid="Hx" creationdate="20151027T031214Z">
         <seg>Nhà của kẻ phạm tội, do đó, sẽ nằm trong vòng tròn và hướng về phía tâm của vòng tròn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The offender’s response may be to do what he always does when someone is acting that way towards him – he goes over and punches the other male.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T134157Z" creationid="TranPhuc.envy" creationdate="20151116T134157Z">
+        <seg>và sẽ hành động theo cách mà anh ta luôn làm  trong những tình hống như vậy - tấn công.</seg>
       </tuv>
     </tu>
     <tu>
