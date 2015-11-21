@@ -663,6 +663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Across geo- graphical locations and different client groups such as incarcerated juvenile delinquents, community-based youths and their families, juvenile gang members and adults, several promising findings have indicated the potential effectiveness of the ART programme.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154859Z" creationid="TranPhuc.envy" creationdate="20151121T154859Z">
+        <seg>Một số kết quả nghiên cứu đầy hứa hẹn ở nhiều nơi và đối với nhiều nhóm khách hàng khác nhau đã chỉ ra hiệu quả tiềm năng của chương trình ART.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actions or behaviour which are now acceptable within most Western cultures – for example homosexuality and abortion – were not in the past.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151024T162744Z" creationid="Lenovo" creationdate="20151007T151012Z">
@@ -1015,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anger control training does just that – it teaches offenders anger control techniques.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154544Z" creationid="TranPhuc.envy" creationdate="20151121T154544Z">
+        <seg>Huấn luyện kiểm soát giận dữ, đúng với tên gọi của nó, dạy cho phạm nhân cách kiểm soát sự tức giận. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anglo-American sentencers tend to be eclectic in their development and implementation of punishments.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151105T142205Z" creationid="Lenovo" creationdate="20151010T030320Z">
@@ -1259,6 +1275,14 @@
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151022T091238Z" creationid="PhuongThao" creationdate="20151022T091238Z">
         <seg>Tuy nhiên, như đã thảo luận ở chương về việc định hình và kết nối vụ án, có vẻ chúng ta vẫn thường rơi vào thói quen lặp lại hành vi, và nếu nói theo khuynh hướng này thì hành vi về ngôn ngữ cũng không khác gì mấy.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As ever, further research is needed to unpick the research findings in relation to the ART programme.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154932Z" creationid="TranPhuc.envy" creationdate="20151121T154932Z">
+        <seg>Như thường lệ, chúng ta cần tiếp tục nghiên cứu để phân tích các kết quả nghiên cứu liên quan đến chương trình này.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,8 +2330,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>Conclusions.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN" changedate="20151009T143050Z" creationid="ADMIN" creationdate="20151009T143050Z">
-        <seg>Kết luận.</seg>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T155000Z" creationid="ADMIN" creationdate="20151009T143050Z">
+        <seg>Kết luận</seg>
       </tuv>
     </tu>
     <tu>
@@ -2957,6 +2981,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151029T022752Z" creationid="Hx" creationdate="20151029T022752Z">
         <seg>Về bản chất, nghiên cứu đã chỉ ra rằng những hành vi thực hiện bởi một cá nhân sẽ thể hiện sự nhất quán lớn hơn so với những hành vi sinh ra bởi yếu tố môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluations have reported cognitive gains in line with the programme aims, as well as more behavioural outcomes such as reduced &lt;t0/&gt;re-arrest rates, reduced reconviction and enhanced community functioning.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154914Z" creationid="TranPhuc.envy" creationdate="20151121T154914Z">
+        <seg>Các đánh giá đã ghi nhận sự thay đổi về nhận thức phù hợp với các mục tiêu chương trình, cũng như các kết quả tích cực về hành vi như giảm tỷ lệ tái bắt giữ, tái phạm và tăng cường khả năng hoạt động cộng đồng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,6 +3958,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151027T125601Z" creationid="yuko" creationdate="20151027T125601Z">
         <seg>Đau buồn tội độ/mất người thân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have they changed at all in light of the contents of this chapter?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T155027Z" creationid="TranPhuc.envy" creationdate="20151121T155027Z">
+        <seg>Liệu các nội dung ở trên có thể thay đổi những quan điểm ấy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8443,6 +8483,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other research, however, has presented mixed results – for example, improvements in the cognitive functions that ART targets but no transference of these gains into behavioural change.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154925Z" creationid="TranPhuc.envy" creationdate="20151121T154925Z">
+        <seg>Tuy vậy, một số nghiên cứu đã cho thấy kết quả hỗn hợp hơn - ví dụ, có sự cải thiện về khả năng nhận thức theo mục tiêu của ART nhưng những cải thiện này không tác động đến thay đổi hành vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other similar studies may have been conducted in various countries but have not usually been published.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151027T043223Z" creationid="USER" creationdate="20151027T043223Z">
@@ -10564,6 +10612,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ART programme has been subject to a relatively large number of evaluation studies to test its effectiveness.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154730Z" creationid="TranPhuc.envy" creationdate="20151121T154730Z">
+        <seg>Các chương trình ART là đối tượng của một số lượng tương đối lớn các nghiên cứu nhằm đánh giá mức độ hiệu quả của nó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Aggression Replacement Training programme (ART) is similar in many respects to Think First – it provides specific cognitive behavioural exercises which aim to develop offenders’ thought processes and attitudes in relation to crime and criminal behaviour.</seg>
       </tuv>
       <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154039Z" creationid="TranPhuc.envy" creationdate="20151121T154039Z">
@@ -10756,6 +10812,30 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The aim of these dilemmas is to challenge the reasoning of those in attendance on the programme and to help them choose appropriate skills for the situations that they may find themselves in.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154708Z" creationid="TranPhuc.envy" creationdate="20151121T154708Z">
+        <seg>nhằm mục đích thử thách khả năng lập luận của những người tham dự và giúp họ chọn các kỹ năng thích hợp cho những tình huống mà họ có thể gặp phải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The aim of this chapter was to provide an overview of the ‘What Works’ debate and the current state of the field of offender rehabilitation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154956Z" creationid="TranPhuc.envy" creationdate="20151121T154956Z">
+        <seg>Mục đích của chương này là cung cấp một cái nhìn tổng quan về các tranh luận liên quan đến “What Works” và tình hình hiện tại của lĩnh vực cải tạo phạm nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The aim of this section of the programme is to provide offenders with alternative courses of action in situations where their anger would have previously resulted in violence and offending.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154549Z" creationid="TranPhuc.envy" creationdate="20151121T154549Z">
+        <seg>Mục đích của phần này là cung cấp cho phạm nhân những cách hành xử khác trong các tình huống mà trước đây sự tức giận của họ đã dẫn đến bạo lực và tội ác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The answer to this question is not entirely clear mainly because different people involved in offender profiling can, and do, use a variety of techniques in order to reach their conclusions.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151111T120621Z" creationid="USER" creationdate="20151111T120411Z">
@@ -10848,6 +10928,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151014T104122Z" creationid="MSI" creationdate="20151014T104122Z">
         <seg>Nội dung chương này cũng quan tâm đến cách thức các sĩ quan cảnh sát xử lý những nhiệm vụ được yêu cầu, quy trình tuyển chọn sĩ quan cảnh sát, đồng thời thảo luận về những mục tiêu của Chính phủ nhằm tạo ra một hình mẫu cảnh sát của cộng đồng.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The chapter started out by asking what your thoughts were about the rehabilitation of offenders.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T155021Z" creationid="TranPhuc.envy" creationdate="20151121T155021Z">
+        <seg>Mở đầu chương là những câu hỏi về quan điểm của người đọc đối với hoạt động cải tạo phạm nhân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11384,6 +11472,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151010T071722Z" creationid="dinhquy" creationdate="20151010T071722Z">
         <seg>Ông ấy gợi ý mô hình này nên được giảng những thứ phức tạp trong lớp học.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The moral reasoning section of the programme provides offenders with the chance to challenge their attitudes towards certain situations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154612Z" creationid="TranPhuc.envy" creationdate="20151121T154612Z">
+        <seg>Phần nội dung về lập luận đạo đức của chương trình cung cấp cho người phạm tội cơ hội để thử thách thái độ của họ đối với các tình huống nhất định.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13365,6 +13461,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This component addresses the emotions of offenders and how these relate to their ability to control (or not!) their anger.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154530Z" creationid="TranPhuc.envy" creationdate="20151121T154530Z">
+        <seg>Nội dung này xác định những cảm xúc của phạm nhân và sự liên quan của chúng đến khả năng kiểm soát (hoặc mất kiểm soát) cơn giận của họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This concept of ‘reason- able doubt’ has been explained to juries in different ways across different jurisdictions.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151010T073043Z" creationid="dinhquy" creationdate="20151010T073043Z">
@@ -14138,6 +14242,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151014T051522Z" creationid="Lenovo" creationdate="20151010T031444Z">
         <seg>Trong phần này chúng ta sẽ khám phá thái độ của con người về việc trừng phạt, điều gì sẽ xảy ra nếu chính quyền không xử phạt những người phạm pháp và liệu có phù hợp không khi luật pháp nằm trong tay của chính cộng đồng và họ sẽ trừng phạt những kẻ có tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section of the programme provides moral dilemmas which build in their complexity throughout the programme.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154716Z" creationid="TranPhuc.envy" creationdate="20151121T154716Z">
+        <seg>Nó đưa ra những tình huống khó xử về đạo đức với độ phức tạp không đổi trong suốt chương trình</seg>
       </tuv>
     </tu>
     <tu>
@@ -15411,6 +15523,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T031326Z" creationid="Hx" creationdate="20151015T030803Z">
         <seg>Khi giới truyền thông có xu hướng mô tả việc thiết lập hồ sơ tội phạm bản thân nó là một công việc, rất ít cá nhân, chí ít là trong phạm vi vương quốc anh, tiến hành lập hồ sơ tội phạm toàn thời gian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the other components are thought of as the behavioural and affective elements, the moral reasoning component is the thinking element.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154625Z" creationid="TranPhuc.envy" creationdate="20151121T154625Z">
+        <seg>Trong khi các phần khác liên quan đến yếu tố hành vi và tình cảm, lập luận đạo đức liên quan đến tư duy.</seg>
       </tuv>
     </tu>
     <tu>
