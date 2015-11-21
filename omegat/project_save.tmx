@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ART was originally designed by the late Professor Arnold Goldstein in the USA for use with juvenile offenders but has since spread geographically and is now delivered to offenders across North America as well as in countries such as the UK, the Netherlands and Sweden.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154247Z" creationid="TranPhuc.envy" creationdate="20151121T154247Z">
+        <seg>ART ban đầu được thiết kế bởi cố giáo sư Arnold Goldstein người Mỹ để áp dụng với người phạm tội vị thành niên nhưng hiện nay đã được phổ biến rộng rãi và được áp dụng cho phạm dụng trên khắp Bắc Mỹ cũng như ở các quốc gia như Anh, Hà Lan và Thụy Điển.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Academic criminal psychologists working in universities have also been conducting such research.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151105T144129Z" creationid="LHC" creationdate="20151011T151853Z">
@@ -675,6 +683,14 @@
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151109T144143Z" creationid="USER" creationdate="20151109T104808Z">
         <seg>Thống kê bảo hiểm: trong trường hợp này, cụm từ 'thống kê bảo hiểm' liên quan tới cách sử dụng kết quả thống kê để cung cấp thông tin cho một trường hợp nhất định.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally the contents of the programme, originally developed for work with children and adolescents, have also been adapted for use with adult and mentally disordered offenders.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154303Z" creationid="TranPhuc.envy" creationdate="20151121T154303Z">
+        <seg>Ngoài ra các nội dung của chương trình vốn được thiết kế để làm việc với trẻ em và thanh thiếu niên, cũng đã được điều chỉnh để sử dụng với phạm nhân trưởng thành hoặc bị rối loạn tâm. thần.</seg>
       </tuv>
     </tu>
     <tu>
@@ -987,6 +1003,14 @@
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151024T090931Z" creationid="Lenovo" creationdate="20151024T090931Z">
         <seg>Và cuối cùng là nó góp phần tạo nên cảm giác an toàn cho cá nhân hoặc tập thể .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anger control training constitutes the emotion-based branch of the programme.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154507Z" creationid="TranPhuc.envy" creationdate="20151121T154507Z">
+        <seg>Huấn luyện kiểm soát giận dữ liên quan đến các yếu tố cảm xúc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1343,6 +1367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the name would suggest, the ART programme is aimed at offenders who have displayed violent offending or aggression related problem behaviour.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154223Z" creationid="TranPhuc.envy" creationdate="20151121T154223Z">
+        <seg>Như tên gọi, đối tượng của chương trình ART là các phạm nhân có các hành vi phạm tội liên quan đến bạo lực và các hành vi gây rối có liên quan khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As we have seen over the last few pages, there has been a shift over the last ten to twenty years towards the use of offender rehabilitation within some criminal justice systems.</seg>
       </tuv>
       <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T131745Z" creationid="TranPhuc.envy" creationdate="20151116T131745Z">
@@ -1596,6 +1628,14 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151112T152718Z" creationid="yuko" creationdate="20151112T152718Z">
         <seg>Cánh đối phó tránh né, nghĩa là các chủ thể lờ đi những yếu tố khiến họ căng thẳng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on the understanding that offenders characteristically lack personal, interpersonal and social cognitive skills, the skill streaming element is designed to teach the offenders these skills and pro- vides the opportunity to practise and rehearse these skills.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154435Z" creationid="TranPhuc.envy" creationdate="20151121T154435Z">
+        <seg>Do phạm nhân thường thiếu các kỹ năng cá nhân, tương tác và xã hội, skillstreaming được thiết kế để dạy cho phạm nhân các kỹ năng này và cung cấp cho họ cơ hội để thực hành và luyện tập.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2837,6 +2877,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151011T145358Z" creationid="Admin" creationdate="20151008T013218Z">
         <seg>Nhiệm vụ hàng ngày thường là chờ đợi, hoặc di chuyển, hoặc nói chuyện với những người biểu tình trong khoảng thời gian dài, đôi lúc còn phải sử dụng vũ lực hay xô đẩy những người biểu tình ấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each group session comprises two of these components and these are rotated throughout the programme so that an equal amount of each component is received.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154342Z" creationid="TranPhuc.envy" creationdate="20151121T154342Z">
+        <seg>mỗi buổi làm việc nhóm gồm hai nội dung và chúng được quay vòng trong suốt chương trình để đảm bảo phạm nhân đều tham dự mỗi phần với thời lượng như nhau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9771,6 +9819,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skillstreaming is the behavioural part of the programme.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154419Z" creationid="TranPhuc.envy" creationdate="20151121T154419Z">
+        <seg>Skillstreaming là phần nội dung liên quan đến các yếu tố hành vi của chương trình.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoking can be conceptualized as problem behaviour in much the same way as criminal behaviour can.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T034916Z" creationid="USER" creationdate="20151010T034355Z">
@@ -10488,6 +10544,30 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T182137Z" creationid="Demon" creationdate="20151024T182045Z">
         <seg>Các chương được áp dụng trong các nhà tù ở Anh và xứ Wales và khu vực quản chế chỉ thích hợp cho những tội phạm có mức thông minh bình thường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ART programme consists of three component parts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154323Z" creationid="TranPhuc.envy" creationdate="20151121T154323Z">
+        <seg>Chương trình ART được hình thành từ ba nội dung, mỗi buổi làm việc nhóm gồm hai nội dung và chúng được quay vòng trong suốt chương trình để đảm bảo phạm nhân đều tham dự mỗi phần với thời lượng như nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ART programme differs from Think First and other general offending programmes in that it is an offence-specific programme – this means that it is targeted at a specific group of offenders.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154108Z" creationid="TranPhuc.envy" creationdate="20151121T154108Z">
+        <seg>Tuy nhiên, chương trình ART khác với Think First cũng như các chương trình cải tạo phạm nhân nói chung ở chỗ nó hướng đến một nhóm phạm nhân cụ thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Aggression Replacement Training programme (ART) is similar in many respects to Think First – it provides specific cognitive behavioural exercises which aim to develop offenders’ thought processes and attitudes in relation to crime and criminal behaviour.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154039Z" creationid="TranPhuc.envy" creationdate="20151121T154039Z">
+        <seg>Chương trình huấn luyện thay thế hành vi gây hấn (ART) có nhiều khía cạnh tương tự với Think First - nó cung cấp các bài tập về hành vi nhận thức cụ thể nhằm mục đích phát triển các quá trình tư duy và thái độ của phạm nhân liên quan đến tội ác và các hành vi phạm tội.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11604,6 +11684,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The provision of constructive feedback helps the offenders to transfer their learning into real-life situations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154444Z" creationid="TranPhuc.envy" creationdate="20151121T154444Z">
+        <seg>Việc cung cấp những phản hồi mang tính xây dựng sẽ giúp phạm nhân vận dụng những gì học được vào các tình huống thực tế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The psychological health of prisoners has been assessed by numerous researchers.</seg>
       </tuv>
       <tuv lang="VI" changeid="yuko" changedate="20151018T171906Z" creationid="yuko" creationdate="20151018T171906Z">
@@ -12000,6 +12088,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T155401Z" creationid="VIP_PC" creationdate="20151104T155401Z">
         <seg>Khía cạnh thứ ba có thể được hoàn thiện trong nghiên cứu tâm lý nhưng hai khía cạnh còn lại thì thường không thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The three components are skill- streaming, anger control training and moral reasoning training: each of these will now be explained in more detail.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154400Z" creationid="TranPhuc.envy" creationdate="20151121T154400Z">
+        <seg>Ba nội dung này bao gồm: skillstreaming (huấn luyện kỹ năng), huấn luyện kiểm soát giận dữ và huấn luyện lập luận đạo đức. Phần dưới đây sẽ giải thích chi tiết hơn về mỗi nội dung này.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14048,8 +14144,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>This section will present two examples of offending behaviour programmes.</seg>
       </tuv>
-      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T132250Z" creationid="TranPhuc.envy" creationdate="20151116T132250Z">
-        <seg>PHẦN NÀY SẼ GIỚI thiệu hai ví dụ về các chương trình điều chỉnh hành vi phạm tội.</seg>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154136Z" creationid="TranPhuc.envy" creationdate="20151116T132250Z">
+        <seg>Phần này sẽ giới thiệu hai ví dụ về các chương trình điều chỉnh hành vi phạm tội.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16268,8 +16364,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>think&lt;t0/&gt; first.</seg>
       </tuv>
-      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T132446Z" creationid="TranPhuc.envy" creationdate="20151116T132406Z">
-        <seg>think&lt;t0/&gt; first (nghĩ trước/ suy nghĩ thận trọng).</seg>
+      <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T154200Z" creationid="TranPhuc.envy" creationdate="20151116T132406Z">
+        <seg>Think&lt;t0/&gt; first (nghĩ trước/ suy nghĩ chín chắn).</seg>
       </tuv>
     </tu>
     <tu>
