@@ -2649,6 +2649,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dealing with deviant sexual preferences has been reduced as a component of treatment programmes, as not all &lt;t0/&gt;offenders  show&lt;t1/&gt; deviant fantasies when they are initially assessed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151122T150159Z" creationid="Lenovo" creationdate="20151122T150159Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the parameters involved, recognition of an unfamiliar voice may have a sufficient probability of accuracy that it could be of use in a police investigation.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151105T130814Z" creationid="ADMIN" creationdate="20151105T130725Z">
@@ -16022,6 +16030,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151029T070101Z" creationid="Admin" creationdate="20151029T053436Z">
         <seg>Phẩm chất của một cảnh sát?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aberrant&lt;t0/&gt; sexual preferences.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151122T150000Z" creationid="Lenovo" creationdate="20151122T150000Z">
+        <seg>Khuynh hướng tình dục khác thường.</seg>
       </tuv>
     </tu>
     <tu>
