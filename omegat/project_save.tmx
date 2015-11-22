@@ -12678,8 +12678,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>There has also been more recent research on the effectiveness of SSRIs (serotonin reuptake inhibitors), which has found that they give offenders a feeling of greater control over their sexual preferences.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Lenovo" changedate="20151122T154019Z" creationid="Lenovo" creationdate="20151122T154019Z">
-        <seg>.</seg>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151122T154240Z" creationid="Lenovo" creationdate="20151122T154019Z">
+        <seg>Cũng đã có nhiều nghiên cứu gần đây hơn về hiệu quả của SSRIs ( chất ức chế serotonin có chọn lọc), cái mà được phát hiện là tạo cho tội phạm cảm giác kiểm soát lớn hơn trong xu hướng tình dục của mình.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16518,6 +16518,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151103T045452Z" creationid="ADMIN" creationdate="20151103T045326Z">
         <seg>người ta thường có xu hướng dựa vào lời xác thực của nhân chứng nghe như đối với nhân chứng nhìn;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>planning&lt;t0/&gt; to prevent reoffending.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151122T154314Z" creationid="Lenovo" creationdate="20151122T154314Z">
+        <seg>Lập kế hoạch để ngăn chặn việc tái phạm.</seg>
       </tuv>
     </tu>
     <tu>
