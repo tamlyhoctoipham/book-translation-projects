@@ -2979,8 +2979,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Emotional support includes offering reassurance or providing a shoulder to cry on.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LHC" changedate="20151122T030258Z" creationid="LHC" creationdate="20151122T030258Z">
-        <seg>Hỗ trợ tinh thần bao gồm việc cam khích lệ để an lòng hay đơn giản chỉ là một bờ vai để dựa vào khi muốn khóc</seg>
+      <tuv lang="VI" changeid="LHC" changedate="20151122T030555Z" creationid="LHC" creationdate="20151122T030258Z">
+        <seg>Những hỗ trợ về tinh thần có thể thông qua việc bạn an ủi người khác để họ vững tâm hay làm chỗ dựa khi họ muốn khóc</seg>
       </tuv>
     </tu>
     <tu>
@@ -10095,6 +10095,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151026T231915Z" creationid="LHC" creationdate="20151014T144214Z">
         <seg>Mặt khác, đơn độc xã hội xảy ra khi bạn không còn là một phần viên tham gia vào mạng lưới xã hội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Social support can come from different sources including family, friends and intimate partners.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151122T030647Z" creationid="LHC" creationdate="20151122T030647Z">
+        <seg>Hỗ trợ xã hội có thể đến từ gia đình, bạn bè hay những người bạn tù.</seg>
       </tuv>
     </tu>
     <tu>
