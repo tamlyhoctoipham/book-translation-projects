@@ -2977,6 +2977,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emotional support includes offering reassurance or providing a shoulder to cry on.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151122T030258Z" creationid="LHC" creationdate="20151122T030258Z">
+        <seg>Hỗ trợ tinh thần bao gồm việc cam khích lệ để an lòng hay đơn giản chỉ là một bờ vai để dựa vào khi muốn khóc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Empathy is about being able to recognize distress and discomfort in others, to be able to understand the distress from the other person’s perspective and then to experience compassion for the other person.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T192741Z" creationid="Demon" creationdate="20151024T192741Z">
@@ -9877,8 +9885,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Sidney Cobb has defined social support as the receipt of information from others that one is cared for and valued.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LHC" changedate="20151122T025552Z" creationid="LHC" creationdate="20151122T025452Z">
-        <seg>Sidney Cobb đã định nghĩa sự hỗ trợ xã hội giống như hóa đơn từ người khác rằng bạn được quan tâm và có giá trị. </seg>
+      <tuv lang="VI" changeid="LHC" changedate="20151122T030340Z" creationid="LHC" creationdate="20151122T025452Z">
+        <seg>Sidney Cobb đã định nghĩa sự hỗ trợ xã hội giống như hóa đơn từ người khác chứng nhận rằng bạn được quan tâm và có giá trị. </seg>
       </tuv>
     </tu>
     <tu>
