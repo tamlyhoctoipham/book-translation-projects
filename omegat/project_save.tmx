@@ -1882,8 +1882,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>Both the Sex Offenders Register and the development of Multi-Agency Public Protection Arrangements (MAPPAs) were developed to manage offenders who are considered to be at high risk of harming others within the community (sex offenders and those committed for serious violent acts).</seg>
       </tuv>
-      <tuv lang="VI" changeid="Lenovo" changedate="20151124T160058Z" creationid="Lenovo" creationdate="20151124T160058Z">
-        <seg>Cả Danh sách tội phạm tình dục và Sắp xếp bảo vệ công chúng đa chi nhánh ( MAPPAs) đều được phát triển để quản lý tội phạm, những người bị coi là có khả năng làm hại những người khác trong cộng đồng cao ( những tội phạm tình dục và những người tham gia vào hành động bạo lực nghiêm trọng).</seg>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T161525Z" creationid="Lenovo" creationdate="20151124T160058Z">
+        <seg>Cả Danh sách tội phạm tình dục và Những sắp xếp bảo vệ công chúng đa chi nhánh ( MAPPAs) đều được phát triển để quản lý tội phạm, những người bị coi là có khả năng làm hại những người khác trong cộng đồng cao ( những tội phạm tình dục và những người tham gia vào hành động bạo lực nghiêm trọng).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5290,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In 2001 MAPPAs were set up to supervise violent, dangerous and sexual offenders within the community.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T161508Z" creationid="Lenovo" creationdate="20151124T161508Z">
+        <seg>Vào năm 2001, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 2002 the Government in England and Wales published an update of its 1992 (MOGP) guidance document.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151114T124854Z" creationid="ADMIN" creationdate="20151114T124854Z">
@@ -8135,6 +8143,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T153748Z" creationid="USER" creationdate="20151010T030522Z">
         <seg>Những người phạm tội có trình độ học vấn thấp hay có những vấn đề về công việc như bị sa thải hay những người thân của họ dính líu đến tội ác nào đó. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offenders must also inform the police if they intend to travel abroad, and the new law has also introduced Foreign Travel Orders, which means that some offenders will not be allowed to travel abroad if there is evidence that the offenders intend to cause harm to children under sixteen in another country.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T161313Z" creationid="Lenovo" creationdate="20151124T161313Z">
+        <seg>Tội phạm cũng phải thông báo cho cảnh sát nếu họ định ra nước ngoài, và luật mới cũng đã đưa ra trật tự du lịch nước ngoài, điều này có nghĩa là 1 số tội phạm sẽ không được cho phép đi ra nước ngoài nếu có bằng chứng cho thấy họ có ý định gây hại cho trẻ em dưới 16 tuổi ở quốc gia khác.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14866,6 +14882,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T161524Z" creationid="VIP_PC" creationdate="20151104T161524Z">
         <seg>Điều này trở nên đặc biệt hơn cả là khi trong những bức ảnh ấy, thực ra không có thủ phạm (trừ những người trông giống thủ phạm theo như quy tắc của cảnh sát ở một số quốc gia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This should help in reducing the impact to other countries of sex tourism, where offenders go with the intention of having sex with children.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T161428Z" creationid="Lenovo" creationdate="20151124T161428Z">
+        <seg>Điều này giúp giảm tác động lên những quốc gia khác về du lịch tình dục, nơi mà tội phạm đến với ý định quan hệ tình dục với trẻ em.</seg>
       </tuv>
     </tu>
     <tu>
