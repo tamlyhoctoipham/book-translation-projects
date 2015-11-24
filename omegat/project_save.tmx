@@ -8115,6 +8115,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Offenders have to notify the police of their details, including name, address and National Insurance number, within three days of leaving prison or moving home (previously this was fourteen days).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T160756Z" creationid="Lenovo" creationdate="20151124T160756Z">
+        <seg>Tội phạm phải thông báo cho cảnh sát về thông tin của mình, bao gồm tên, địa chỉ và số an sinh xã hội, trong vòng 3 ngày kể từ khi ra tù hoặc chuyển nhà ( trước đây là 14 ngày).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offenders may have low levels of educational ability or have problems getting and holding onto employment, or it may be that their associates (family and friends) are involved in crime.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T153748Z" creationid="USER" creationdate="20151010T030522Z">
@@ -10229,8 +10237,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Since the Sexual Offences Act 2003, which came into force in May 2004, the requirements of registration have been tightened.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Lenovo" changedate="20151124T160329Z" creationid="Lenovo" creationdate="20151124T160329Z">
-        <seg>.</seg>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T160630Z" creationid="Lenovo" creationdate="20151124T160329Z">
+        <seg>Từ khi Luật vi phạm tình dục năm 2003 được đưa vào thực thi tháng Năm năm 2014, những yêu cầu của việc đăng ký đã được thắt chặt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12136,6 +12144,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151027T145939Z" creationid="USER" creationdate="20151027T142958Z">
         <seg>Cảnh sát phụ trách chất vấn nói với anh ta rằng: 'Tôi đặt cô bé ngồi vào lòng mình'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The police may also take photographs of the offenders and their fingerprints.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T160832Z" creationid="Lenovo" creationdate="20151124T160832Z">
+        <seg>Cảnh sát cũng có thể chụp ảnh tội phạm và dấu vân tay của họ.</seg>
       </tuv>
     </tu>
     <tu>
