@@ -5292,8 +5292,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>In 2001 MAPPAs were set up to supervise violent, dangerous and sexual offenders within the community.</seg>
       </tuv>
-      <tuv lang="VI" changeid="Lenovo" changedate="20151124T161508Z" creationid="Lenovo" creationdate="20151124T161508Z">
-        <seg>Vào năm 2001, .</seg>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T161609Z" creationid="Lenovo" creationdate="20151124T161508Z">
+        <seg>Vào năm 2001, Những sắp xếp bảo vệ công chúng đa chi nhánh đã được thành lập để giám sát những tội phạm tình dục nguy hiểm và bạo lực trong cộng đồng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12144,6 +12144,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151112T114041Z" creationid="USER" creationdate="20151112T114041Z">
         <seg>Cảnh sát cũng cần lời khuyên về cách tốt nhất để tiếp cận đứa bé mà không gây chấn thương tâm lý cậu ấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The police and probation service will manage sex offenders if they are required to register with the police or have had a prison sentence of longer than a year.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151124T161752Z" creationid="Lenovo" creationdate="20151124T161752Z">
+        <seg>Cảnh sát và cơ quan giám sát phạm nhân sẽ quản lý những tội phạm tình dục nếu họ bị yêu cầu ghi tên với cảnh sát và có án tù lâu hơn 1 năm.</seg>
       </tuv>
     </tu>
     <tu>
