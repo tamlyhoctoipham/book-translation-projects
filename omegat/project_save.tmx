@@ -7179,6 +7179,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports multiagency projects (this includes organizations which work with children such as the police, social services, health and voluntary organizations) and tries to raise awareness of the nature of abuse, change attitudes towards abuse so that people are more willing to talk about it, and change the behaviour of abusers and potential abusers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151128T154132Z" creationid="Lenovo" creationdate="20151128T154132Z">
+        <seg>Nó ủng hộ những dự án đa chi nhánh ( bao gồm các tổ chức làm việc với trẻ em ví dụ như cảnh sát, dịch vụ xã hội, tỏ chức sức khỏe và tình nguyện) và cố gắng nâng cao nhận thức về bản chất của việc bạo hành, thay đổi thái độ về việc bạo hành để mọi người sẵn sàng nói về nó hơn và thay đổi hành vi của những kẻ lạm dụng và những kẻ có nguy cơ lạm dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It therefore aims to address offenders’ attitudes and underlying thought processes that contribute to offending behaviour.</seg>
       </tuv>
       <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151121T160509Z" creationid="TranPhuc.envy" creationdate="20151121T160501Z">
@@ -11488,6 +11496,22 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151009T115656Z" creationid="USER" creationdate="20151008T052324Z">
         <seg>Vì thế, những chương trình điều trị dựa trên một số nghiên cứu nhỏ nên ngừng thực hiện sớm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The campaign is aimed at adults who have abused or are thinking about abusing.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151128T154218Z" creationid="Lenovo" creationdate="20151128T154218Z">
+        <seg>Chiến dịch này hướng tới những người trưởng thành đã từng lạm dụng hoặc nghĩ đến chuyện lạm dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The campaign will offer support and advice for potential offenders and to help them change their</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151128T154332Z" creationid="Lenovo" creationdate="20151128T154315Z">
+        <seg>Chiến dịch này đưa ra sự ủng hộ và lời khuyên cho những tội phạm tiềm năng và giúp thay đổi </seg>
       </tuv>
     </tu>
     <tu>
@@ -16790,6 +16814,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151010T030911Z" creationid="Lenovo" creationdate="20151010T030911Z">
         <seg>Thái độ và niềm tin vào việc trừng phạt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>behaviour&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Lenovo" changedate="20151128T154324Z" creationid="Lenovo" creationdate="20151128T154324Z">
+        <seg>hành vi của họ&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
