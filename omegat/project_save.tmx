@@ -16954,6 +16954,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>detecting&lt;t0/&gt; deception from speech content.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151128T182012Z" creationid="TOSHIBA" creationdate="20151128T182012Z">
+        <seg>Phát hiện&lt;t0/&gt; deception from speech content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>detecting&lt;t0/&gt; deception.</seg>
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151010T085457Z" creationid="nguye" creationdate="20151010T085457Z">
