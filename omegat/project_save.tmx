@@ -1752,6 +1752,14 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because ground truth is so difficult to assess in real-life investigations, the majority of the published studies that have tried to assess the effectiveness of the polygraph in criminal investigations have had to employ ‘mock’ crime scenarios.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T064453Z" creationid="ADMIN1" creationdate="20151130T064453Z">
+        <seg>Vì </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because male and female prisoners are held separately, imprisonment also results in the loss of heterosexual relationships.</seg>
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151025T033525Z" creationid="LHC" creationdate="20151011T162401Z">
@@ -8191,6 +8199,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="SONY" changedate="20151111T151353Z" creationid="SONY" creationdate="20151111T151246Z">
         <seg>Tại những quốc gia vẫn còn duy trì án tử hình, số lượng những vụ hành quyết trong năm 2004 được xếp theo thử tự giảm dần, từ Trung Quốc, Iran, Việt Nam, Mỹ và Các nước Ả-rập Xê-út (Amnesty International, 2005).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, if there is such rock-solid evidence, a poly- graph lie-detection test may well be superfluous.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T064419Z" creationid="ADMIN1" creationdate="20151130T064419Z">
+        <seg>Tất nhiên, nếu có được các bằng chứng xác thực thì một bài kiểm tra bằng máy phát hiện nói dối là không cần thiết.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15891,6 +15907,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151105T131102Z" creationid="ADMIN" creationdate="20151105T131039Z">
         <seg>Tuy nhiên, trừ khi có thêm nhiều nghiên cứu có giá trị cho kết quả ngược lại thì bằng chứng nghe vấn rất dễ bị lỗi và vì thế, không trường hợp nào nên bị khởi tố khi chỉ dựa vào sự xác thực một giọng nói xa lạ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless there is rock-solid evidence that the person being tested is lying or truth- telling, the validity of the polygraph procedure cannot be properly assessed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T064342Z" creationid="ADMIN1" creationdate="20151130T064342Z">
+        <seg>Trừ khi có những bằng chứng xác thực rằng người bị kiểm tra đang nói dối hay nói thật, còn không thì không thể đánh giá chính xác tính hợp lệ của kết quả từ máy phát hiện nói dối.</seg>
       </tuv>
     </tu>
     <tu>
