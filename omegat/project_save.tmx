@@ -3713,6 +3713,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the polygraph examiner may show a murder suspect several types of handgun, one of which is identical to the one used in the shooting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T045730Z" creationid="ADMIN1" creationdate="20151130T045730Z">
+        <seg>Ví dụ, người kiểm tra có thể đưa cho nghi phạm xem các loại súng ngắn khác nhau, một trong số đó được nhận diện là vũ khí đã sử dụng tại hiện trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the relevant-irrelevant technique which compares physiological reactions to questions relevant to the crime with those not relevant.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN1" changedate="20151130T041453Z" creationid="ADMIN1" creationdate="20151130T041453Z">
@@ -12936,6 +12944,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151122T024959Z" creationid="LHC" creationdate="20151122T024959Z">
         <seg>Sự giúp đỡ chúng ta nhận được từ người khác gọi là giúp đỡ xã hội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suspect will be asked separately for each gun whether he or she recognizes it (or have ever touched it).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T045847Z" creationid="ADMIN1" creationdate="20151130T045847Z">
+        <seg>Nghi phạm sẽ bị hỏi lần lượt từng loại súng xem anh ta hoặc cô ta có nhận ra nó không (hay có từng chạm vào nó không).</seg>
       </tuv>
     </tu>
     <tu>
