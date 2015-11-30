@@ -551,6 +551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A recent review of the possible effectiveness of the polygraph in mock crimes in the laboratory settings was provided by Professor Charles &lt;t0/&gt;Honts&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T071016Z" creationid="ADMIN1" creationdate="20151130T070849Z">
+        <seg>Một đánh giá gần đây về hiệu quả khả quan của máy phát hiện nói dối trong các kịch bản giả định phạm tội đã được Giáo sư Charles đưa ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A seminal experiment conducted in Scotland illustrates this well.</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T161711Z" creationid="VIP_PC" creationdate="20151104T161711Z">
