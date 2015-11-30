@@ -14789,6 +14789,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is probably why the CQT (for more on this see below) is not that good at correctly classifying innocent persons.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T044534Z" creationid="ADMIN1" creationdate="20151130T044534Z">
+        <seg>Đây có lẽ là lý do phương pháp CQT (xem phía dưới để biết thêm thông tin) không hiệu quả trong việc xác định đúng người vô tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is so even when the available information indicating this to be so is poor or weak.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151031T165036Z" creationid="USER" creationdate="20151021T031135Z">
