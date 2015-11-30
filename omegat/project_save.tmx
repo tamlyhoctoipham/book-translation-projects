@@ -10803,6 +10803,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some countries are believed to employ polygraph testing to help determine who within, or wishing to join, their security services is a threat (e.g. a spy or a terrorist).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T101445Z" creationid="ADMIN1" creationdate="20151130T101445Z">
+        <seg>Một vài quốc gia tin rằng việc áp dụng kiểm tra với máy phát hiện nói dối có thể giúp họ xác định người nào đang hoặc mong muốn tham gia vào lực lượng an ninh đất nước họ là một mối nguy (một tên gián điệp hoặc khủng bố).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some countries have also taken steps designed to improve the interviewing of witnesses, especially (&lt;t0/&gt;i&lt;t1/&gt;) those who may have been victims of serious crimes such as sexual abuse and (ii) those who need most help to remember accurately (e.g. children and vulnerable adults).</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151114T025210Z" creationid="ADMIN" creationdate="20151111T105811Z">
@@ -17868,8 +17876,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>use&lt;t0/&gt; of the polygraph in security screening.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T100717Z" creationid="ADMIN1" creationdate="20151130T100717Z">
-        <seg>sử dụng máy phát hiện nói dối trong soi chiếu an ninh.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T101450Z" creationid="ADMIN1" creationdate="20151130T100717Z">
+        <seg>sử dụng máy phát hiện nói dối trong kiểm tra an ninh.</seg>
       </tuv>
     </tu>
     <tu>
