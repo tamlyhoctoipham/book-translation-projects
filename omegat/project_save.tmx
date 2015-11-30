@@ -841,8 +841,8 @@
       <tuv lang="EN-US">
         <seg>Also, innocent people taking a polygraph test would be aware that if reliable information sup- porting their innocence were available, they would not need to take a polygraph test.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T043547Z" creationid="ADMIN1" creationdate="20151130T043547Z">
-        <seg>Thêm nữa, người vô tội </seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T044048Z" creationid="ADMIN1" creationdate="20151130T043547Z">
+        <seg>Thêm nữa, người vô tội sẽ nhận ra rằng nếu có các thông tin đáng tin cậy chứng minh cho sự vô tội của họ thì họ đã không phải tham gia kiểm tra phát hiện nói dối.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13488,6 +13488,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="SONY" changedate="20151115T044918Z" creationid="SONY" creationdate="20151115T044918Z">
         <seg>Vì vậy, tù giam nên dành cho những loại tội phạm tồi tệ nhất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, they know that it is difficult to prove their innocence and thus they are very concerned about the crime-relevant questions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T044032Z" creationid="ADMIN1" creationdate="20151130T043907Z">
+        <seg>Bởi thế, họ biết </seg>
       </tuv>
     </tu>
     <tu>
