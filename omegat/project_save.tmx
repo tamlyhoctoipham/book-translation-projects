@@ -4164,8 +4164,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>Ground truth involves knowing (independently, of course, of the polygraph testing procedure) whether the person being tested is lying or not.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T063534Z" creationid="ADMIN1" creationdate="20151130T063534Z">
-        <seg>Thực địa gồm các hiểu biết (tất nhiên là không lên quan tới kết quả quá trình kiểm tra phát hiện nói dối) liệu người đang bị kiểm tra có nói dối hay không.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T070001Z" creationid="ADMIN1" creationdate="20151130T063534Z">
+        <seg>Thông tin thực địa gồm các hiểu biết (tất nhiên là không lên quan tới kết quả quá trình kiểm tra phát hiện nói dối) liệu người đang bị kiểm tra có nói dối hay không.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7949,8 +7949,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Most of the published research on the accuracy of use of the polygraph to detect deception has been focused on the criminal setting, but the vast majority of this research has not involved real crimes or real criminals.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T064545Z" creationid="ADMIN1" creationdate="20151130T062926Z">
-        <seg>Hầu hết các nghiên cứu đã công bố về tính chính xác của việc sử dụng máy móc trong điều tra phát hiện nói dối tập trung vào khuôn mẫu tội phạm, nhưng phần lớn trong số này không bao gồm các tội ác hay tội phạm thực. </seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T065827Z" creationid="ADMIN1" creationdate="20151130T062926Z">
+        <seg>Hầu hết các nghiên cứu đã công bố về tính chính xác của việc sử dụng máy móc trong điều tra phát hiện nói dối tập trung vào khuôn mẫu tội phạm, mà không bao gồm các tội ác hay tội phạm thực. </seg>
       </tuv>
     </tu>
     <tu>
