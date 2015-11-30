@@ -5626,6 +5626,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a few countries some non- security organizations still, probably mistakenly, use polygraph testing to select employees even though after a review of the relevant research and human rights arguments the government of the USA in 1988 brought in the Polygraph Protection Act which prohibits the use of polygraph testing for employee selection (except by some government security agencies and in some strategic industries such as nuclear power).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T111741Z" creationid="ADMIN1" creationdate="20151130T111741Z">
+        <seg>Ở một vài quốc gia, một số tổ chức phi quân sự vẫn, tất nhiên là vô ý, sử dụng máy phát hiện nói dối để</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a recent evaluation of community-based offending behaviour programmes carried out by the Universities of Leicester and Liverpool in the UK, those offenders who failed to complete programmes and those who failed even to start the programmes were the very people who are judged by the risk principle to be in greater need of treatment.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151010T153603Z" creationid="USER" creationdate="20151009T110637Z">
@@ -10821,8 +10829,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Some countries are believed to employ polygraph testing to help determine who within, or wishing to join, their security services is a threat (e.g. a spy or a terrorist).</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T101445Z" creationid="ADMIN1" creationdate="20151130T101445Z">
-        <seg>Một vài quốc gia tin rằng việc áp dụng kiểm tra với máy phát hiện nói dối có thể giúp họ xác định người nào đang hoặc mong muốn tham gia vào lực lượng an ninh đất nước họ là một mối nguy (một tên gián điệp hoặc khủng bố).</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T111751Z" creationid="ADMIN1" creationdate="20151130T101445Z">
+        <seg>Một vài quốc gia tin rằng việc áp dụng kiểm tra với máy phát hiện nói dối có thể giúp họ xác định người nào đang hoặc mong muốn tham gia vào lực lượng quân sự là một mối nguy (một tên gián điệp hoặc khủng bố).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14168,6 +14176,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151028T145803Z" creationid="Hx" creationdate="20151028T145321Z">
         <seg>Họ phản bác rằng những hồ sơ được tạo lập bởi những nhà lập hồ sơ lâm sàng có thể khác nhau do tính cá nhân trong kinh nghiệm của người lập hồ sơ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They do this by testing a large number of people among whom few, if any, are a serious threat.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T112106Z" creationid="ADMIN1" creationdate="20151130T112106Z">
+        <seg>Họ thực hiện bằng cách kiểm tra một lượng lớn người mà trong đó tiềm ẩn các thành phần gây nguy hiểm nghiêm trọng.</seg>
       </tuv>
     </tu>
     <tu>
