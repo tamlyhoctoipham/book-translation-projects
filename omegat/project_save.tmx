@@ -17330,6 +17330,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>laboratory&lt;t0/&gt; studies.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T072106Z" creationid="ADMIN1" creationdate="20151130T072106Z">
+        <seg>Nghiên cứu trong phòng thí nghiệm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>legal&lt;t0/&gt; language reform.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151012T131407Z" creationid="dinhquy" creationdate="20151012T131407Z">
