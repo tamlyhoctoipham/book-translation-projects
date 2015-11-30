@@ -3835,8 +3835,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>For example, the relevant-irrelevant technique which compares physiological reactions to questions relevant to the crime with those not relevant.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T050419Z" creationid="ADMIN1" creationdate="20151130T041453Z">
-        <seg>Lấy ví dụ, phương pháp có và không so sánh các phản ứng sinh lý trước các câu hỏi liên quan và không liên quan tới tội ác.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T125646Z" creationid="ADMIN1" creationdate="20151130T041453Z">
+        <seg>Lấy ví dụ, phương pháp liên quan-không liên quan (relevant-irrelevant technique) so sánh các phản ứng sinh lý trước các câu hỏi liên quan và không liên quan tới tội ác.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11504,6 +11504,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151028T114113Z" creationid="USER" creationdate="20151028T113502Z">
         <seg>Đạo luật năm 1984 gây ra những chiến thuật tâm lý không phù hợp ít dùng và cũng không cung cấp cho cảnh sát những thủ tục thay thế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 2004 BPS report said, ‘We must not deceive ourselves into thinking that there will ever be an error-free way of detecting deception’ (p.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T125548Z" creationid="ADMIN1" creationdate="20151130T125548Z">
+        <seg>Báo cáo của BPS năm 2004 nói 'Chúng ta không nên tự lừa dối rằng sẽ có một cách thức phát hiện dối trá không mang một sai số nào.</seg>
       </tuv>
     </tu>
     <tu>
