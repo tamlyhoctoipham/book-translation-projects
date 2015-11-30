@@ -6100,8 +6100,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>In real life (e.g. in police investigations) it is extremely difficult to be certain what took place during a crime and who was involved.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T063623Z" creationid="ADMIN1" creationdate="20151130T063623Z">
-        <seg>Trong thực tế (như các cuộc điều tra của cảnh sát) cực kỳ khó để xác định chắc chắn những việc đã diễn ra trong quá trình phạm tội và những kẻ liên quan.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T125911Z" creationid="ADMIN1" creationdate="20151130T063623Z">
+        <seg>Trong thực tế (như các cuộc điều tra của cảnh sát) cực kỳ khó để xác định chắc chắn những việc đã diễn ra trong quá trình phạm tội và những bên liên quan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8397,8 +8397,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Of course, if there is such rock-solid evidence, a poly- graph lie-detection test may well be superfluous.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T064936Z" creationid="ADMIN1" creationdate="20151130T064419Z">
-        <seg>Tất nhiên, nếu có được các bằng chứng xác thực thì đã chẳng cần tới một bài kiểm tra với máy phát hiện nói dối.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T125940Z" creationid="ADMIN1" creationdate="20151130T064419Z">
+        <seg>Tất nhiên, nếu có được các bằng chứng xác thực thì đã chẳng cần tới một bài kiểm tra phát hiện nói dối.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11518,8 +11518,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The 2004 report of the British Psychological Society (BPS) overviewed previously published reviews of such field studies, noting that determining ground truth via confessions (for example) is problematic because such confessions may have been, in part, affected by polygraph outcomes (e.g. a guilty person who passes the test may decide not to confess).</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T080825Z" creationid="ADMIN1" creationdate="20151130T080825Z">
-        <seg>Báo cáo của Cộng đồng các nhà tâm lý Anh (British Psychological Society - BPS) năm 2004 tóm gọn các đánh giá trước đó về nghiên cứu hiện trường, chỉ ra rằng rất khó để xác định bằng chứng thực địa thông qua tự thú (là một ví dụ) bởi những lời thú nhận này có thể, ít hoặc nhiều, bị ảnh hưởng bởi kết quả của máy phát hiện nói dối (ví dụ như một kẻ có tội nếu vượt qua kiểm tra có thể quyết định không tự thú).</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T130134Z" creationid="ADMIN1" creationdate="20151130T080825Z">
+        <seg>Báo cáo của Cộng đồng Tâm lý học Anh (British Psychological Society - BPS) năm 2004 tóm gọn các đánh giá trước đó về nghiên cứu hiện trường, chỉ ra rằng rất khó để xác định tính xác thực của lời tự thú (là một ví dụ) bởi những thú nhận này có thể, ít hoặc nhiều, bị ảnh hưởng bởi kết quả của máy phát hiện nói dối (ví dụ như một kẻ có tội nếu vượt qua kiểm tra có thể quyết định không tự thú).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11574,8 +11574,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The BPS report (2004) noted on page 15 that ‘There is reasonable agreement between the reviews regarding guilty suspects.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T093054Z" creationid="ADMIN1" creationdate="20151130T081934Z">
-        <seg>Báo cáo của BPS (2004) ghi trong trang 15 rằng 'Có sự đồng nhất hợp lý giữa các đánh giá liên quan tới các nghi phạm có tội'.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T130144Z" creationid="ADMIN1" creationdate="20151130T081934Z">
+        <seg>Báo cáo của BPS (2004) ghi trong trang 15 rằng 'Có sự đồng nhất hợp lý giữa các đánh giá liên quan tới nghi phạm có tội'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11622,8 +11622,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The Control Question Test (CQT) compares reactions to questions about the topic being investigated with reactions to questions that are thought to be arousing and that both guilty and innocent people will lie to.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092546Z" creationid="ADMIN1" creationdate="20151130T042039Z">
-        <seg>Bài kiểm tra khả năng kiểm soát (Control Question Test - CQT) so sánh phản ứng trước những câu hỏi về các vấn đề đang được điều tra với phản ước trước các câu hỏi được cho là kích thích và cả người vô tội và người có tội đều có xu hướng gian dối.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T125846Z" creationid="ADMIN1" creationdate="20151130T042039Z">
+        <seg>Bài kiểm tra khả năng kiểm soát (Control Question Test - CQT) so sánh phản ứng trước những câu hỏi về các vấn đề đang được điều tra với phản ước trước các câu hỏi được cho là mang tính kích thích và cả người vô tội và người có tội đều có xu hướng gian dối.</seg>
       </tuv>
     </tu>
     <tu>
