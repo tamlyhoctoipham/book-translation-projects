@@ -11430,8 +11430,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The Control Question Test (CQT) compares reactions to questions about the topic being investigated with reactions to questions that are thought to be arousing and that both guilty and innocent people will lie to.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T042039Z" creationid="ADMIN1" creationdate="20151130T042039Z">
-        <seg>Bài kiểm tra khả năng kiểm soát (the Control Question Test - CQT) so sánh phản ứng trước những câu hỏi về các vấn đề đang được điều tra với phản ước trước các câu hỏi được cho là kích thích sự gian dối của cả người có tội và vô tội.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092338Z" creationid="ADMIN1" creationdate="20151130T042039Z">
+        <seg>Bài kiểm tra khả năng kiểm soát (the Control Question Test - CQT) so sánh phản ứng trước những câu hỏi về các vấn đề đang được điều tra với phản ước trước các câu hỏi được cho là kích thích và cả người vô tội và người có tội đều có xu hướng gian dối.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15730,6 +15730,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151018T082015Z" creationid="ADMIN" creationdate="20151018T082015Z">
         <seg>Do vậy, việc các nhà tâm lý tội phạm nghiên cứu về vấn đề nhận dạng giọng nói là rất quan trọng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, as with laboratory mock studies using the CQT, while the error rate for incorrectly classifying guilty people is low, that for incorrectly classifying innocent people (i.e. as liars) is higher.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092206Z" creationid="ADMIN1" creationdate="20151130T092206Z">
+        <seg>Như vậy, với các nghiên cứu mô phỏng trong điều kiện thí nghiệm sử dụng phương pháp CQT, trong khi tỉ lệ xác định sai người có tội thấp thì tỉ lệ xác định sai người vô tội (như trong trường hợp những người nói dối) cao hơn.</seg>
       </tuv>
     </tu>
     <tu>
