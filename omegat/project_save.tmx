@@ -3723,8 +3723,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>For example, the relevant-irrelevant technique which compares physiological reactions to questions relevant to the crime with those not relevant.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T041453Z" creationid="ADMIN1" creationdate="20151130T041453Z">
-        <seg>Lấy ví dụ, phương pháp có và không so sánh các phản ứng tâm lý trước các câu hỏi liên quan và không liên quan tới tội ác.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T050419Z" creationid="ADMIN1" creationdate="20151130T041453Z">
+        <seg>Lấy ví dụ, phương pháp có và không so sánh các phản ứng sinh lý trước các câu hỏi liên quan và không liên quan tới tội ác.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8669,8 +8669,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>One of the major problems with this technique was that some innocent people (e.g. a loving husband) reacted strongest to relevant questions (e.g. ‘&lt;t0/&gt;Did&lt;t1/&gt; you murder your wife?’).</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T041721Z" creationid="ADMIN1" creationdate="20151130T041541Z">
-        <seg>Một trong những vấn đề của phương pháp này là một số người vô tội (như một người chồng si tình) phản ứng quá mạnh với các câu hỏi liên quan (Ví dụ: Anh đã giết vợ mình phải không?).</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T050445Z" creationid="ADMIN1" creationdate="20151130T041541Z">
+        <seg>Một trong những vấn đề của phương pháp này là một số người vô tội (như một người chồng si tình) phản ứng mạnh nhất với các câu hỏi liên quan (Ví dụ: Anh đã giết vợ mình phải không?).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15073,6 +15073,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="ADMIN1" changedate="20151130T043024Z" creationid="ADMIN1" creationdate="20151130T043024Z">
         <seg>Phương pháp này dựa trên giả định rằng đối với người vô tội thì loại câu hỏi thứ hai sẽ tạo nên các phản ứng mạnh mẽ hơn còn đối với kẻ có tội (người có xu hướng nói dối trước mọi câu hỏi) thì loại câu hỏi đầu tiên sẽ gây ra các phản ứng rõ rệt hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This procedure is based on the assumption that the &lt;t0/&gt;polygraphic&lt;t1/&gt; reactions for guilty persons will be greater for the gun used in the shooting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T050353Z" creationid="ADMIN1" creationdate="20151130T050353Z">
+        <seg>Phương pháp này dựa trên giả định rằng </seg>
       </tuv>
     </tu>
     <tu>
