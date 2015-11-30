@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>(The review with the lowest rate of incorrect classifications of innocent suspects had the highest ‘inconclusive’ rate of twenty-nine per cent).</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T083816Z" creationid="ADMIN1" creationdate="20151130T083816Z">
-        <seg>(Đánh giá có tỉ lệ xác định sai các nghi phạm vô tội thấp nhất có tỉ lệ 'không kết luận' cao nhất vào khoảng 29%)</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T130320Z" creationid="ADMIN1" creationdate="20151130T083816Z">
+        <seg>(Đánh giá có tỉ lệ xác định sai các nghi phạm vô tội thấp nhất có tỉ lệ 'không xác định' cao nhất vào khoảng 29%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2603,8 +2603,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Correct classifications were made in 83 per cent to 89 per cent of the cases, whereas incorrect decisions (classifying a guilty suspect as innocent) were made in 10 per cent to 17 per cent of the cases.’ However, with regard to innocent suspects the report noted that these ‘are less encouraging.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T093118Z" creationid="ADMIN1" creationdate="20151130T082848Z">
-        <seg>Tỉ lệ xác định chính xác trong khoảng 83 tới 89% tổng số vụ, trong khi tỉ lệ kết luận sai (xác định một nghi phạm có tội là vô tội) vào khoảng 10 đến 17% tổng số vụ'. Tuy nhiên, về các nghi phạm vô tội thì báo cáo ghi rằng các trường hợp này 'kém tin cậy hơn.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T130231Z" creationid="ADMIN1" creationdate="20151130T082848Z">
+        <seg>Tỉ lệ xác định chính xác nằm trong khoảng 83 tới 89% tổng số vụ, trong khi tỉ lệ kết luận sai (xác định một nghi phạm có tội là vô tội) vào khoảng 10 đến 17% tổng số vụ'. Tuy nhiên, về các nghi phạm vô tội thì báo cáo ghi rằng các trường hợp này 'kém tin cậy hơn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15399,8 +15399,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>This mirrors the outcomes of laboratory/ mock studies using the GKT.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T093558Z" creationid="ADMIN1" creationdate="20151130T093558Z">
-        <seg>Điều này phản ánh kết quả của các nghiên cứu trong phòng thí nghiệm hay nghiên cứu mô phỏng sử dụng phương pháp GKT</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T130458Z" creationid="ADMIN1" creationdate="20151130T093558Z">
+        <seg>Điều này phản ánh kết quả của các nghiên cứu trong phòng thí nghiệm hay nghiên cứu mô phỏng sử dụng phương pháp GKT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15992,8 +15992,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>Thus, as with laboratory mock studies using the CQT, while the error rate for incorrectly classifying guilty people is low, that for incorrectly classifying innocent people (i.e. as liars) is higher.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T094027Z" creationid="ADMIN1" creationdate="20151130T092206Z">
-        <seg>Như vậy, với các nghiên cứu mô phỏng trong điều kiện thí nghiệm sử dụng phương pháp CQT, trong khi sai số trong xác định sai người có tội thấp thì sai số trong xác định sai người vô tội (như trong trường hợp những người nói dối) cao hơn.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T130356Z" creationid="ADMIN1" creationdate="20151130T092206Z">
+        <seg>Như vậy, với các nghiên cứu mô phỏng trong điều kiện thí nghiệm sử dụng phương pháp CQT, sai số trong xác định sai người có tội thấp và sai số trong xác định sai người vô tội (như trong trường hợp những người nói dối) cao hơn.</seg>
       </tuv>
     </tu>
     <tu>
