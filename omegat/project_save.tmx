@@ -561,8 +561,8 @@
       <tuv lang="EN-US">
         <seg>A recent review of the possible effectiveness of the polygraph in mock crimes in the laboratory settings was provided by Professor Charles &lt;t0/&gt;Honts&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T071739Z" creationid="ADMIN1" creationdate="20151130T070849Z">
-        <seg>Một đánh giá gần đây về hiệu quả khả quan của máy phát hiện nói dối trong các kịch bản giả định phạm tội thực hiện trong môi trường thí nghiệm đã được Giáo sư Charles đưa ra.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092751Z" creationid="ADMIN1" creationdate="20151130T070849Z">
+        <seg>Một đánh giá gần đây về hiệu quả khả quan của máy phát hiện nói dối trong các kịch bản mô phỏng tội ác thực hiện trong môi trường thí nghiệm đã được Giáo sư Charles đưa ra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,8 +4324,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>He noted for the CQT that once ‘inconclusive’ decisions had been removed from the data set the accuracy rate for ‘guilty’ persons (i.e. liars) was ninety-one per cent and for ‘innocent’ persons eighty-nine per cent.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T074036Z" creationid="ADMIN1" creationdate="20151130T074036Z">
-        <seg>Ông lưu ý với phương pháp CQT rằng nếu loại bỏ các kết luận 'không xác định' khỏi hệ thống dữ liệu thì tỉ lệ chính xác cho người 'có tội' (ví dụ: người nói dối) là 91% và người 'vô tội' là 89%.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092851Z" creationid="ADMIN1" creationdate="20151130T074036Z">
+        <seg>Ông lưu ý với phương pháp CQT rằng nếu loại bỏ các trường hợp 'không xác định' khỏi hệ thống dữ liệu thì tỉ lệ chính xác cho người 'có tội' (ví dụ: người nói dối) là 91% và người 'vô tội' là 89%.</seg>
       </tuv>
     </tu>
     <tu>
