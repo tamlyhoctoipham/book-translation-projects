@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A few field studies have employed the Guilty Knowledge Test (GKT).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T093202Z" creationid="ADMIN1" creationdate="20151130T093202Z">
+        <seg>Một vài nghiên cứu hiện trường áp dụng phương pháp kiểm tra sự nhận biết hành vi phạm tội (GKT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few studies have been published concerning the questioning in court of adult (alleged) victims/witnesses.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151114T123402Z" creationid="ADMIN" creationdate="20151114T123204Z">
@@ -1778,8 +1786,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>Because ground truth is so difficult to determine, relatively few ‘field’ (i.e. ‘real life’) studies of the effectiveness of &lt;t0/&gt;polygraphic&lt;t1/&gt; lie detection have been published.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T075356Z" creationid="ADMIN1" creationdate="20151130T075356Z">
-        <seg>Vì rất khó để xác định các bằng chứng thực địa, nên có tương đối ít các nghiên cứu 'hiện trường' (như 'thực tế') về hiệu quả của máy phát hiện nói dối được đưa ra.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T093044Z" creationid="ADMIN1" creationdate="20151130T075356Z">
+        <seg>Vì rất khó để xác định các bằng chứng thực địa, nên có tương đối ít các nghiên cứu 'hiện trường' (như 'trong thực tế') về hiệu quả của máy phát hiện nói dối được đưa ra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,8 +2587,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>Correct classifications were made in 83 per cent to 89 per cent of the cases, whereas incorrect decisions (classifying a guilty suspect as innocent) were made in 10 per cent to 17 per cent of the cases.’ However, with regard to innocent suspects the report noted that these ‘are less encouraging.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T083408Z" creationid="ADMIN1" creationdate="20151130T082848Z">
-        <seg>Xác định chính xác khoảng 83 tới 89% tổng số vụ, trong khi tỉ lệ kết luận sai (xác định một nghi phạm có tội là vô tội) vào khoảng 10 đến 17% tổng số vụ'. Tuy nhiên, về các nghi phạm vô tội thì báo cáo ghi rằng các trường hợp này 'kém tin cậy hơn.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T093118Z" creationid="ADMIN1" creationdate="20151130T082848Z">
+        <seg>Tỉ lệ xác định chính xác trong khoảng 83 tới 89% tổng số vụ, trong khi tỉ lệ kết luận sai (xác định một nghi phạm có tội là vô tội) vào khoảng 10 đến 17% tổng số vụ'. Tuy nhiên, về các nghi phạm vô tội thì báo cáo ghi rằng các trường hợp này 'kém tin cậy hơn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11398,8 +11406,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The BPS report (2004) noted on page 15 that ‘There is reasonable agreement between the reviews regarding guilty suspects.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T083249Z" creationid="ADMIN1" creationdate="20151130T081934Z">
-        <seg>Báo cáo của BPS (2004) ghi trong trang 15 rằng 'Có  đồng nhất hợp lý giữa các đánh giá liên quan tới các nghi phạm có tội'.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T093054Z" creationid="ADMIN1" creationdate="20151130T081934Z">
+        <seg>Báo cáo của BPS (2004) ghi trong trang 15 rằng 'Có sự đồng nhất hợp lý giữa các đánh giá liên quan tới các nghi phạm có tội'.</seg>
       </tuv>
     </tu>
     <tu>
