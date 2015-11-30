@@ -865,8 +865,8 @@
       <tuv lang="EN-US">
         <seg>Also, innocent people taking a polygraph test would be aware that if reliable information sup- porting their innocence were available, they would not need to take a polygraph test.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T065729Z" creationid="ADMIN1" creationdate="20151130T043547Z">
-        <seg>Cũng bởi người vô tội sẽ nhận ra rằng nếu có các thông tin đáng tin cậy chứng minh cho sự vô tội của họ thì họ đã không phải tham gia kiểm tra phát hiện nói dối.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092504Z" creationid="ADMIN1" creationdate="20151130T043547Z">
+        <seg>Cũng bởi người vô tội sẽ nhận ra rằng nếu tồn tại các thông tin đáng tin cậy chứng minh cho sự vô tội của họ thì họ đã không phải tham gia kiểm tra phát hiện nói dối.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4540,8 +4540,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>However, as we shall see when we overview research studies of the GKT and the CQT, the former does at times seem to fail to correctly classify guilty people.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T065749Z" creationid="ADMIN1" creationdate="20151130T062435Z">
-        <seg>Tuy nhiên, như chúng ta sẽ thấy khi đánh giá chung các nghiên cứu về GKT và CQT, phương pháp đầu tiên đôi khi không phân loại được đúng người có tội. </seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092614Z" creationid="ADMIN1" creationdate="20151130T062435Z">
+        <seg>Tuy nhiên, như chúng ta sẽ thấy khi đánh giá chung các nghiên cứu về GKT và CQT, phương pháp đầu tiên đôi khi không phân loại được đúng người có tội.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -8005,8 +8005,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Most of the published research on the accuracy of use of the polygraph to detect deception has been focused on the criminal setting, but the vast majority of this research has not involved real crimes or real criminals.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T065827Z" creationid="ADMIN1" creationdate="20151130T062926Z">
-        <seg>Hầu hết các nghiên cứu đã công bố về tính chính xác của việc sử dụng máy móc trong điều tra phát hiện nói dối tập trung vào khuôn mẫu tội phạm, mà không bao gồm các tội ác hay tội phạm thực. </seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092618Z" creationid="ADMIN1" creationdate="20151130T062926Z">
+        <seg>Hầu hết các nghiên cứu đã công bố về tính chính xác của việc sử dụng máy móc trong điều tra phát hiện nói dối tập trung vào khuôn mẫu tội phạm, mà không bao gồm các tội ác hay tội phạm thực tế. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10637,8 +10637,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>So long as the alternatives (e.g. the various types of gun) are sufficiently similar to each other so that the ‘correct’ one does not stand out to an innocent suspect and the media or the police have not let slip (to the innocent suspect) what the ‘correct’ alternative is, then the GKT may not suffer as a procedure from as many problems at the CQT.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T062207Z" creationid="ADMIN1" creationdate="20151130T050928Z">
-        <seg>Với điều kiện là các lựa chọn (ví dụ như các loại súng khác nhau) phải gần như tương đồng để đáp án 'chính xác' không quá nổi bật đối với nghi phạm vô tội và truyền thông hay cảnh sát không tiết lộ (cho nghi phạm) đâu là lựa chọn 'chính xác', thì phương pháp GKT có thể không gặp phải nhiều vấn đề như phương pháp CQT.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092559Z" creationid="ADMIN1" creationdate="20151130T050928Z">
+        <seg>Với điều kiện là các lựa chọn (ví dụ như các loại súng khác nhau) phải gần như tương đồng để đáp án 'chính xác' không quá nổi bật đối với nghi phạm vô tội và truyền thông hay cảnh sát không tiết lộ (cho nghi phạm) đâu là lựa chọn 'chính xác', thì phương pháp GKT có thể không gặp phải các trở ngại như phương pháp CQT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11430,8 +11430,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The Control Question Test (CQT) compares reactions to questions about the topic being investigated with reactions to questions that are thought to be arousing and that both guilty and innocent people will lie to.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092338Z" creationid="ADMIN1" creationdate="20151130T042039Z">
-        <seg>Bài kiểm tra khả năng kiểm soát (the Control Question Test - CQT) so sánh phản ứng trước những câu hỏi về các vấn đề đang được điều tra với phản ước trước các câu hỏi được cho là kích thích và cả người vô tội và người có tội đều có xu hướng gian dối.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092546Z" creationid="ADMIN1" creationdate="20151130T042039Z">
+        <seg>Bài kiểm tra khả năng kiểm soát (Control Question Test - CQT) so sánh phản ứng trước những câu hỏi về các vấn đề đang được điều tra với phản ước trước các câu hỏi được cho là kích thích và cả người vô tội và người có tội đều có xu hướng gian dối.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11486,8 +11486,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The Guilty Knowledge Test (GKT) compares reactions to various items, some of which may reveal knowledge of the crime.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T045521Z" creationid="ADMIN1" creationdate="20151130T044926Z">
-        <seg>Bài kiểm tra nhận biết các hành vi phạm tội (the Guilty Knowledge Test - GKT) đánh giá các phản ứng trước nhiều vật phẩm khác nhau, một vài trong số đó có thể tiết lộ hiểu biết về tội ác. </seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092510Z" creationid="ADMIN1" creationdate="20151130T044926Z">
+        <seg>Bài kiểm tra nhận biết các hành vi phạm tội (Guilty Knowledge Test - GKT) đánh giá các phản ứng trước nhiều vật phẩm khác nhau, một vài trong số đó có thể tiết lộ hiểu biết về tội ác. </seg>
       </tuv>
     </tu>
     <tu>
