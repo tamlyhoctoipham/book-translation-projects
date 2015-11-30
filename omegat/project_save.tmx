@@ -7819,6 +7819,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many professional &lt;t0/&gt;polygraphers&lt;t1/&gt; claim that they believe they can detect the use of countermeasures.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T095835Z" creationid="ADMIN1" creationdate="20151130T095634Z">
+        <seg>Rất nhiều chuyên gia về máy phát hiện nói dối cho rằng họ tin họ có thể phát hiện các trường hợp đối phó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many schemes have been set up over the last decade, such as Neighbourhood Warden Schemes, and more recently Police Community Support Officers (PCSOs).</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151028T145922Z" creationid="Jennifer Tran" creationdate="20151028T145902Z">
@@ -8925,8 +8933,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>One reason for this is that guilty people, rather than innocent people, will be motivated to beat the test by the employment of what is referred to as countermeasures.</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T095050Z" creationid="ADMIN1" creationdate="20151130T095050Z">
-        <seg>Một lý do cho việc này là kẻ có tội thường có động cơ để qua mặt bài kiểm tra như một hành động trả đũa.</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T095603Z" creationid="ADMIN1" creationdate="20151130T095050Z">
+        <seg>Một lý do cho việc này là kẻ có tội thường có động cơ để qua mặt bài kiểm tra như một biện pháp đối phó.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17196,8 +17204,8 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       <tuv lang="EN-US">
         <seg>attempting&lt;t0/&gt; to lessen physiological activity (i.e. what the poly- graph measures) in response to relevant questions (CQT) or items (GKT).</seg>
       </tuv>
-      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T095431Z" creationid="ADMIN1" creationdate="20151130T095431Z">
-        <seg>cố gắng làm giảm các phản ứng sinh lý (như nhịp tim) trước các câu hỏi (CQT) hoặc các vật phẩm liên quan tới tội ác (GKT)</seg>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T095750Z" creationid="ADMIN1" creationdate="20151130T095431Z">
+        <seg>cố gắng làm giảm các phản ứng sinh lý (ví dụ như các thông số mà máy phát hiện nói dối tiến hành đo) trước các câu hỏi (CQT) hoặc các vật phẩm liên quan tới tội ác (GKT)</seg>
       </tuv>
     </tu>
     <tu>
