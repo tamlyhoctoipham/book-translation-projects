@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Some new types of polygraph testing which monitor physiological activity without the person being aware of it may be under development.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T124816Z" creationid="ADMIN1" creationdate="20151130T124816Z">
+        <seg>(Có thể người ta đang phát triển các thiết bị phát hiện nói dối thực hiện thao tác phân tích phản ứng sinh lý bí mật mà người bị kiểm tra không biết.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The case linkage work that crime analysts carry out, along with a case study of case linkage in relation to Jack the Ripper, is outlined in much more detail in chapter 2).</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151110T042941Z" creationid="USER" creationdate="20151110T042603Z">
