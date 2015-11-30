@@ -3697,6 +3697,14 @@ Hãy xem xét tình huống sau đây:</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the relevant-irrelevant technique which compares physiological reactions to questions relevant to the crime with those not relevant.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T041453Z" creationid="ADMIN1" creationdate="20151130T041453Z">
+        <seg>Lấy ví dụ, phương pháp có và không so sánh các phản ứng tâm lý trước các câu hỏi liên quan và không liên quan tới tội ác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the transport available to burglars has been found to affect the distance they travelled to commit burglaries.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T045053Z" creationid="Hx" creationdate="20151015T044138Z">
@@ -8623,6 +8631,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151111T122630Z" creationid="USER" creationdate="20151111T122058Z">
         <seg>Một nguồn bằng chứng chính là những người chứng kiến vụ án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the major problems with this technique was that some innocent people (e.g. a loving husband) reacted strongest to relevant questions (e.g. ‘&lt;t0/&gt;Did&lt;t1/&gt; you murder your wife?’).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="ADMIN1" changedate="20151130T041541Z" creationid="ADMIN1" creationdate="20151130T041541Z">
+        <seg>Một trong những rắc rối</seg>
       </tuv>
     </tu>
     <tu>
