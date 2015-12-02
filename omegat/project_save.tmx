@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>(These transcripts are written by humans who listen to tape recordings of people lying and telling the truth.) The software allocates each word spoken to a category (e.g. spatial, affective, &lt;t0/&gt;cognitive&lt;t1/&gt;) that theoretically may relate to lying/truth-telling in a way similar to the reality monitoring approach (see above).</seg>
       </tuv>
-      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T202440Z" creationid="TOSHIBA" creationdate="20151202T202440Z">
-        <seg>(Những phân tích được viết bởi con người &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T202811Z" creationid="TOSHIBA" creationdate="20151202T202440Z">
+        <seg>(Những phân tích được viết bởi con người, những người đã nghe cuộn băng ghi âm người đang nói dối và nói thật.) Phần mềm này phân bố mỗi từ trong lời nói thành một danh mục (ví dụ không gian, tình cảm,&lt;t0/&gt;nhận thức&lt;t1/&gt;) mà về mặt lý thuyết có thể liên quan đến nói dối/nói thật cũng tương tự như phương pháp giám sát thực tế (đã xem trước đó)</seg>
       </tuv>
     </tu>
     <tu>
