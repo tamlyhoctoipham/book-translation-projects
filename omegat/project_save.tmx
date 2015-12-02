@@ -4946,6 +4946,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, at present the software has quite a high error rate (of around twenty per cent – which is not better than trained humans).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T203129Z" creationid="TOSHIBA" creationdate="20151202T203046Z">
+        <seg>Tuy nhiên, cho đến hiện tại phần mềm này vẫn chứa đựng một rủi ro khá cao (khoảng hai mươi phần trăm - không tốt hơn so với những người đã được đào tạo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, clearly there is scope here for citizens to become too involved and become a ‘have-a-go-hero’ (Johnston 1996).</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151101T160415Z" creationid="Jennifer Tran" creationdate="20151101T160415Z">
@@ -8759,6 +8767,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151105T145511Z" creationid="LHC" creationdate="20151011T152555Z">
         <seg>Phần lớn việc nghiên cứu này được thực hiện ở phương Tây: do vậy chúng ta cần phải ghi nhớ điều quan trọng này bởi những kết quả của việc nghiên cứu này có thể sẽ không dễ dàng áp dụng cho các nhà tù ở những nơi khác trên thế giới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, a recent study of prisoners lying and telling the truth about what happened in video clips that they had just seen found that these types of automatic computer-based transcript analyses to have a truth/lie detection rate significantly better than chance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T203123Z" creationid="TOSHIBA" creationdate="20151202T203123Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14024,6 +14040,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151026T232534Z" creationid="LHC" creationdate="20151014T145829Z">
         <seg>Môi trường xã hội giữa các tù nhân có thể được xem như một hệ thống cấp bậc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The software can also allocate the words to linguistic categories such as ‘negative emotions’ and ‘first person singular’ (e.g. I, me, my).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T202918Z" creationid="TOSHIBA" creationdate="20151202T202918Z">
+        <seg>Phần mềm cũng có thể phân phối các từ ngữ theo các danh mục ngôn ngữ học như "cảm xúc tiêu cực" và "từ chỉ cá nhân" (ví dụ: tôi, của tôi).</seg>
       </tuv>
     </tu>
     <tu>
