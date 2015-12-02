@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15301,6 +15301,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This approach to detecting deception is based on the assumption that memories based on experienced events (i.e. external sources) can be differentiated from memories based on imagining, thinking and reasoning (i.e. internal sources).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T103020Z" creationid="TOSHIBA" creationdate="20151202T103020Z">
+        <seg>Phương pháp tiếp cận này có thể phát hiện sự lừa dối dựa trên giả định rằng những ký ức được căn cứ theo các sự kiện </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This approach to profiling has been criticized by advocates of statistical profiling.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151028T145903Z" creationid="Hx" creationdate="20151028T145207Z">
@@ -18646,6 +18654,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151114T123327Z" creationid="ADMIN" creationdate="20151114T123327Z">
         <seg>đặt câu hỏi trên tòa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reality&lt;t0/&gt; monitoring.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T102834Z" creationid="TOSHIBA" creationdate="20151202T102834Z">
+        <seg>Giám sát thực tế.</seg>
       </tuv>
     </tu>
     <tu>
