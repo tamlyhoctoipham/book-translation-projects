@@ -993,8 +993,8 @@
       <tuv lang="EN-US">
         <seg>All of the studies so far published have been experiments con- ducted for research purposes (e.g. people lied/told the truth at the request of the experimenter).</seg>
       </tuv>
-      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T105014Z" creationid="TOSHIBA" creationdate="20151202T105014Z">
-        <seg>Một sự trình bày gần đây về việc phân tích khả năng nói để phát hiện sự lừa dối liên quan đến việc ứng dụng phân tích phần mềm máy tính để viết lên các bảng điểm dựa theo</seg>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T201821Z" creationid="TOSHIBA" creationdate="20151202T105014Z">
+        <seg>Tất cả các nghiên cứu được công bố cho đến nay đã được vận hành thực nghiệm hóa cho nhiều mục đích nghiên cứu (ví dụ: con người nói dối/nói thật theo yêu cầu của thí nghiệm gia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10531,6 +10531,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Real-life field studies are needed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T201854Z" creationid="TOSHIBA" creationdate="20151202T201854Z">
+        <seg>Nghiên cứu hiện thực hóa các lĩnh vực là cần thiết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reasonable doubt is defined as follows: It is not a mere possible doubt; because everything relating to human affairs is open to some possible or imaginary doubt.</seg>
       </tuv>
       <tuv lang="VI" changeid="dinhquy" changedate="20151010T074353Z" creationid="dinhquy" creationdate="20151010T074353Z">
@@ -18318,6 +18326,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T191303Z" creationid="Demon" creationdate="20151024T191303Z">
         <seg>Lệch lạc về nhận thức.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>computer&lt;t0/&gt; analysis.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T201911Z" creationid="TOSHIBA" creationdate="20151202T201911Z">
+        <seg>máy tính&lt;t0/&gt; phân tích.</seg>
       </tuv>
     </tu>
     <tu>
