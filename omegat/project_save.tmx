@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(These transcripts are written by humans who listen to tape recordings of people lying and telling the truth.) The software allocates each word spoken to a category (e.g. spatial, affective, &lt;t0/&gt;cognitive&lt;t1/&gt;) that theoretically may relate to lying/truth-telling in a way similar to the reality monitoring approach (see above).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T202440Z" creationid="TOSHIBA" creationdate="20151202T202440Z">
+        <seg>(Những phân tích được viết bởi con người &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(They appeared to have followed him from a residential building where a suspected bomber was thought to be staying.) Furthermore, the act of following a suspected bomber will have increased police arousal and this increased arousal would have combined with the fear of the (possible) bomb.</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151202T111817Z" creationid="VIP_PC" creationdate="20151202T111817Z">
@@ -651,6 +659,14 @@
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151015T041033Z" creationid="Hx" creationdate="20151015T040848Z">
         <seg>Một kẻ hiếp dâm - người mà sở thích tình dục liên quan tới một hình mẫu nạn nhân cụ thể sẽ sẵn sàng di chuyển xa hơn để tìm kiếm những nạn nhân phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A recent development in the analysis of speech to detect deception involves the use of computer software to analyse written transcripts of what people say.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T202507Z" creationid="TOSHIBA" creationdate="20151202T202303Z">
+        <seg>Một sự trình bày gần đây về việc phân tích khả năng nói để phát hiện sự lừa dối liên quan đến việc ứng dụng phân tích phần mềm máy tính để viết các phân tích mà máy đã phân tích theo những gì mà mọi người nói.</seg>
       </tuv>
     </tu>
     <tu>
