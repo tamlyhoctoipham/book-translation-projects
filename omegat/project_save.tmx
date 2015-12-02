@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A recent study in the USA focused not on direct speech (e.g. one person speaking to another) but on the language used in messages such as e-mails.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T204828Z" creationid="TOSHIBA" creationdate="20151202T204828Z">
+        <seg>Một nghiên cứu gần đây ở Mỹ tập trung không phải ở các lời nói trực tiếp (ví dụ một người nói chuyện với một người khác) mà ở trong ngôn ngữ được sử dụng trong tin các tin nhắn như email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A seminal experiment conducted in Scotland illustrates this well.</seg>
       </tuv>
       <tuv lang="VI" changeid="VIP_PC" changedate="20151104T161711Z" creationid="VIP_PC" creationdate="20151104T161711Z">
