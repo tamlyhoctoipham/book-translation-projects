@@ -879,6 +879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, almost all of the studies have not been of real-life (see this chapter’s later section on the difficulty in real-life studies of establishing the ‘ground’ truth, that is whether a statement actually is true).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T051025Z" creationid="TOSHIBA" creationdate="20151202T051025Z">
+        <seg>Hơn nữa, hầu hết những nghiên cứu này đều chưa được thử nghiệm thực tế (xem phần sau của chương về những khó khăn trong nghiên cứu thực tế hóa từ việc thiết lập thực địa, cũng như vấn đề một lời tường thật có thật đã cung cấp đúng sự thật).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, innocent people taking a polygraph test would be aware that if reliable information sup- porting their innocence were available, they would not need to take a polygraph test.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN1" changedate="20151130T092504Z" creationid="ADMIN1" creationdate="20151130T043547Z">
@@ -11239,6 +11247,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="LHC" changedate="20151026T230217Z" creationid="LHC" creationdate="20151014T143349Z">
         <seg>Một số tác nhân xuất phát từ yếu tố bên ngoài trong khi một số khác lại bắt nguồn từ môi trường bên trong nhà tù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of these studies have analysed statements not of children (for whom the procedure was originally devised) but of adults (whose maturity could allow them purposely to provide some of the criteria in their false statements).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T050808Z" creationid="TOSHIBA" creationdate="20151202T050808Z">
+        <seg>Một vài những nghiên cứu phân tích những báo cáo ấy không phải do những đứa trẻ (đại diện cho các đối tượng mà các phương án ban đầu dựa vào) mà lo bởi những người lớn (những người trưởng thành có thể cho phép chúng cung cấp các lời tường thuật sai sự thật).</seg>
       </tuv>
     </tu>
     <tu>
