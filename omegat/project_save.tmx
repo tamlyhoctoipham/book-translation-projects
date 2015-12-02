@@ -2640,6 +2640,14 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearly, more research is needed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T203512Z" creationid="TOSHIBA" creationdate="20151202T203512Z">
+        <seg>Rõ ràng, ta cần nhiều những nghiên cứu hơn nữa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clearly, policing and security are in great demand.</seg>
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151028T151443Z" creationid="Jennifer Tran" creationdate="20151028T151443Z">
@@ -4918,6 +4926,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Admin" changedate="20151030T135307Z" creationid="Admin" creationdate="20151030T135307Z">
         <seg>Tuy nhiên, Báo cáo của Lord Scarman năm 1981 (sau cuộc bạo loạn ở Brixton) và Báo cáo Macpherson (sau cái chết của Stephen Lawrence, 1993), cả hai thừa nhận không chỉ vấn đề phân biệt chủng tộc và tội phạm bắt nguồn từ phân biệt chủng tộc đang ở khắp nước Anh, mà cũng có những khái niệm về phân biệt chủng tộc có tính chất cơ quan trong chính phạm vi ngành cảnh sát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, a few word categories occurred more frequently in the way opposite to that predicted (e.g. more spatial words while lying).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T203445Z" creationid="TOSHIBA" creationdate="20151202T203445Z">
+        <seg>Dẫu vậy, một vài loại từ ngữ xuất hiện thường xuyên hơn trái với dự đoán (ví dụ: những loại từ không gian khi nói dối).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8773,8 +8789,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Nevertheless, a recent study of prisoners lying and telling the truth about what happened in video clips that they had just seen found that these types of automatic computer-based transcript analyses to have a truth/lie detection rate significantly better than chance.</seg>
       </tuv>
-      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T203123Z" creationid="TOSHIBA" creationdate="20151202T203123Z">
-        <seg>.</seg>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T203344Z" creationid="TOSHIBA" creationdate="20151202T203123Z">
+        <seg>Tuy thế, một nghiên cứu gần đây của các tên tội phạm nói dối và nói thật về chuyện gì đã xảy ra trong đoạn video họ vừa xem đã chỉ ra rằng các loại phân tích tự động dựa vào máy tính có thể phát hiện ra tỉ lệ nói thật/nói dối đạt mức tốt hơn đáng kể so với các khả năng khác.</seg>
       </tuv>
     </tu>
     <tu>
