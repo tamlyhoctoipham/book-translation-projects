@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For more on forensic linguistics see chapter 7.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151205T180559Z" creationid="TOSHIBA" creationdate="20151205T180559Z">
+        <seg>(Để biết nhiều hơn về ngôn ngữ học pháp lý hãy xem chương 7.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For more on the polygraph see chapter 4.)</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151019T151806Z" creationid="Demon" creationdate="20151019T151806Z">
@@ -9691,6 +9699,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One possible way to improve lie detection is to combine the cues that have been found to be better than useless.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151205T180832Z" creationid="TOSHIBA" creationdate="20151205T180832Z">
+        <seg>Một cách tốt để cải thiện khả năng phát hiện nói dối là kết hợp các dấu hiệu đã tìm thấy được hơn là để chúng trở nên vô dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One rather obvious reason is that some (probably a minority) are voluntary – innocent people confess, for example, to gain notoriety or to cover up for a friend.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151031T164841Z" creationid="USER" creationdate="20151021T020832Z">
@@ -18510,6 +18526,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Demon" changedate="20151024T191303Z" creationid="Demon" creationdate="20151024T191303Z">
         <seg>Lệch lạc về nhận thức.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combining&lt;t0/&gt; behavioural and speech cues.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151205T180649Z" creationid="TOSHIBA" creationdate="20151205T180649Z">
+        <seg>Sự liên hợp&lt;t0/&gt; Các dấu hiệu hành vi và lời nói.</seg>
       </tuv>
     </tu>
     <tu>
