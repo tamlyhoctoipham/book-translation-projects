@@ -5242,6 +5242,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, prisoners are individuals, and vary in the stressors they experience and how they try to cope with these.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151205T131349Z" creationid="LHC" creationdate="20151205T131339Z">
+        <seg>Tuy nhiên, tù nhân chính là các cá nhân và nhiều trong các tác nhân họ đã trải qua và làm thế nào họ đương đầu với các tác nhân này....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, recent advances in DNA testing now allow much smaller samples to be tested than was the case even a few years ago.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151020T080039Z" creationid="USER" creationdate="20151020T080039Z">
@@ -13664,6 +13672,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="TranPhuc.envy" changedate="20151116T133107Z" creationid="TranPhuc.envy" creationdate="20151116T132947Z">
         <seg>Mục đích chính của chương trình là nhằm giúp đỡ những người tham gia học hỏi, thực hành và bắt đầu sử dụng một số kỹ năng giải quyết vần đề. Những kỹ năng này sẽ cho phép họ quản lý cuộc sống của mình và xử lý các khó khăn gặp phải theo cách thức phù hợp thay vì thực hiện các hành vi phạm tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The prison environment also seems to limit the means by which prisoners can cope with stress.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="LHC" changedate="20151205T131507Z" creationid="LHC" creationdate="20151205T131507Z">
+        <seg>Môi trường tù ngục cũng đã giới hạn cách mà các tù nhân đương đầu với stress.</seg>
       </tuv>
     </tu>
     <tu>
