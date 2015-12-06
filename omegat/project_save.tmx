@@ -5540,8 +5540,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>However, the report made the good point that inflated levels of disturbance in this population might not be a result of imprisonment.</seg>
       </tuv>
-      <tuv lang="VI" changeid="LHC" changedate="20151205T133422Z" creationid="LHC" creationdate="20151205T133422Z">
-        <seg>Tuy nhiên, báo cáo đã có một điểm khả thi</seg>
+      <tuv lang="VI" changeid="tochi" changedate="20151206T150026Z" creationid="LHC" creationdate="20151205T133422Z">
+        <seg>Tuy nhiên, báo cáo đã có một điểm tốt đẹp rằng các thang đánh giá sự phá rối trong phần dân số này khôngcó thể không là kết quả của việc bị bỏ tù</seg>
       </tuv>
     </tu>
     <tu>
@@ -7430,6 +7430,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151028T160058Z" creationid="Hx" creationdate="20151028T160058Z">
         <seg>Thay vào đó, theo như gợi ý của các nhà tâm lý học tính cách, có nhiều khả năng những suy nghĩ, mục tiêu, cảm xúc và kinh nghiệm đã qua của một người sẽ ảnh hưởng tới hành vi của họ trong một tình huống cụ thể .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, psychological disturbance could have contributed to the types of crimes life-sentence prisoners have committed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="tochi" changedate="20151206T150133Z" creationid="tochi" creationdate="20151206T150133Z">
+        <seg>Thay vào đó, sự phá rối về mặt tâm lý có thể đóng góp vào các loại của tội danh chung thân.</seg>
       </tuv>
     </tu>
     <tu>
