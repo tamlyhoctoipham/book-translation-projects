@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Alternatively, taking up a job in the prison that offers responsibility can help.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="tochi" changedate="20151206T150618Z" creationid="tochi" creationdate="20151206T150618Z">
+        <seg>&lt;t0/&gt;Thay vào đó, bắt đầu một công việc trong thù yêu cầu tinh thần trách nhiệm cũng có ảnh hưởng tốt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Gudjonsson’s&lt;t1/&gt; (2003) book provides details of several such cases.</seg>
       </tuv>
       <tuv lang="VI" changeid="USER" changedate="20151206T033504Z" creationid="USER" creationdate="20151021T015647Z">
@@ -6814,6 +6822,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Lenovo" changedate="20151126T150322Z" creationid="Lenovo" creationdate="20151126T150322Z">
         <seg>Mặc dù vậy, trong vài năm gần đây, 1 tổ chức tên Dừng lại Ngay!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In relation to dealing with uncertainty, Her Majesty’s Inspector of Prisons suggested that lifers require long- term projects to give them a sense of stability.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="tochi" changedate="20151206T150543Z" creationid="tochi" creationdate="20151206T150543Z">
+        <seg>Trong mối quan hệ với việc đối phó vơi sự không chắc chắn, thanh tra nhà tù Her Majesty đề xuất rằng tù khổ sai cần có cảm giác ổn định.</seg>
       </tuv>
     </tu>
     <tu>
