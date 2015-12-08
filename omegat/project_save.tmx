@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10495,6 +10495,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151109T161914Z" creationid="Jennifer Tran" creationdate="20151011T144948Z">
         <seg>Có thể thấy rằng, con người càng có nhiều sợ hãi, họ càng cần nhiều sự bảo vệ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous instruction (CALJIC 2.90).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151208T235500Z" creationid="dinhquy" creationdate="20151208T235500Z">
+        <seg>Hướng dẫn trước</seg>
       </tuv>
     </tu>
     <tu>
