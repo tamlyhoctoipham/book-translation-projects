@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>123).</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151209T011549Z" creationid="dinhquy" creationdate="20151209T011549Z">
-        <seg> </seg>
+      <tuv lang="VI" changeid="Dale Nguyen" changedate="20151209T022116Z" creationid="dinhquy" creationdate="20151209T011549Z">
+        <seg>123). </seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>26).</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151209T004140Z" creationid="dinhquy" creationdate="20151209T004140Z">
-        <seg> </seg>
+      <tuv lang="VI" changeid="Dale Nguyen" changedate="20151209T022138Z" creationid="dinhquy" creationdate="20151209T004140Z">
+        <seg>26). </seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,8 +3195,8 @@ Hãy xem xét tình huống sau đây:</seg>
       <tuv lang="EN-US">
         <seg>DOUBT.</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151208T235952Z" creationid="dinhquy" creationdate="20151208T235952Z">
-        <seg> </seg>
+      <tuv lang="VI" changeid="Dale Nguyen" changedate="20151209T022128Z" creationid="dinhquy" creationdate="20151208T235952Z">
+        <seg>SỰ NGHI NGỜ </seg>
       </tuv>
     </tu>
     <tu>
