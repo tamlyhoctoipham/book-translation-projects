@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>123).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151209T011549Z" creationid="dinhquy" creationdate="20151209T011549Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1989) examined all the published research on the accuracy with which people (in experiments) are able correctly to identify a voice they heard previously.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151105T130731Z" creationid="ADMIN" creationdate="20151105T130213Z">
@@ -11069,8 +11077,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Reformed instruction (CALCRIM 220).</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151012T130610Z" creationid="dinhquy" creationdate="20151012T130610Z">
-        <seg>Cải cách hướng dẫn (CALCRIM 220).</seg>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151209T011638Z" creationid="dinhquy" creationdate="20151012T130610Z">
+        <seg>Hướng dẫn cải cách (CALCRIM 220).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18361,8 +18369,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>When the defendant is asked how he knows that ‘this wasn’t something that she didn’t want to do’ he replies ‘she never said “no”, she never said “stop” and when I was kissing her she was kissing me back’ (Ehrlich, 2003, p.</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151010T025152Z" creationid="dinhquy" creationdate="20151010T025152Z">
-        <seg>Khi bị cáo được hỏi làm thế nào anh ta biết đó là cái gì đó mà cô ấy không muốn, anh ta trả lời cô ấy không bao giờ nói "không" cô ấy không bao giờ nói "dừng lại" và khi tôi hôn cô ta và cô ta cũng hôn tôi.’ (Ehrlich, 2003, p.</seg>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151209T011545Z" creationid="dinhquy" creationdate="20151010T025152Z">
+        <seg>Khi bị cáo được hỏi làm thế nào anh ta biết đó là cái gì đó mà cô ấy không muốn, anh ta trả lời cô ấy không bao giờ nói "không" cô ấy không bao giờ nói "dừng lại" và khi tôi hôn cô ta và cô ta cũng hôn tôi.’ (Ehrlich, 2003, trang 123)</seg>
       </tuv>
     </tu>
     <tu>
