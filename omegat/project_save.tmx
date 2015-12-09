@@ -2466,8 +2466,8 @@ Có một nhóm thanh niên ở bàn kế bên, họ đang cười nói và tran
       <tuv lang="EN-US">
         <seg>CALIFORNIA JUDICIAL CODE INSTRUCTIONS ON REASONABLE.</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151208T235939Z" creationid="dinhquy" creationdate="20151208T235939Z">
-        <seg>Những hướng dẫn luật pháp của California về mối nghi ngờ hợp lý</seg>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151209T000011Z" creationid="dinhquy" creationdate="20151208T235939Z">
+        <seg>NHỮNG HƯỚNG DẪN LUẬT PHÁP CỦA CALIFORNIA VỀ MỐI NGHI NGỜ HỢP LÝ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3157,6 +3157,14 @@ Hãy xem xét tình huống sau đây:</seg>
       </tuv>
       <tuv lang="VI" changeid="MSI" changedate="20151020T043839Z" creationid="MSI" creationdate="20151020T042942Z">
         <seg>Mỗi tuần, ngân hàng quốc gia dữ liệu DNA của Anh có tới 1000 hồ sơ DNA phù hợp. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOUBT.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151208T235952Z" creationid="dinhquy" creationdate="20151208T235952Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -10509,8 +10517,8 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       <tuv lang="EN-US">
         <seg>Previous instruction (CALJIC 2.90).</seg>
       </tuv>
-      <tuv lang="VI" changeid="dinhquy" changedate="20151208T235500Z" creationid="dinhquy" creationdate="20151208T235500Z">
-        <seg>Hướng dẫn trước</seg>
+      <tuv lang="VI" changeid="dinhquy" changedate="20151209T000031Z" creationid="dinhquy" creationdate="20151208T235500Z">
+        <seg>Hướng dẫn trước (CALJIC 2.90).</seg>
       </tuv>
     </tu>
     <tu>
