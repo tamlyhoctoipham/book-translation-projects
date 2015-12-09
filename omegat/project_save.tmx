@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Note that these percentages are not based on humans making lie detection judgements but on counting up the cues, via video analysis, when the people were (i) lying and (ii) telling the truth.) These percent- ages indicate what the maximum possible accuracy rate should be if observers reliably used only the cues found in these studies actually to discriminate between lies and truth or (b) if suitable technology could ever be developed to monitor and quantify these cues.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151209T114220Z" creationid="TOSHIBA" creationdate="20151209T114147Z">
+        <seg>(Ghi chú rằng những tỉ lệ phần trăm trên không căn cứ vào  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Some new types of polygraph testing which monitor physiological activity without the person being aware of it may be under development.)</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN1" changedate="20151130T124816Z" creationid="ADMIN1" creationdate="20151130T124816Z">
