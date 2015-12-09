@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5956,8 +5956,8 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       <tuv lang="EN-US">
         <seg>If one analysed video tapes of people when known to be lying and telling the truth, one could (as described above) discover which cues (at least in those tapes, of those people, in that setting) occurred more (or less) often during the lies than during the truths.</seg>
       </tuv>
-      <tuv lang="VI" changeid="TOSHIBA" changedate="20151205T181226Z" creationid="TOSHIBA" creationdate="20151205T181226Z">
-        <seg>Nếu một phân tích bằng video của mọi người khi họ biết nói dối và nói thật, người ta có thể (như mô tả ở trên) nhận ra các dấu hiệu (ít nhất là trong các đoạn video của những người đó ở trong một bối cảnh) xảy ra nhiều hơn (hoặc ít hơn) thường xuyên trong những lời nói dối hơn là trong những lời nói thật.</seg>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151209T101825Z" creationid="TOSHIBA" creationdate="20151205T181226Z">
+        <seg>Nếu dùng một phân tích bằng video của mọi người khi họ biết khi nào nói dối và nói thật, người ta có thể (như mô tả ở trên) nhận ra các dấu hiệu (ít nhất là trong các đoạn video của những người đó ở trong một bối cảnh nào đó) xảy ra nhiều hơn (hoặc ít hơn) trong những lời nói dối hơn là trong những lời nói thật.</seg>
       </tuv>
     </tu>
     <tu>
