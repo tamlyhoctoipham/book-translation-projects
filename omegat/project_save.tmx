@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>A considerable number of psychological experiments have studied the so-called ‘weapon focus’ effect.</seg>
       </tuv>
-      <tuv lang="VI" changeid="VIP_PC" changedate="20151209T144532Z" creationid="VIP_PC" creationdate="20151209T144532Z">
-        <seg>Một số lượng đáng kể thử nghiệm tâm lý đã cho thấy ảnh hưởng của việc tên là "sự tập trung vũ khí".</seg>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151209T145127Z" creationid="VIP_PC" creationdate="20151209T144532Z">
+        <seg>Một số lượng đáng kể thử nghiệm tâm lý đã cho thấy ảnh hưởng của "sự tập trung vũ khí".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5846,6 +5846,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
       </tuv>
       <tuv lang="VI" changeid="Jennifer Tran" changedate="20151011T142443Z" creationid="Jennifer Tran" creationdate="20151011T142443Z">
         <seg>Tuy nhiên, nhiều năm với hệ thống an ninh thông minh, lượng lớn công việc giấy tờ, sự ra đời của xe hơi và sự gia tăng số lượng các hệ thống chuyên môn (như gian lận, tội phạm Internet, v..v..) đã làm giảm tần suất cảnh sát trên đường phố và hình ảnh cảnh sát trong công chúng .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Human beings are very complex and adaptable and therefore it is really not surprising to find that although something like a weapon or stress/arousal may impair one aspect of our psychological activity it may also enhance other aspects.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151209T145211Z" creationid="VIP_PC" creationdate="20151209T145211Z">
+        <seg>Con người rất phức tạp và dễ dàng thích nghi, vì vậy không có gì bất ngờ khi biết rằng mặc dù những thứ như vũ khí hay mức độ căng thẳng hoặc kích thích có thể làm giảm một khía cạnh trong hoạt động tâm lý của chúng ta, nhưng đồng thời làm tăng những khía cạnh khác.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13248,8 +13256,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>The article was on weapon focus and in its research study some of the witnesses to the (staged) event saw a man get out a gun and some did not.</seg>
       </tuv>
-      <tuv lang="VI" changeid="VIP_PC" changedate="20151209T144626Z" creationid="VIP_PC" creationdate="20151209T144626Z">
-        <seg>Bài báo nói về "sự tập trung vũ khí" và trong các nghiên cứu về nó, một số nhân chứng của sự kiện đã nhìn thấy một người cầm súng trong khi người khác lại không.</seg>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151209T145114Z" creationid="VIP_PC" creationdate="20151209T144626Z">
+        <seg>Bài báo nói về ảnh hưởng của "sự tập trung vũ khí" và trong các nghiên cứu về nó, một số nhân chứng của sự kiện đã nhìn thấy một người cầm súng trong khi người khác lại không.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16899,6 +16907,14 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151103T133732Z" creationid="ADMIN" creationdate="20151017T044806Z">
         <seg>Cách làm này trở thành chuẩn thực hiện cho cảnh sát ở nhiều nước (được luật pháp ở nước Anh và xứ Wales cho phép trong hai mươi năm) và rất được khuyến khích sử dụng ở Mĩ trong Hướng dẫn chung cho luật sư năm 1999 (chúng tôi biết đến điều này nhờ nghiên cứu của các nhà tâm lý học).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This lack of clarity concerning the effects of something (i.e. a weapon) is typical of the many issues that psychology tries to explain.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="VIP_PC" changedate="20151209T145156Z" creationid="VIP_PC" creationdate="20151209T145156Z">
+        <seg>Sự thiếu rõ ràng về những ảnh hưởng của một sự vật (như vũ khí) thường là những vấn đề mà tâm lý học cố gắng lí giải.</seg>
       </tuv>
     </tu>
     <tu>
