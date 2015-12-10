@@ -6026,6 +6026,14 @@ Những nhà ngôn ngữ học pháp lý và tâm lý học pháp y có nhiều 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If police interviews with possible liars are not conducted in a way that results in good samples of speech from the interviewees (see chapter 4), then a combined approach will be able to add little to the much lower detection rates that are typically found from the visual analysis of behaviour.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T041308Z" creationid="TOSHIBA" creationdate="20151210T041308Z">
+        <seg>Nếu các cuộc phỏng vấn giữa cảnh sát với những kẻ nói dối được tiến hành trên một cách nào đó để cho ra một kết quả vào loại tốt của nội dung từ những người được phỏng vấn (xem chương 4), sau đó đưa ra một cách tiếp cận tổ hợp sẽ có thể thêm được chút ít tỉ lệ phát hiện mà thường thấp hơn nhiều so với các phân tích qua thị giác của hành vi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If prisoners feel unable to seek social support from other prisoners and prison officers, schemes such as the Listeners Scheme could therefore be of great importance.</seg>
       </tuv>
       <tuv lang="VI" changeid="tochi" changedate="20151206T110346Z" creationid="tochi" creationdate="20151206T110346Z">
@@ -19872,6 +19880,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="Hx" changedate="20151029T022142Z" creationid="Hx" creationdate="20151029T022142Z">
         <seg>Giải thuyết về tính nhất quán của hành vi phạm tội.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; polygraph.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T041452Z" creationid="TOSHIBA" creationdate="20151210T041444Z">
+        <seg>cái&lt;t0/&gt; máy dò tìm.</seg>
       </tuv>
     </tu>
     <tu>
