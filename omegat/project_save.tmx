@@ -17362,8 +17362,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>This section on polygraphic lie detection tests will focus on the following topics:</seg>
       </tuv>
-      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T045828Z" creationid="TOSHIBA" creationdate="20151210T045828Z">
-        <seg>Tiết đoạn này trong các bài kiểm tra dò tìm sự lừa dối sẽ trở thành trọng tâm trong các mục tiếp theo:</seg>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T045910Z" creationid="TOSHIBA" creationdate="20151210T045828Z">
+        <seg>Tiết đoạn này trong các bài kiểm tra dò tìm sự lừa dối sắp được in ấn sẽ trở thành trọng tâm trong các mục tiếp theo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19604,6 +19604,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>how&lt;t0/&gt; to determine if a testing procedure can be relied upon;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T050100Z" creationid="TOSHIBA" creationdate="20151210T050100Z">
+        <seg>làm cách nào&lt;t0/&gt; để xác định rõ nếu một thủ tục nghiên cứu trước đó có thể được dựa vào;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>identification&lt;t0/&gt; evidence.</seg>
       </tuv>
       <tuv lang="VI" changeid="PhuongThao" changedate="20151029T085904Z" creationid="PhuongThao" creationdate="20151022T085240Z">
@@ -19632,6 +19640,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN" changedate="20151111T104419Z" creationid="ADMIN" creationdate="20151020T041938Z">
         <seg>thẩm vấn nhân chứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>its&lt;t0/&gt; use in criminal investigations;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T050139Z" creationid="TOSHIBA" creationdate="20151210T050139Z">
+        <seg>Nó&lt;t0/&gt; sử dụng trong điều tra những kẻ phạm tội;</seg>
       </tuv>
     </tu>
     <tu>
