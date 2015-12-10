@@ -12709,6 +12709,14 @@ Những nghiên cứu tương tự khác (nhưng sử dụng cây cải thảo) 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such equipment is used in many medical and scientific settings.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T044833Z" creationid="TOSHIBA" creationdate="20151210T044833Z">
+        <seg>Thiết bị trang bị như vậy thường được sử dụng nhiều ở các môi trường y tế và nghiên cứu khoa học.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such equipment, often referred to as ‘voice stress &lt;t2/&gt;analysers&lt;t3/&gt;’, has been used in attempts to detect lying (though few studies on this have been published).</seg>
       </tuv>
       <tuv lang="VI" changeid="ADMIN1" changedate="20151130T114344Z" creationid="ADMIN1" creationdate="20151130T114344Z">
@@ -15496,8 +15504,8 @@ Tức là , mặc dù những chuyên gia trong ngành và những người khô
       <tuv lang="EN-US">
         <seg>These activities are displayed on charts or on computer screens.</seg>
       </tuv>
-      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T044128Z" creationid="TOSHIBA" creationdate="20151210T044128Z">
-        <seg>Những hoạt động này biểu thị trong bảng hay trong màn hình máy tính.</seg>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T044708Z" creationid="TOSHIBA" creationdate="20151210T044128Z">
+        <seg>Những hoạt động này biểu thị trong bảng hoặc trong màn hình máy tính.</seg>
       </tuv>
     </tu>
     <tu>
