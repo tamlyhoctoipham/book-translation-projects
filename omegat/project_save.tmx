@@ -19332,6 +19332,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>can&lt;t0/&gt; a testing procedure be relied upon?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T050306Z" creationid="TOSHIBA" creationdate="20151210T050306Z">
+        <seg>Có thể&lt;t0/&gt; có một bài kiểm tra các thủ tục được dựa vào ngày trước?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>case&lt;t0/&gt; linkage.</seg>
       </tuv>
       <tuv lang="VI" changeid="The sun" changedate="20151102T063956Z" creationid="The sun" creationdate="20151102T062724Z">
@@ -19648,6 +19656,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T050139Z" creationid="TOSHIBA" creationdate="20151210T050139Z">
         <seg>Nó&lt;t0/&gt; sử dụng trong điều tra những kẻ phạm tội;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>its&lt;t0/&gt; use in security screening.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T050224Z" creationid="TOSHIBA" creationdate="20151210T050224Z">
+        <seg>Nó&lt;t0/&gt;sử dụng trong việc kiểm tra an ninh.</seg>
       </tuv>
     </tu>
     <tu>
