@@ -20210,6 +20210,22 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
         <seg>Dừng lại &lt;t0/&gt;Ngay&lt;t1/&gt;!</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘inter-examiner’ reliability which focuses on whether different testers make similar judgements to each other when assessing the same person</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151210T133930Z" creationid="nguye" creationdate="20151210T133930Z">
+        <seg>‘inter-examiner’ reliability tập trung vào việc những người kiểm tra khác nhau có những kết luận giống nhau khi cùng đánh giá một người </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘test-retest’ reliability which focuses on whether when re-tested a person receives a similar judgement as when first tested</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151210T134006Z" creationid="nguye" creationdate="20151210T134006Z">
+        <seg>‘test-retest’ reliability dựa vào việc khi được kiểm tra lại một người có nhận được sự đánh giá giống như lần đầu kiểm tra hay không</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
