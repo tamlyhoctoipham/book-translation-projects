@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>(Note that these percentages are not based on humans making lie detection judgements but on counting up the cues, via video analysis, when the people were (i) lying and (ii) telling the truth.) These percent- ages indicate what the maximum possible accuracy rate should be if observers reliably used only the cues found in these studies actually to discriminate between lies and truth or (b) if suitable technology could ever be developed to monitor and quantify these cues.</seg>
       </tuv>
-      <tuv lang="VI" changeid="TOSHIBA" changedate="20151209T114220Z" creationid="TOSHIBA" creationdate="20151209T114147Z">
-        <seg>(Ghi chú rằng những tỉ lệ phần trăm trên không căn cứ vào  </seg>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T040030Z" creationid="TOSHIBA" creationdate="20151209T114147Z">
+        <seg>(Ghi chú rằng những tỉ lệ phần trăm này không căn cứ vào hành động con người phán đoán phát hiện lời nói dối nhưng tính toán được các hành vi qua phân tích các video khi con người nói dối và nói thật.)  </seg>
       </tuv>
     </tu>
     <tu>
@@ -9431,6 +9431,14 @@ Rõ ràng là anh ta đang nói những điều anh ta đã từng nói rất nh
       </tuv>
       <tuv lang="VI" changeid="ADMIN1" changedate="20151201T010309Z" creationid="ADMIN1" creationdate="20151130T064419Z">
         <seg>Tất nhiên, nếu có được các bằng chứng xác thực thì đã chẳng cần tới một bài kiểm tra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, other people (or the same people) in other situations might show different cues to lying.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="TOSHIBA" changedate="20151210T040146Z" creationid="TOSHIBA" creationdate="20151210T040115Z">
+        <seg>Đương nhiên rằng những người khác (hoặc những người giống nhau) trong các tình huống khác có thể biểu thị các hành vi khác nhau khi nói dối. </seg>
       </tuv>
     </tu>
     <tu>
