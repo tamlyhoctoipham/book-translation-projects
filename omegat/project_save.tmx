@@ -19452,6 +19452,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>construct&lt;t0/&gt; validity concerns the relationship of the test to underlying theories/constructs concerning the phenomenon.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151213T020421Z" creationid="nguye" creationdate="20151213T020421Z">
+        <seg>Tính hiệu lực cấu trúc đề cập tới mối quan hệ của bài kiểm tra tới giả thiết/cấu trúc liên quan tới hiện tượng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>content&lt;t0/&gt; validity is concerned with the relationship of the con- tents of the test to the phenomenon being assessed.</seg>
       </tuv>
       <tuv lang="VI" changeid="nguye" changedate="20151213T020224Z" creationid="nguye" creationdate="20151213T020224Z">
@@ -19496,6 +19504,14 @@ Bạn đang được đọc cho những quyền lợi của bạn đấy.</seg>
       </tuv>
       <tuv lang="VI" changeid="TOSHIBA" changedate="20151202T034414Z" creationid="TOSHIBA" creationdate="20151202T034414Z">
         <seg>Căn cứ theo tiêu chí&lt;t0/&gt;phân tích nội dung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>criterion&lt;t0/&gt; validity is the extent to which scores on the test actu- ally predict outcomes (e.g. how accurate the procedure is at classifying people as lying or truth-telling).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="nguye" changedate="20151213T020525Z" creationid="nguye" creationdate="20151213T020525Z">
+        <seg>Tính hiệu lực tiêu chí là mức độ mà điểm của bài kiểm tra thực sự dự đoán kết quả ( ví dụ : độ chính xác của quá trình phân loại người nói dối hay nói thật)</seg>
       </tuv>
     </tu>
     <tu>
